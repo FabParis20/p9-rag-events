@@ -3,4 +3,19 @@ __pycache__/
 *.pyc
 .env
 venv/
+.venv/
 .DS_Store
+
+# Debug files
+debug_voyage.py
+
+# Fichiers binaires Faiss
+*.bin
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp

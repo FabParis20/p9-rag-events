@@ -1,0 +1,85 @@
+{
+  "total_count": 5,
+  "results": [
+    {
+      "uid": "dummy_001",
+      "title_fr": "Concert de Jazz au Sunset",
+      "description_fr": "Soirée jazz avec le quartet de Marie Dubois. Découvrez des standards revisités et des compositions originales dans une ambiance intimiste.",
+      "location_city": "Paris",
+      "location_name": "Le Sunset",
+      "location_address": "60 rue des Lombards",
+      "location_coordinates": {
+        "lon": 2.348,
+        "lat": 48.859
+      },
+      "firstdate_begin": "2025-10-15T20:00:00+00:00",
+      "lastdate_begin": "2025-10-15T20:00:00+00:00",
+      "image": "https://example.com/jazz.jpg",
+      "keywords_fr": "musique, jazz, concert"
+    },
+    {
+      "uid": "dummy_002",
+      "title_fr": "Exposition Picasso - Période bleue",
+      "description_fr": "Exposition temporaire consacrée à la période bleue de Picasso. Plus de 50 œuvres rares présentées pour la première fois à Paris.",
+      "location_city": "Paris",
+      "location_name": "Musée d'Orsay",
+      "location_address": "1 rue de la Légion d'Honneur",
+      "location_coordinates": {
+        "lon": 2.326,
+        "lat": 48.860
+      },
+      "firstdate_begin": "2025-09-25T10:00:00+00:00",
+      "lastdate_begin": "2025-12-20T10:00:00+00:00",
+      "image": "https://example.com/picasso.jpg",
+      "keywords_fr": "art, peinture, exposition, musée"
+    },
+    {
+      "uid": "dummy_003",
+      "title_fr": "Atelier cuisine végétarienne",
+      "description_fr": "Apprenez à cuisiner des plats végétariens savoureux et équilibrés. Atelier pratique de 3h avec dégustation.",
+      "location_city": "Paris",
+      "location_name": "Cook & Go",
+      "location_address": "45 rue du Faubourg Saint-Antoine",
+      "location_coordinates": {
+        "lon": 2.371,
+        "lat": 48.852
+      },
+      "firstdate_begin": "2025-11-08T14:00:00+00:00",
+      "lastdate_begin": "2025-11-08T14:00:00+00:00",
+      "image": "https://example.com/cooking.jpg",
+      "keywords_fr": "cuisine, atelier, végétarien, gastronomie"
+    },
+    {
+      "uid": "dummy_004",
+      "title_fr": "Festival Cinéma Européen",
+      "description_fr": "Projection de films européens primés. Programme varié avec des rencontres avec les réalisateurs.",
+      "location_city": "Paris",
+      "location_name": "Forum des Images",
+      "location_address": "2 rue du Cinéma",
+      "location_coordinates": {
+        "lon": 2.341,
+        "lat": 48.861
+      },
+      "firstdate_begin": "2025-10-01T18:00:00+00:00",
+      "lastdate_begin": "2025-10-05T18:00:00+00:00",
+      "image": "https://example.com/cinema.jpg",
+      "keywords_fr": "cinéma, festival, film, culture"
+    },
+    {
+      "uid": "dummy_005",
+      "title_fr": "Conférence sur l'Intelligence Artificielle",
+      "description_fr": "Conférence grand public sur les enjeux de l'IA. Intervenants : chercheurs du CNRS et entrepreneurs tech.",
+      "location_city": "Paris",
+      "location_name": "Station F",
+      "location_address": "5 parvis Alan Turing",
+      "location_coordinates": {
+        "lon": 2.371,
+        "lat": 48.832
+      },
+      "firstdate_begin": "2025-11-20T19:00:00+00:00",
+      "lastdate_begin": "2025-11-20T19:00:00+00:00",
+      "image": "https://example.com/ai.jpg",
+      "keywords_fr": "technologie, intelligence artificielle, conférence, numérique"
+    }
+  ]
+}
