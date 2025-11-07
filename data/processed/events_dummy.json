@@ -1,5 +1,5 @@
 {
-  "total_count": 5,
+  "total_count": 15,
   "results": [
     {
       "uid": "dummy_001",
@@ -80,6 +80,166 @@
       "lastdate_begin": "2025-11-20T19:00:00+00:00",
       "image": "https://example.com/ai.jpg",
       "keywords_fr": "technologie, intelligence artificielle, conférence, numérique"
+    },
+    {
+      "uid": "dummy_006",
+      "title_fr": "Théâtre : Les Justes de Camus",
+      "description_fr": "Mise en scène contemporaine de la pièce d'Albert Camus. Une réflexion sur la violence politique et la responsabilité individuelle.",
+      "location_city": "Paris",
+      "location_name": "Théâtre de l'Odéon",
+      "location_address": "Place de l'Odéon",
+      "location_coordinates": {
+        "lon": 2.339,
+        "lat": 48.850
+      },
+      "firstdate_begin": "2025-10-20T20:30:00+00:00",
+      "lastdate_begin": "2025-11-15T20:30:00+00:00",
+      "image": "https://example.com/theatre.jpg",
+      "keywords_fr": "théâtre, pièce, spectacle, culture"
+    },
+    {
+      "uid": "dummy_007",
+      "title_fr": "Ballet Casse-Noisette",
+      "description_fr": "Spectacle de danse classique par le Ballet de l'Opéra de Paris. Chorégraphie de Rudolf Noureev sur la musique de Tchaïkovski.",
+      "location_city": "Paris",
+      "location_name": "Palais Garnier",
+      "location_address": "Place de l'Opéra",
+      "location_coordinates": {
+        "lon": 2.332,
+        "lat": 48.872
+      },
+      "firstdate_begin": "2025-12-10T19:30:00+00:00",
+      "lastdate_begin": "2025-12-30T19:30:00+00:00",
+      "image": "https://example.com/ballet.jpg",
+      "keywords_fr": "danse, ballet, spectacle, classique"
+    },
+    {
+      "uid": "dummy_008",
+      "title_fr": "Marché de Noël artisanal",
+      "description_fr": "Marché de créateurs parisiens avec produits artisanaux, décorations fait-main, bijoux et gastronomie. Ambiance festive garantie.",
+      "location_city": "Paris",
+      "location_name": "Esplanade de l'Hôtel de Ville",
+      "location_address": "Place de l'Hôtel de Ville",
+      "location_coordinates": {
+        "lon": 2.352,
+        "lat": 48.857
+      },
+      "firstdate_begin": "2025-12-01T10:00:00+00:00",
+      "lastdate_begin": "2025-12-24T10:00:00+00:00",
+      "image": "https://example.com/marche.jpg",
+      "keywords_fr": "marché, artisanat, noël, créateurs"
+    },
+    {
+      "uid": "dummy_009",
+      "title_fr": "Yoga au lever du soleil",
+      "description_fr": "Séance de yoga en plein air avec vue sur la Seine. Tous niveaux bienvenus. Apportez votre tapis.",
+      "location_city": "Paris",
+      "location_name": "Parc de Bercy",
+      "location_address": "128 quai de Bercy",
+      "location_coordinates": {
+        "lon": 2.383,
+        "lat": 48.837
+      },
+      "firstdate_begin": "2025-09-28T07:00:00+00:00",
+      "lastdate_begin": "2025-09-28T07:00:00+00:00",
+      "image": "https://example.com/yoga.jpg",
+      "keywords_fr": "yoga, sport, bien-être, détente"
+    },
+    {
+      "uid": "dummy_010",
+      "title_fr": "Concert de musique baroque",
+      "description_fr": "Ensemble Les Talens Lyriques interprète Vivaldi et Bach. Concert à la bougie dans une église historique.",
+      "location_city": "Paris",
+      "location_name": "Église Saint-Germain-des-Prés",
+      "location_address": "3 place Saint-Germain-des-Prés",
+      "location_coordinates": {
+        "lon": 2.334,
+        "lat": 48.854
+      },
+      "firstdate_begin": "2025-11-12T20:00:00+00:00",
+      "lastdate_begin": "2025-11-12T20:00:00+00:00",
+      "image": "https://example.com/baroque.jpg",
+      "keywords_fr": "musique, classique, concert, baroque"
+    },
+    {
+      "uid": "dummy_011",
+      "title_fr": "Visite guidée : Le Paris médiéval",
+      "description_fr": "Découvrez le Marais et l'île de la Cité à travers leurs vestiges médiévaux. Guide historien passionné.",
+      "location_city": "Paris",
+      "location_name": "Départ : Notre-Dame",
+      "location_address": "6 Parvis Notre-Dame",
+      "location_coordinates": {
+        "lon": 2.350,
+        "lat": 48.853
+      },
+      "firstdate_begin": "2025-10-18T14:30:00+00:00",
+      "lastdate_begin": "2025-10-18T14:30:00+00:00",
+      "image": "https://example.com/visite.jpg",
+      "keywords_fr": "visite, histoire, patrimoine, culture"
+    },
+    {
+      "uid": "dummy_012",
+      "title_fr": "Stand-up comedy : Soirée impro",
+      "description_fr": "Les meilleurs humoristes parisiens se succèdent sur scène. Improvisations et sketches inédits garantis.",
+      "location_city": "Paris",
+      "location_name": "Le Point Virgule",
+      "location_address": "7 rue Sainte-Croix de la Bretonnerie",
+      "location_coordinates": {
+        "lon": 2.355,
+        "lat": 48.858
+      },
+      "firstdate_begin": "2025-11-05T21:00:00+00:00",
+      "lastdate_begin": "2025-11-05T21:00:00+00:00",
+      "image": "https://example.com/standup.jpg",
+      "keywords_fr": "humour, stand-up, spectacle, comédie"
+    },
+    {
+      "uid": "dummy_013",
+      "title_fr": "Opéra : La Traviata",
+      "description_fr": "L'opéra légendaire de Verdi dans une mise en scène moderne. Distribution internationale de renom.",
+      "location_city": "Paris",
+      "location_name": "Opéra Bastille",
+      "location_address": "Place de la Bastille",
+      "location_coordinates": {
+        "lon": 2.370,
+        "lat": 48.853
+      },
+      "firstdate_begin": "2025-11-25T19:30:00+00:00",
+      "lastdate_begin": "2025-12-15T19:30:00+00:00",
+      "image": "https://example.com/opera.jpg",
+      "keywords_fr": "opéra, musique, chant, spectacle"
+    },
+    {
+      "uid": "dummy_014",
+      "title_fr": "Festival Street Art Belleville",
+      "description_fr": "Parcours urbain avec fresques murales en direct, performances artistiques et rencontres avec les artistes.",
+      "location_city": "Paris",
+      "location_name": "Quartier de Belleville",
+      "location_address": "Rue de Belleville",
+      "location_coordinates": {
+        "lon": 2.385,
+        "lat": 48.872
+      },
+      "firstdate_begin": "2025-10-10T12:00:00+00:00",
+      "lastdate_begin": "2025-10-12T12:00:00+00:00",
+      "image": "https://example.com/streetart.jpg",
+      "keywords_fr": "art urbain, street art, festival, culture"
+    },
+    {
+      "uid": "dummy_015",
+      "title_fr": "Rencontre littéraire avec Annie Ernaux",
+      "description_fr": "L'écrivaine Prix Nobel de littérature présente son dernier ouvrage. Lecture et séance de dédicaces.",
+      "location_city": "Paris",
+      "location_name": "Shakespeare and Company",
+      "location_address": "37 rue de la Bûcherie",
+      "location_coordinates": {
+        "lon": 2.347,
+        "lat": 48.852
+      },
+      "firstdate_begin": "2025-11-18T18:30:00+00:00",
+      "lastdate_begin": "2025-11-18T18:30:00+00:00",
+      "image": "https://example.com/litterature.jpg",
+      "keywords_fr": "littérature, livre, rencontre, lecture"
     }
   ]
 }
