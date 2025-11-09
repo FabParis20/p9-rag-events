@@ -7,8 +7,8 @@ MVP4 : Chargera depuis events_real.json (même code)
 import json
 from pathlib import Path
 
-
-def load_events(source="dummy"):
+# def load_events(source="dummy"):
+def load_events(source="real"):
     """
     Charge les événements depuis le fichier JSON.
     

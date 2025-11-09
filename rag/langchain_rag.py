@@ -168,7 +168,7 @@ class PulsEventsRAG:
             raise FileNotFoundError(f"Textes non trouvés : {texts_path}")
         
         # Chargement des textes
-        with open(texts_path) as f:
+        with open(texts_path, encoding='utf-8') as f:
             texts = json.load(f)
         
         print(f"   📄 {len(texts)} événements chargés")
@@ -286,7 +286,7 @@ Si l'utilisateur fait référence à une conversation précédente, prends en co
 # FONCTIONS UTILITAIRES
 # ============================================================
 
-def create_vectorstore(source: str = "dummy", save_dir: str = "data/processed"):
+def create_vectorstore(source: str = "real", save_dir: str = "data/processed"):
     """
     Crée un nouveau vector store à partir des événements.
     

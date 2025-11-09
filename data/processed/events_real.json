@@ -1,0 +1,941 @@
+{
+  "total_count": 50,
+  "results": [
+    {
+      "uid": "90328688",
+      "title_fr": "LES SOULIERS ROUGES",
+      "description_fr": "Le conte musical LES SOULIERS ROUGES, crée par Fabrice Aboulker et Marc Lavoine, à la Salle Pleyel et en tournée dans toute la France pour la première fois en 2024",
+      "location_city": "Paris",
+      "location_name": "Salle Pleyel",
+      "location_address": "252 rue du Faubourg Saint Honoré 75008 PARIS",
+      "location_coordinates": {
+        "lon": 2.301002,
+        "lat": 48.876943
+      },
+      "firstdate_begin": "2024-02-09T19:00:00+00:00",
+      "lastdate_begin": "2024-02-11T13:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/13c4cd006596478e9c2c212ef7a5780b.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "68083213",
+      "title_fr": "Papyrus Bleu - Disco Mobile",
+      "description_fr": "Fête de la musique 2024",
+      "location_city": "Paris",
+      "location_name": "la plage",
+      "location_address": "41 Quai de l'Oise 75019 Paris",
+      "location_coordinates": {
+        "lon": 2.385391,
+        "lat": 48.892492
+      },
+      "firstdate_begin": "2024-06-21T16:00:00+00:00",
+      "lastdate_begin": "2024-06-21T16:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/6b0ff2347b264b6c96744e0254d328c1.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "72672442",
+      "title_fr": "Concours de strips",
+      "description_fr": "Concours de strips, ouvert à tous, du 4 février au 31 mars",
+      "location_city": "Paris",
+      "location_name": "Bibliothèque Rainer Maria Rilke",
+      "location_address": "88 ter boulevard de Port Royal 75005 Paris",
+      "location_coordinates": {
+        "lon": 2.350586,
+        "lat": 48.836936
+      },
+      "firstdate_begin": "2020-02-04T12:00:00+00:00",
+      "lastdate_begin": "2020-03-31T11:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/7e4977081b3746c7aa64cfd851b1d2ab.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "9532743",
+      "title_fr": "Assemblée générale en visioconférence de France Digitale",
+      "description_fr": "Cédric O",
+      "location_city": "Paris",
+      "location_name": "Bercy",
+      "location_address": "139 rue de Bercy",
+      "location_coordinates": {
+        "lon": 2.37799,
+        "lat": 48.841023
+      },
+      "firstdate_begin": "2020-06-18T16:30:00+00:00",
+      "lastdate_begin": "2020-06-18T16:30:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "78471950",
+      "title_fr": "Premier anniversaire de la signature de la première « Charte d’engagements pour une représentation mixte des jouets »",
+      "description_fr": "Agnès Pannier-Runacher",
+      "location_city": "Paris",
+      "location_name": "Bercy",
+      "location_address": "139 rue de Bercy",
+      "location_coordinates": {
+        "lon": 2.37799,
+        "lat": 48.841023
+      },
+      "firstdate_begin": "2020-09-24T08:30:00+00:00",
+      "lastdate_begin": "2020-09-24T08:30:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "49639334",
+      "title_fr": "Entretien téléphonique avec Hervé Becam, vice-président confédéral de l’Union des métiers et des industries de l’hôtellerie (UMIH)",
+      "description_fr": "Bruno Le Maire",
+      "location_city": "Paris",
+      "location_name": "Bercy",
+      "location_address": "139 rue de Bercy",
+      "location_coordinates": {
+        "lon": 2.37799,
+        "lat": 48.841023
+      },
+      "firstdate_begin": "2020-10-15T09:45:00+00:00",
+      "lastdate_begin": "2020-10-15T09:45:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "99909457",
+      "title_fr": "Entretien téléphonique avec Arsen Avakov, ministre de l’Intérieur d’Ukraine",
+      "description_fr": "Bruno Le Maire",
+      "location_city": "Paris",
+      "location_name": "Bercy",
+      "location_address": "139 rue de Bercy",
+      "location_coordinates": {
+        "lon": 2.37799,
+        "lat": 48.841023
+      },
+      "firstdate_begin": "2021-03-18T13:00:00+00:00",
+      "lastdate_begin": "2021-03-18T13:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "5537318",
+      "title_fr": "Vote Budget participatif",
+      "description_fr": "Informations sur les Urnes",
+      "location_city": "Paris",
+      "location_name": "Rosa Parks",
+      "location_address": "Boulevard Macdonald 75019",
+      "location_coordinates": {
+        "lon": 2.387924,
+        "lat": 48.897801
+      },
+      "firstdate_begin": "2018-09-15T11:00:00+00:00",
+      "lastdate_begin": "2018-09-15T11:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "40100614",
+      "title_fr": "CONCERT / YAEL MILLER",
+      "description_fr": "CONCERT / YAEL MILLER",
+      "location_city": "Paris",
+      "location_name": "Cité internationale des arts",
+      "location_address": "18, rue de l'Hôtel de ville, 75004",
+      "location_coordinates": {
+        "lon": 2.357214,
+        "lat": 48.853958
+      },
+      "firstdate_begin": "2019-02-25T18:30:00+00:00",
+      "lastdate_begin": "2019-02-25T18:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_concert-yael-miller_564207.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "56187847",
+      "title_fr": "[ANNULÉ] Visite-conférence du théâtre de la Comédie-Française",
+      "description_fr": "La visite de la Comédie-Française propose d'aborder l'histoire de cette institution.",
+      "location_city": "Paris",
+      "location_name": "Théâtre de la Comédie-Française",
+      "location_address": "1 place Colette, Paris 1er, 75001, Ile-de-France",
+      "location_coordinates": {
+        "lon": 2.33597,
+        "lat": 48.8633
+      },
+      "firstdate_begin": "2016-09-17T07:30:00+00:00",
+      "lastdate_begin": "2016-09-18T07:30:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "95227440",
+      "title_fr": "Débat concernant la vente des armes et la responsabilité du Gouvernement français",
+      "description_fr": "Nous organisons un débat le mercredi 4 mai à 22h à la nuit debout",
+      "location_city": "Paris",
+      "location_name": "Place de la République, Paris",
+      "location_address": "Place de la République, Paris",
+      "location_coordinates": {
+        "lon": 2.363464,
+        "lat": 48.867298
+      },
+      "firstdate_begin": "2016-05-02T10:00:00+00:00",
+      "lastdate_begin": "2016-05-28T08:00:00+00:00",
+      "image": null,
+      "keywords_fr": [
+        "Armes",
+        "Migrants",
+        "Responsabilité",
+        "Constitution",
+        "Economie",
+        "Transparence",
+        "Conséquences"
+      ]
+    },
+    {
+      "uid": "41792334",
+      "title_fr": "Manif intersyndicale Education nationale",
+      "description_fr": "Contre l'imposition de la réforme des collèges et ...",
+      "location_city": "Paris",
+      "location_name": "Arrivée probable vers le ministère de l'éducation nationale",
+      "location_address": "110 rue de Grenelle 75007",
+      "location_coordinates": {
+        "lon": 2.320824,
+        "lat": 48.856618
+      },
+      "firstdate_begin": "2016-09-08T12:00:00+00:00",
+      "lastdate_begin": "2016-09-08T12:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "40019843",
+      "title_fr": "Concert : Lafayette Anticipations x Oddity Radio",
+      "description_fr": "Fête de la musique 2022",
+      "location_city": "Paris",
+      "location_name": "Lafayette Anticipations",
+      "location_address": "9 rue du Plâtre 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.354768,
+        "lat": 48.858978
+      },
+      "firstdate_begin": "2022-06-21T14:00:00+00:00",
+      "lastdate_begin": "2022-06-21T14:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/463da68efff042b48b15af07df3804d8.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "36247500",
+      "title_fr": "Ensemble Dialogos : Swithun - Oratoire du Louvre",
+      "description_fr": "Les Concerts Parisiens",
+      "location_city": "Paris",
+      "location_name": "Oratoire du Louvre",
+      "location_address": "145 Rue Saint-Honoré, 75001 Paris",
+      "location_coordinates": {
+        "lon": 2.336392,
+        "lat": 48.86294
+      },
+      "firstdate_begin": "2021-10-08T18:30:00+00:00",
+      "lastdate_begin": "2021-10-08T18:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/3d167798004b4feca50dabb26ee56193.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "21252258",
+      "title_fr": "Une forme brève",
+      "description_fr": "Solo de et par Rémy Héritier",
+      "location_city": "Paris",
+      "location_name": "Atelier de Paris / CDCN",
+      "location_address": "2 route du champ de manœuvre 75012 Paris",
+      "location_coordinates": {
+        "lon": 2.449257,
+        "lat": 48.834684
+      },
+      "firstdate_begin": "2022-02-04T19:30:00+00:00",
+      "lastdate_begin": "2022-02-04T19:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/c6df4ab0290d4385912dd618c10cc10a.base.image.jpg",
+      "keywords_fr": [
+        "danse",
+        "fantôme",
+        "scultpure",
+        "musique contemporaine"
+      ]
+    },
+    {
+      "uid": "75581174",
+      "title_fr": "Programme hebdomadaire du Cinéma Le Mèlies",
+      "description_fr": "Du 13 au 19 septembre 2017",
+      "location_city": "Paris",
+      "location_name": "Cinéma Le Méliès",
+      "location_address": "De chez vous",
+      "location_coordinates": {
+        "lon": 2.33987,
+        "lat": 48.877666
+      },
+      "firstdate_begin": "2017-09-13T12:00:00+00:00",
+      "lastdate_begin": "2017-09-19T12:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_programme-hebdomadaire-du-cinema-le-melies_142745.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "9238893",
+      "title_fr": "Douceurs gourmandes",
+      "description_fr": "Autour du nougat de Montélimar, du Suisse de Valence et du chocolat avec Valrhona, la maison Nivon, artisan boulanger-pâtissier et le syndicat du nougat",
+      "location_city": "Paris",
+      "location_name": "Parc des Expositions",
+      "location_address": "Porte de Versailles, Paris",
+      "location_coordinates": {
+        "lon": 2.288375,
+        "lat": 48.832436
+      },
+      "firstdate_begin": "2017-03-03T09:00:00+00:00",
+      "lastdate_begin": "2017-03-03T09:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_douceurs-gourmandes_110494.jpg",
+      "keywords_fr": [
+        "nougat",
+        "chocolat",
+        "suisse",
+        "dégustations"
+      ]
+    },
+    {
+      "uid": "5236237",
+      "title_fr": "Femmixité 2018",
+      "description_fr": "Festival ouvert à tou-te-s",
+      "location_city": "Paris",
+      "location_name": "FGO  Barbara",
+      "location_address": "1 rue Fleury 75018 Paris",
+      "location_coordinates": {
+        "lon": 2.354044,
+        "lat": 48.884298
+      },
+      "firstdate_begin": "2018-03-24T13:00:00+00:00",
+      "lastdate_begin": "2018-03-24T13:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_femmixite-2018_625370.jpg",
+      "keywords_fr": [
+        "festival",
+        "theatre",
+        "performance",
+        "femmes",
+        "feministe",
+        "débat",
+        "rencontres",
+        "paris"
+      ]
+    },
+    {
+      "uid": "39887170",
+      "title_fr": "BANIA / DIWANE D'ALGERIE",
+      "description_fr": "Gnawa",
+      "location_city": "Paris",
+      "location_name": "Olympic Café",
+      "location_address": "Rue Léon, 75018 Paris, France",
+      "location_coordinates": {
+        "lon": 2.353605,
+        "lat": 48.888956
+      },
+      "firstdate_begin": "2014-12-11T19:00:00+00:00",
+      "lastdate_begin": "2014-12-11T19:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_bania-diwane-d-algerie_583301.jpg",
+      "keywords_fr": [
+        "Olympic",
+        "Concert"
+      ]
+    },
+    {
+      "uid": "8398153",
+      "title_fr": "«Femmes francophones, Femmes résilientes»",
+      "description_fr": "La Journée internationale de la Francophonie en virtuel depuis le siège de l'OIF",
+      "location_city": "Paris",
+      "location_name": "Siège de l'OIF",
+      "location_address": "19-21 avenue Bosquet, Paris",
+      "location_coordinates": {
+        "lon": 2.302928,
+        "lat": 48.860004
+      },
+      "firstdate_begin": "2021-03-20T08:00:00+00:00",
+      "lastdate_begin": "2021-03-20T08:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/ecd40896c1724902b9c1389b7c12cac5.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "44429761",
+      "title_fr": "CUCURBITACEES",
+      "description_fr": "Spectacle des Compagnie V.B et Compagnie Rêve Mobile",
+      "location_city": "Paris",
+      "location_name": "La Loge",
+      "location_address": "77 rue de Charonne 75011 PARIS",
+      "location_coordinates": {
+        "lon": 2.381538,
+        "lat": 48.853825
+      },
+      "firstdate_begin": "2015-03-10T18:00:00+00:00",
+      "lastdate_begin": "2015-03-13T18:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_cucurbitacees_381307.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "29509581",
+      "title_fr": "DJ PROSPER + GUEST : OLD SKOOL NEMO",
+      "description_fr": "DJ SET  RETRO FUTURISTE ROCK FUNK ELECTRO HIP HOP HOUSE",
+      "location_city": "Paris",
+      "location_name": "L'Alimentation Générale",
+      "location_address": "64 Rue Jean-Pierre Timbaud, 75011 Paris, France",
+      "location_coordinates": {
+        "lon": 2.375144,
+        "lat": 48.867544
+      },
+      "firstdate_begin": "2015-12-19T22:00:00+00:00",
+      "lastdate_begin": "2015-12-19T22:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_dj-prosper-guest-old-skool-nemo_414292.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "14956167",
+      "title_fr": "BALANCE MAMAN HORS DU TRAIN : 15 ANS !",
+      "description_fr": "Clubbing qui déraille",
+      "location_city": "Paris",
+      "location_name": "La Java",
+      "location_address": "105 rue du Faubourg du Temple, Paris",
+      "location_coordinates": {
+        "lon": 2.373905,
+        "lat": 48.870925
+      },
+      "firstdate_begin": "2015-10-30T22:00:00+00:00",
+      "lastdate_begin": "2015-10-30T22:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_balance-maman-hors-du-train-15-ans_260348.jpg",
+      "keywords_fr": [
+        "Clubbing qui déraille"
+      ]
+    },
+    {
+      "uid": "27863777",
+      "title_fr": "Rencontre avec l’écrivain Francesc Serés au Centre d'études catalanes",
+      "description_fr": "Dans le cadre du cycle 'La literatura catalana en tots els accents' le Centre d'études catalanes de la Sorbonne organise une rencontre avec l'écrivain Francesc Serés.",
+      "location_city": "Paris",
+      "location_name": "Centre d’études catalanes",
+      "location_address": "9 rue Sainte-Croix de la Bretonnerie, 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.356584,
+        "lat": 48.858068
+      },
+      "firstdate_begin": "2018-03-06T17:30:00+00:00",
+      "lastdate_begin": "2018-03-06T17:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_rencontre-avec-l-ecrivain-francesc-seres-au-centre-d-etudes-catalanes_786865.jpg",
+      "keywords_fr": [
+        "littérature",
+        "rencontre",
+        "Francesc Serés",
+        "Centre d'études catalanes"
+      ]
+    },
+    {
+      "uid": "68128283",
+      "title_fr": "Umlaut Big Band - \"Fourbi\"",
+      "description_fr": "Fourbi, c’est le grenier du groupe : on y retrouve toutes sortes de mélodies qui retracent son parcours, juxtaposées de manière aléatoires pour mieux les faire résonner.",
+      "location_city": "Paris",
+      "location_name": "Théâtre de l'Aquarium",
+      "location_address": "La Cartoucherie, route du champ de manoeuvre",
+      "location_coordinates": {
+        "lon": 2.448764,
+        "lat": 48.834928
+      },
+      "firstdate_begin": "2023-06-30T20:00:00+00:00",
+      "lastdate_begin": "2023-06-30T20:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/fa698ccef21f41089856ab97ed90c9c0.base.image.jpg",
+      "keywords_fr": [
+        "Umlaut Big Band",
+        "Théâtre de l'Aquarium",
+        "La Cartoucherie",
+        "la vie brève",
+        "Artiste associé",
+        "jazz",
+        "big band",
+        "grand ensemble",
+        "fourbi"
+      ]
+    },
+    {
+      "uid": "52440333",
+      "title_fr": "Liker la ville",
+      "description_fr": "Evénement \"Liker la ville\" de l’artiste Marina Wainer",
+      "location_city": "Paris",
+      "location_name": "Mairie du 10e arrondissement de Paris",
+      "location_address": "72 rue du Faubourg Saint-Martin 75010 Paris",
+      "location_coordinates": {
+        "lon": 2.357594,
+        "lat": 48.871888
+      },
+      "firstdate_begin": "2018-10-19T16:00:00+00:00",
+      "lastdate_begin": "2018-10-20T07:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "25735743",
+      "title_fr": "Toufic Farroukh",
+      "description_fr": "Sortie de l'album : Untamed Elegance.",
+      "location_city": "Paris",
+      "location_name": "Studio de l'Ermitage",
+      "location_address": "8 rue de l'Ermitage 75020 Paris",
+      "location_coordinates": {
+        "lon": 2.391634,
+        "lat": 48.869968
+      },
+      "firstdate_begin": "2023-04-06T18:30:00+00:00",
+      "lastdate_begin": "2023-04-06T18:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/7ce9c609402645978a8a0b3d0b071837.base.image.jpg",
+      "keywords_fr": [
+        "Jazz",
+        "World music"
+      ]
+    },
+    {
+      "uid": "36499093",
+      "title_fr": "KANTALISO à Paris (75) Centre Mandapa",
+      "description_fr": "un mélange d’Italie actuelle et lointaine, d’Italie présente et fantasmée, d’Italie imaginaire et rêvée",
+      "location_city": "Paris",
+      "location_name": "LE MANDAPA",
+      "location_address": "6, rue Wurtz - 75013 Paris",
+      "location_coordinates": {
+        "lon": 2.345167,
+        "lat": 48.82757
+      },
+      "firstdate_begin": "2021-09-11T18:00:00+00:00",
+      "lastdate_begin": "2021-09-11T18:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/cef84f0831464b90b5fcca8b473d7734.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "50989615",
+      "title_fr": "C’est la rentrée !",
+      "description_fr": "Culture Night est une belle occasion de conjuguer le vernissage de notre nouvelle exposition, des ateliers portes ouvertes et lectures de poésie et une chance de découvrir le Live Drawing Project !",
+      "location_city": "Paris",
+      "location_name": "Centre Culturel Irlandais",
+      "location_address": "5 rue des irlandais 75005 Paris",
+      "location_coordinates": {
+        "lon": 2.346038,
+        "lat": 48.844178
+      },
+      "firstdate_begin": "2020-09-18T16:30:00+00:00",
+      "lastdate_begin": "2020-09-18T16:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/a53269b9b63c4be095c5d2dc1ca1bed4.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "39006170",
+      "title_fr": "Masterclass La Fresque Océane",
+      "description_fr": "?️[ Masterclass de la Fresque Océane ] - 30 mars, 12h30.",
+      "location_city": "Paris",
+      "location_name": "En ligne",
+      "location_address": "Rue de la cité, Paris",
+      "location_coordinates": {
+        "lon": 2.34832,
+        "lat": 48.855667
+      },
+      "firstdate_begin": "2023-03-30T10:30:00+00:00",
+      "lastdate_begin": "2023-03-30T10:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/705ffc5bc393419cb02fe1b7680a3cfe.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "15412372",
+      "title_fr": "Projection de films - \"Les corps en mouvement\"",
+      "description_fr": "Cette année encore, le Centre culturel canadien est fier de participer à la Nuit européenne des musées, pour sa 20e édition !",
+      "location_city": "Paris",
+      "location_name": "Centre culturel canadien",
+      "location_address": "130 rue du Faubourg Saint-Honoré 75008 Paris",
+      "location_coordinates": {
+        "lon": 2.312434,
+        "lat": 48.872448
+      },
+      "firstdate_begin": "2024-05-18T17:00:00+00:00",
+      "lastdate_begin": "2024-05-18T18:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/5b79d823c0454e1c9aa8d658adc22b36.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "62743191",
+      "title_fr": "Bal Kréyol",
+      "description_fr": "Participez à un bal créole à l'Hôtel de la Marine dans le cadre du Temps des mémoires 2024 en partenariat avec la Fondation pour la Mémoire de l’esclavage.",
+      "location_city": "Paris",
+      "location_name": "Hôtel de la Marine",
+      "location_address": "2, Place de la Concorde 75008 Paris",
+      "location_coordinates": {
+        "lon": 2.323505,
+        "lat": 48.86694
+      },
+      "firstdate_begin": "2024-04-27T13:00:00+00:00",
+      "lastdate_begin": "2024-04-27T13:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/051d9e72be83402a93365c2e8e7fcf7d.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "31898213",
+      "title_fr": "Soirée du pardon",
+      "description_fr": "20h30 à 22h",
+      "location_city": "Paris",
+      "location_name": "Église Saint-Michel",
+      "location_address": "1 place Saint-Jean, 75017 Paris",
+      "location_coordinates": {
+        "lon": 2.324904,
+        "lat": 48.888938
+      },
+      "firstdate_begin": "2024-03-26T19:30:00+00:00",
+      "lastdate_begin": "2024-03-26T19:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/4448433ebbdd4b228c318b783cfa7e42.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "51880903",
+      "title_fr": "« Cinq musées en jeux » Labellisé Olympiade culturelle",
+      "description_fr": "Pour s’échauffer avant les Jeux olympiques et paralympiques de Paris 2024, le Centre Pompidou vous invite à participer à un parcours d’énigmes : « Cinq musées en jeux ». Conçu avec quatre autres musé…",
+      "location_city": "Paris",
+      "location_name": "Centre Pompidou",
+      "location_address": "Place Georges-Pompidou 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.357224,
+        "lat": 48.85338
+      },
+      "firstdate_begin": "2024-05-18T18:00:00+00:00",
+      "lastdate_begin": "2024-05-18T18:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/28674d1288b4463e921c3d06e054aeeb.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "49880391",
+      "title_fr": "Les ateliers enfants",
+      "description_fr": "Pendant les vacances scolaires, du mardi au samedi on vous propose des ateliers DIY ludiques et créatifs spécial parents/enfants !",
+      "location_city": "Paris",
+      "location_name": "La Ressourcerie Créative",
+      "location_address": "95 avenue du général leclerc, 75014",
+      "location_coordinates": {
+        "lon": 2.326677,
+        "lat": 48.826257
+      },
+      "firstdate_begin": "2024-04-06T12:00:00+00:00",
+      "lastdate_begin": "2024-04-20T12:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/86e120fe65884e5d8df2b6f8c18974b6.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "98247200",
+      "title_fr": "FANVOICE Day - l'event incontournable de la co-création et des communautés d'innovation",
+      "description_fr": "Bénéficier des insights d'une communauté – consommateur et/ou collaborateur - se révèle indispensable.  Découvrez lors du FANVOICE DAY pourquoi et comment s'emparer de ce sujet.",
+      "location_city": "Paris",
+      "location_name": "100% digital",
+      "location_address": "27 rue des renaudes",
+      "location_coordinates": {
+        "lon": 2.298245,
+        "lat": 48.880256
+      },
+      "firstdate_begin": "2020-11-26T08:00:00+00:00",
+      "lastdate_begin": "2020-11-26T08:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/bccfa9ab7d8149b6833d2d60a23bbe8c.base.image.jpg",
+      "keywords_fr": [
+        "fanvoice",
+        "communauté",
+        "innovation",
+        "co-création",
+        "insight",
+        "études",
+        "edf",
+        "cnaf",
+        "credit agricole",
+        "renault digital",
+        "crédit mutuel nord europe",
+        "somfy",
+        "sanef"
+      ]
+    },
+    {
+      "uid": "36588558",
+      "title_fr": "Envie de tenter \"Du Stade vers l'emploi \" secteur de la Blanchisserie",
+      "description_fr": "Vous souhaitez participer à l'évènement \"Du Stade vers l'Emploi\" le 23 avril 2024 organisé par France Travail en  partenariat avec la Fédération Française de Rugby .",
+      "location_city": "Paris",
+      "location_name": "Paris",
+      "location_address": "75018 Paris",
+      "location_coordinates": {
+        "lon": 2.360121,
+        "lat": 48.894211
+      },
+      "firstdate_begin": "2024-04-16T12:00:00+00:00",
+      "lastdate_begin": "2024-04-16T12:00:00+00:00",
+      "image": null,
+      "keywords_fr": [
+        "Job dating",
+        "Du Stade vers l'Emploi",
+        "Se préparer",
+        "Recrutement sans CV",
+        "Sport et insertion",
+        "Public insertion par activité économique",
+        "Rencontre recruteur",
+        "Opportunité d'emploi",
+        "en physique"
+      ]
+    },
+    {
+      "uid": "44257257",
+      "title_fr": "Recrutement CAP Accompagnant éducatif de la petite enfance",
+      "description_fr": "Pôle-Emploi et la Grande Classe vous propose de vous former  au métier de la petite enfance:",
+      "location_city": "Paris",
+      "location_name": "Paris",
+      "location_address": "75018 Paris",
+      "location_coordinates": {
+        "lon": 2.360121,
+        "lat": 48.894211
+      },
+      "firstdate_begin": "2024-04-22T07:30:00+00:00",
+      "lastdate_begin": "2024-04-22T07:30:00+00:00",
+      "image": null,
+      "keywords_fr": [
+        "Réunion d'information",
+        "La semaine du soin et de l'accompagnement",
+        "1 jeune  1 solution",
+        "Recrutement",
+        "Découverte formation",
+        "Découverte secteur / métier",
+        "Débutant(e) accepté(e)",
+        "Tout public",
+        "Jeunes",
+        "Bénéficiaires RSA",
+        "Formation assurée",
+        "Se diplômer",
+        "Opportunité d'emploi",
+        "Contrat en alternance",
+        "en physique"
+      ]
+    },
+    {
+      "uid": "30547721",
+      "title_fr": "Le théâtre des personnages balzaciens",
+      "description_fr": "La classe, l’œuvre !",
+      "location_city": "Paris",
+      "location_name": "Maison de Balzac",
+      "location_address": "47 Rue Raynouard, 75016 Paris, France",
+      "location_coordinates": {
+        "lon": 2.280847,
+        "lat": 48.855356
+      },
+      "firstdate_begin": "2024-05-18T16:30:00+00:00",
+      "lastdate_begin": "2024-05-18T16:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/ee342def75f947ca85ac1c58f15f9e68.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "51562556",
+      "title_fr": "Dans les pas d'Hélène Berr",
+      "description_fr": "Concert autour du journal d'Hélène Berr et de pièces de Bach, Haydn, Schubert, Franck, Mantovani. Avec Marine Perez, flûte, Véronique Briel, piano et les 1ère du Lycée Honoré de Balzac (Paris 17).",
+      "location_city": "Paris",
+      "location_name": "Musée Jean Jacques Henner",
+      "location_address": "43 avenue de Villiers, 75017 Paris",
+      "location_coordinates": {
+        "lon": 2.307705,
+        "lat": 48.883052
+      },
+      "firstdate_begin": "2024-02-04T10:00:00+00:00",
+      "lastdate_begin": "2024-02-04T10:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/e40be9b39eaf43eb894663ea9b56bde6.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "80517971",
+      "title_fr": "Architecture et mémoire depuis la Shoah",
+      "description_fr": "La rencontre a lieu au Mémorial de la Shoah",
+      "location_city": "Paris",
+      "location_name": "Mémorial de la Shoah",
+      "location_address": "17, rue Geoffroy l’Asnier 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.356324,
+        "lat": 48.8548
+      },
+      "firstdate_begin": "2018-10-11T17:30:00+00:00",
+      "lastdate_begin": "2018-10-11T17:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_architecture-et-memoire-depuis-la-shoah_219500.jpg",
+      "keywords_fr": [
+        "architecture",
+        "mémoire",
+        "shoah",
+        "histoire",
+        "rencontre"
+      ]
+    },
+    {
+      "uid": "4747634",
+      "title_fr": "Histoire générale de l'art - Abonnement annuel 21 Cours",
+      "description_fr": "HISTOIRE GENERALE DE L'ART SAISON 2022/2023 - COURS EN LIGNE",
+      "location_city": "Paris",
+      "location_name": "RMN-GP",
+      "location_address": "254/256 rue de Bercy, 75577 Paris CEDEX 12, France",
+      "location_coordinates": {
+        "lon": 2.379433,
+        "lat": 48.840482
+      },
+      "firstdate_begin": "2022-07-31T22:00:00+00:00",
+      "lastdate_begin": "2022-12-30T23:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "70324854",
+      "title_fr": "Laque japonaise et kintsugi",
+      "description_fr": "Découverte de la laque traditionnelle japonaise et du kintsugi : l'art de réparer la céramique",
+      "location_city": "Paris",
+      "location_name": "Nicolas Pinon laqueur",
+      "location_address": "33 rue de Montreuil 75011 Paris",
+      "location_coordinates": {
+        "lon": 2.386136,
+        "lat": 48.850507
+      },
+      "firstdate_begin": "2023-04-01T08:00:00+00:00",
+      "lastdate_begin": "2023-04-02T08:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/a84a4302f5b94af69e43f8bad3734941.base.image.jpg",
+      "keywords_fr": [
+        "laque japonaise",
+        "kintsugi",
+        "laque",
+        "laque végétale",
+        "urushi"
+      ]
+    },
+    {
+      "uid": "95539624",
+      "title_fr": "ELLA RABESON à Paris (75)",
+      "description_fr": "Avec sa voix d’une grande authenticité, Ella Rabeson étonne par la qualité de ses prestations et par sa présence scénique.",
+      "location_city": "Paris",
+      "location_name": "PARIS",
+      "location_address": "Paris",
+      "location_coordinates": {
+        "lon": 2.320041,
+        "lat": 48.85889
+      },
+      "firstdate_begin": "2023-11-02T18:30:00+00:00",
+      "lastdate_begin": "2023-11-09T18:15:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/989d46d72aaf4ec9b23ca76dcfd07028.base.image.jpg",
+      "keywords_fr": [
+        "MADAGASCAR",
+        "JAZZ"
+      ]
+    },
+    {
+      "uid": "98441943",
+      "title_fr": "Sempre libera : Maria Callas à La Scala",
+      "description_fr": "À l’occasion des quarante ans de la disparition de cette immense interprète, l’Institut Culturel Italien célèbre son talent à travers une exposition qui réunit des costumes et des photographies.",
+      "location_city": "Paris",
+      "location_name": "Institut Culturel Italien de Paris",
+      "location_address": "50 rue de Varenne, Paris",
+      "location_coordinates": {
+        "lon": 2.322314,
+        "lat": 48.854438
+      },
+      "firstdate_begin": "2017-09-14T08:00:00+00:00",
+      "lastdate_begin": "2017-09-29T13:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_sempre-libera-maria-callas-a-la-scala_405317.jpg",
+      "keywords_fr": [
+        "Callas",
+        "La Scala",
+        "Milano",
+        "Parigi",
+        "Opéra",
+        "La Divina",
+        "Maria Callas"
+      ]
+    },
+    {
+      "uid": "54650666",
+      "title_fr": "DAGUERRE",
+      "description_fr": "\" Douze virages aux sonorités Pop/Rock/Folk riches de belles rencontres artistiques, avec en « Featuring » Martin Luminet, Emilie Marsh, HYL, Paul’O, Juliette Magnevasoa, Elena D., Vincent Bosler. \"",
+      "location_city": "Paris",
+      "location_name": "La Manufacture Chanson",
+      "location_address": "124 avenue de la république 75011 paris",
+      "location_coordinates": {
+        "lon": 2.385701,
+        "lat": 48.863008
+      },
+      "firstdate_begin": "2023-04-07T18:30:00+00:00",
+      "lastdate_begin": "2023-04-07T18:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/65f3fa1ccf0d4672968f27cd39c861da.base.image.jpg",
+      "keywords_fr": [
+        "musiclive",
+        "concert",
+        "paris",
+        "sortiràparis",
+        "chanson"
+      ]
+    },
+    {
+      "uid": "80482508",
+      "title_fr": "L'avis en vert (LSF)",
+      "description_fr": "Décrypter la publicité autour de l'environnement et mieux comprendre les biais cognitifs qu'elle utilise pour nous pousser à l'achat. ADAPTÉ AU PUBLIC SOURD.",
+      "location_city": "Paris",
+      "location_name": "Cité des sciences et de l'Industrie",
+      "location_address": "30 Avenue Corentin Cariou, 75019 Paris",
+      "location_coordinates": {
+        "lon": 2.387654,
+        "lat": 48.89568
+      },
+      "firstdate_begin": "2023-03-25T13:30:00+00:00",
+      "lastdate_begin": "2024-03-26T16:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/45437d40203d45298f7dbc5706f00afa.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "74132542",
+      "title_fr": "SEJOUR ARTISTIQUE SUR L'ILE DE RE",
+      "description_fr": "Dans le cadre de l'opération \"Colos apprenantes\" par le Ministère de l'Éducation nationale, de la jeunesse et des sports.",
+      "location_city": "Paris",
+      "location_name": "Thalie",
+      "location_address": "23, rue de Saussure 75017 PARIS",
+      "location_coordinates": {
+        "lon": 2.316241,
+        "lat": 48.884087
+      },
+      "firstdate_begin": "2021-04-18T06:00:00+00:00",
+      "lastdate_begin": "2021-04-24T22:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/45f1367ebb264a6f914be07c88945142.base.image.jpg",
+      "keywords_fr": [
+        "theatre",
+        "cinéma",
+        "mangas",
+        "photo"
+      ]
+    },
+    {
+      "uid": "90356918",
+      "title_fr": "MOBILITE ET CULTURE À PARIS",
+      "description_fr": "dans le cadre de l'opération \"colonies apprenantes\" par le Ministère de l'Éducation Nationale.",
+      "location_city": "Paris",
+      "location_name": "CAMPING DE PARIS",
+      "location_address": "paris",
+      "location_coordinates": {
+        "lon": 2.320041,
+        "lat": 48.85889
+      },
+      "firstdate_begin": "2023-10-30T08:30:00+00:00",
+      "lastdate_begin": "2023-11-03T08:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/032f156d6e984d5c8c513df8e441c6d3.base.image.jpg",
+      "keywords_fr": [
+        "paris",
+        "séjour",
+        "culture",
+        "mobilité",
+        "citoyenneté"
+      ]
+    },
+    {
+      "uid": "57542968",
+      "title_fr": "KINOKO",
+      "description_fr": "Chanson française, electro, pop",
+      "location_city": "Paris",
+      "location_name": "Aftersquat 59rivoli",
+      "location_address": "59 rue de Rivoli - 75001 Paris",
+      "location_coordinates": {
+        "lon": 2.345767,
+        "lat": 48.859238
+      },
+      "firstdate_begin": "2012-05-26T16:00:00+00:00",
+      "lastdate_begin": "2012-05-26T16:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/event_kinoko_00.jpg",
+      "keywords_fr": [
+        "Concert",
+        "59 Rivoli",
+        "entrée libre",
+        "chanson française",
+        "electro pop"
+      ]
+    }
+  ]
+}
