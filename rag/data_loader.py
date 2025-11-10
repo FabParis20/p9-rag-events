@@ -6,6 +6,66 @@ MVP4 : Chargera depuis events_real.json (même code)
 
 import json
 from pathlib import Path
+import re
+
+def clean_html(text):
+    """
+    Nettoie le HTML d'un texte
+    Enlève les balises et garde le texte
+    """
+    if not text:
+        return ""
+    
+    # Enlever les balises HTML
+    text = re.sub(r'<[^>]+>', '', text)
+    
+    # Nettoyer les espaces multiples
+    text = re.sub(r'\s+', ' ', text)
+    
+    # Nettoyer les sauts de ligne multiples
+    text = re.sub(r'\n\s*\n', '\n\n', text)
+    
+    return text.strip()
+
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+def chunk_event_text(event):
+    """
+    Découpe un événement en chunks avec métadonnées
+    Retourne une liste de dicts {text, metadata}
+    """
+    # Nettoyer le HTML
+    clean_text = clean_html(event.get("description_fr", ""))
+    
+    # Ajouter le titre au début
+    full_text = f"{event.get('title_fr', '')}\n\n{clean_text}"
+    
+    # Créer le splitter
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=800,      # Taille d'un chunk
+        chunk_overlap=100,   # Recouvrement entre chunks
+        length_function=len,
+        separators=["\n\n", "\n", ". ", " ", ""]
+    )
+    
+    # Découper
+    chunks = text_splitter.split_text(full_text)
+    
+    # Ajouter les métadonnées à chaque chunk
+    chunk_docs = []
+    for i, chunk in enumerate(chunks):
+        chunk_docs.append({
+            "text": chunk,
+            "metadata": {
+                "uid": event.get("uid", ""),
+                "title_fr": event.get("title_fr", ""),
+                "location_name": event.get("location_name", ""),
+                "firstdate_begin": event.get("firstdate_begin", ""),
+                "chunk_index": i
+            }
+        })
+    
+    return chunk_docs
 
 # def load_events(source="dummy"):
 def load_events(source="real"):

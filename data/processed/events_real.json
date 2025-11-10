@@ -1,941 +1,1734 @@
 {
-  "total_count": 50,
+  "total_count": 100,
   "results": [
     {
-      "uid": "90328688",
-      "title_fr": "LES SOULIERS ROUGES",
-      "description_fr": "Le conte musical LES SOULIERS ROUGES, crée par Fabrice Aboulker et Marc Lavoine, à la Salle Pleyel et en tournée dans toute la France pour la première fois en 2024",
+      "uid": "97366250",
+      "title_fr": "L’industrie face aux enjeux de la transition environnementale et du foncier",
+      "description_fr": "L’industrie face aux enjeux de la transition environnementale et du foncier\n\n<p><em><strong>Objectif national, la réindustrialisation du territoire vise à positionner la France en leader de l’industrie verte en Europe. Quels sont les enjeux et les priorités des territoires et industriels en matière de foncier et de transition énergétique de l’industrie ? Quelles sont les solutions pour y répondre ? Comment les industriels s’adaptent à ces enjeux ?</strong></em></p>",
       "location_city": "Paris",
-      "location_name": "Salle Pleyel",
-      "location_address": "252 rue du Faubourg Saint Honoré 75008 PARIS",
+      "location_name": "Hub des Territoires",
+      "location_address": "72 avenue Pierre Mendes France 75013",
       "location_coordinates": {
-        "lon": 2.301002,
-        "lat": 48.876943
+        "lon": 2.368182,
+        "lat": 48.841342
       },
-      "firstdate_begin": "2024-02-09T19:00:00+00:00",
-      "lastdate_begin": "2024-02-11T13:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/13c4cd006596478e9c2c212ef7a5780b.base.image.jpg",
+      "firstdate_begin": "2024-12-04T08:30:00+00:00",
+      "lastdate_begin": "2024-12-04T08:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/b48a3b593fea4c37817b052fa8d60f66.base.image.jpg",
       "keywords_fr": null
     },
     {
-      "uid": "68083213",
-      "title_fr": "Papyrus Bleu - Disco Mobile",
-      "description_fr": "Fête de la musique 2024",
+      "uid": "53457543",
+      "title_fr": "JOB DATING Brigade Cuisine Groupe DUCASSE",
+      "description_fr": "Dans le cadre de l'ouverture d'une Brasserie d'été au sein du Restaurant Cristal Room (Groupe DUCASSE), un job dating est organisé afin de constituer l'ensemble de la brigade de cuisine pour la pé...\n\n<p>Dans le cadre de l'ouverture d'une Brasserie d'été au sein du Restaurant Cristal Room (Groupe DUCASSE), un job dating est organisé afin de constituer l'ensemble de la brigade de cuisine pour la période d'Avril  à Octobre 2025. Nous vous invitons à venir à 9h15 précise avec un CV à jour.</p>\n<p>Merci de vous  présenter à 9h15 précise au 6ème étage de l'établissement FRANCE TRAVAIL (10 rue Brancion 75015 PARIS).Venez avec votre CV afin de rencontrer le recruteur.</p>",
       "location_city": "Paris",
-      "location_name": "la plage",
-      "location_address": "41 Quai de l'Oise 75019 Paris",
+      "location_name": "Paris",
+      "location_address": "75015 Paris",
       "location_coordinates": {
-        "lon": 2.385391,
-        "lat": 48.892492
+        "lon": 2.305839,
+        "lat": 48.835724
       },
-      "firstdate_begin": "2024-06-21T16:00:00+00:00",
-      "lastdate_begin": "2024-06-21T16:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/6b0ff2347b264b6c96744e0254d328c1.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "72672442",
-      "title_fr": "Concours de strips",
-      "description_fr": "Concours de strips, ouvert à tous, du 4 février au 31 mars",
-      "location_city": "Paris",
-      "location_name": "Bibliothèque Rainer Maria Rilke",
-      "location_address": "88 ter boulevard de Port Royal 75005 Paris",
-      "location_coordinates": {
-        "lon": 2.350586,
-        "lat": 48.836936
-      },
-      "firstdate_begin": "2020-02-04T12:00:00+00:00",
-      "lastdate_begin": "2020-03-31T11:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/7e4977081b3746c7aa64cfd851b1d2ab.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "9532743",
-      "title_fr": "Assemblée générale en visioconférence de France Digitale",
-      "description_fr": "Cédric O",
-      "location_city": "Paris",
-      "location_name": "Bercy",
-      "location_address": "139 rue de Bercy",
-      "location_coordinates": {
-        "lon": 2.37799,
-        "lat": 48.841023
-      },
-      "firstdate_begin": "2020-06-18T16:30:00+00:00",
-      "lastdate_begin": "2020-06-18T16:30:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "78471950",
-      "title_fr": "Premier anniversaire de la signature de la première « Charte d’engagements pour une représentation mixte des jouets »",
-      "description_fr": "Agnès Pannier-Runacher",
-      "location_city": "Paris",
-      "location_name": "Bercy",
-      "location_address": "139 rue de Bercy",
-      "location_coordinates": {
-        "lon": 2.37799,
-        "lat": 48.841023
-      },
-      "firstdate_begin": "2020-09-24T08:30:00+00:00",
-      "lastdate_begin": "2020-09-24T08:30:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "49639334",
-      "title_fr": "Entretien téléphonique avec Hervé Becam, vice-président confédéral de l’Union des métiers et des industries de l’hôtellerie (UMIH)",
-      "description_fr": "Bruno Le Maire",
-      "location_city": "Paris",
-      "location_name": "Bercy",
-      "location_address": "139 rue de Bercy",
-      "location_coordinates": {
-        "lon": 2.37799,
-        "lat": 48.841023
-      },
-      "firstdate_begin": "2020-10-15T09:45:00+00:00",
-      "lastdate_begin": "2020-10-15T09:45:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "99909457",
-      "title_fr": "Entretien téléphonique avec Arsen Avakov, ministre de l’Intérieur d’Ukraine",
-      "description_fr": "Bruno Le Maire",
-      "location_city": "Paris",
-      "location_name": "Bercy",
-      "location_address": "139 rue de Bercy",
-      "location_coordinates": {
-        "lon": 2.37799,
-        "lat": 48.841023
-      },
-      "firstdate_begin": "2021-03-18T13:00:00+00:00",
-      "lastdate_begin": "2021-03-18T13:00:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "5537318",
-      "title_fr": "Vote Budget participatif",
-      "description_fr": "Informations sur les Urnes",
-      "location_city": "Paris",
-      "location_name": "Rosa Parks",
-      "location_address": "Boulevard Macdonald 75019",
-      "location_coordinates": {
-        "lon": 2.387924,
-        "lat": 48.897801
-      },
-      "firstdate_begin": "2018-09-15T11:00:00+00:00",
-      "lastdate_begin": "2018-09-15T11:00:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "40100614",
-      "title_fr": "CONCERT / YAEL MILLER",
-      "description_fr": "CONCERT / YAEL MILLER",
-      "location_city": "Paris",
-      "location_name": "Cité internationale des arts",
-      "location_address": "18, rue de l'Hôtel de ville, 75004",
-      "location_coordinates": {
-        "lon": 2.357214,
-        "lat": 48.853958
-      },
-      "firstdate_begin": "2019-02-25T18:30:00+00:00",
-      "lastdate_begin": "2019-02-25T18:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_concert-yael-miller_564207.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "56187847",
-      "title_fr": "[ANNULÉ] Visite-conférence du théâtre de la Comédie-Française",
-      "description_fr": "La visite de la Comédie-Française propose d'aborder l'histoire de cette institution.",
-      "location_city": "Paris",
-      "location_name": "Théâtre de la Comédie-Française",
-      "location_address": "1 place Colette, Paris 1er, 75001, Ile-de-France",
-      "location_coordinates": {
-        "lon": 2.33597,
-        "lat": 48.8633
-      },
-      "firstdate_begin": "2016-09-17T07:30:00+00:00",
-      "lastdate_begin": "2016-09-18T07:30:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "95227440",
-      "title_fr": "Débat concernant la vente des armes et la responsabilité du Gouvernement français",
-      "description_fr": "Nous organisons un débat le mercredi 4 mai à 22h à la nuit debout",
-      "location_city": "Paris",
-      "location_name": "Place de la République, Paris",
-      "location_address": "Place de la République, Paris",
-      "location_coordinates": {
-        "lon": 2.363464,
-        "lat": 48.867298
-      },
-      "firstdate_begin": "2016-05-02T10:00:00+00:00",
-      "lastdate_begin": "2016-05-28T08:00:00+00:00",
+      "firstdate_begin": "2025-03-19T08:15:00+00:00",
+      "lastdate_begin": "2025-03-19T08:15:00+00:00",
       "image": null,
       "keywords_fr": [
-        "Armes",
-        "Migrants",
-        "Responsabilité",
-        "Constitution",
-        "Economie",
-        "Transparence",
-        "Conséquences"
+        "Job dating",
+        "#TousMobilisés",
+        "La semaine du Tourisme",
+        "Recrutement",
+        "Tout public",
+        "CDD",
+        "en physique"
       ]
     },
     {
-      "uid": "41792334",
-      "title_fr": "Manif intersyndicale Education nationale",
-      "description_fr": "Contre l'imposition de la réforme des collèges et ...",
+      "uid": "72652734",
+      "title_fr": "vendredi 06 décembre 2024 de 20h à 22h15: concert ACHOR AP-HP",
+      "description_fr": "vendredi 06 décembre 2024 de 20h à 22h15: concert ACHOR AP-HP\n\n<p>non encore établi</p>\n\nConditions: entrée payante",
       "location_city": "Paris",
-      "location_name": "Arrivée probable vers le ministère de l'éducation nationale",
-      "location_address": "110 rue de Grenelle 75007",
+      "location_name": "Église Saint-Marcel",
+      "location_address": "82 boulevard de l'Hôpital",
       "location_coordinates": {
-        "lon": 2.320824,
-        "lat": 48.856618
+        "lon": 2.359539,
+        "lat": 48.83738
       },
-      "firstdate_begin": "2016-09-08T12:00:00+00:00",
-      "lastdate_begin": "2016-09-08T12:00:00+00:00",
-      "image": null,
+      "firstdate_begin": "2024-12-06T19:30:00+00:00",
+      "lastdate_begin": "2024-12-06T19:30:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/aec373b1fd9640e29c1e94c09ea5e5a3.base.image.jpg",
       "keywords_fr": null
     },
     {
-      "uid": "40019843",
-      "title_fr": "Concert : Lafayette Anticipations x Oddity Radio",
-      "description_fr": "Fête de la musique 2022",
+      "uid": "21802629",
+      "title_fr": "Salon International de l'Agriculture",
+      "description_fr": "La Chambre d'agriculture des Vosges sera présente au Salon International de l'Agriculture du 22 février au 5 mars.\n\n<p>Retrouvez-nous</p>",
       "location_city": "Paris",
-      "location_name": "Lafayette Anticipations",
-      "location_address": "9 rue du Plâtre 75004 Paris",
+      "location_name": "Parc des expositions, Porte de Versailles, Paris (75)",
+      "location_address": "Parc des expositions, Porte de Versailles, Paris (75)",
       "location_coordinates": {
-        "lon": 2.354768,
-        "lat": 48.858978
+        "lon": 2.287854,
+        "lat": 48.832462
       },
-      "firstdate_begin": "2022-06-21T14:00:00+00:00",
-      "lastdate_begin": "2022-06-21T14:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/463da68efff042b48b15af07df3804d8.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "36247500",
-      "title_fr": "Ensemble Dialogos : Swithun - Oratoire du Louvre",
-      "description_fr": "Les Concerts Parisiens",
-      "location_city": "Paris",
-      "location_name": "Oratoire du Louvre",
-      "location_address": "145 Rue Saint-Honoré, 75001 Paris",
-      "location_coordinates": {
-        "lon": 2.336392,
-        "lat": 48.86294
-      },
-      "firstdate_begin": "2021-10-08T18:30:00+00:00",
-      "lastdate_begin": "2021-10-08T18:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/3d167798004b4feca50dabb26ee56193.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "21252258",
-      "title_fr": "Une forme brève",
-      "description_fr": "Solo de et par Rémy Héritier",
-      "location_city": "Paris",
-      "location_name": "Atelier de Paris / CDCN",
-      "location_address": "2 route du champ de manœuvre 75012 Paris",
-      "location_coordinates": {
-        "lon": 2.449257,
-        "lat": 48.834684
-      },
-      "firstdate_begin": "2022-02-04T19:30:00+00:00",
-      "lastdate_begin": "2022-02-04T19:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/c6df4ab0290d4385912dd618c10cc10a.base.image.jpg",
+      "firstdate_begin": "2025-02-22T09:00:00+00:00",
+      "lastdate_begin": "2025-02-22T09:00:00+00:00",
+      "image": "https://cibul.s3.amazonaws.com/8ecbfecf7cb24f8e8e5c5fc2795c972c.base.image.jpg",
       "keywords_fr": [
-        "danse",
-        "fantôme",
-        "scultpure",
-        "musique contemporaine"
+        "salon",
+        "terroir",
+        "Paris",
+        "Je Vois la Vie en Vosges Terroir"
       ]
     },
     {
-      "uid": "75581174",
-      "title_fr": "Programme hebdomadaire du Cinéma Le Mèlies",
-      "description_fr": "Du 13 au 19 septembre 2017",
+      "uid": "94080534",
+      "title_fr": "Duo Rasa - Musique d'Inde du Nord",
+      "description_fr": "Le duo Rasa est aujourd’hui considéré comme une référence en Europe dans l’interprétation et l’enseignement de la musique classique de l’Inde du Nord, une expérience spirituelle et extatique.\n\n<p>Depuis 2014, Rasa présente le répertoire traditionnel des Rāga-s et Tāla-s, et le duo est aujourd’hui considéré comme une référence en Europe dans l’interprétation et l’enseignement de la musique classique de l’Inde du Nord. Nicolas Delaigue au Sitar, et Nihar Mehta au Tabla, interprètent la riche tradition de la musique d'Inde du Nord dans des genres classiques et semi-classiques. Le temps d'un concert, les spectateurs goûteront un moment à chaque fois unique et improvisé. Les émotions, les couleurs et les sensations les entraîneront alors dans une danse de l'esprit, se mêlant à une expérience spirituelle et extatique...</p>\n<p>Nicolas Delaigue est un joueur de sitar et de surbahar, spécialiste de la musique de l’Inde du Nord. De par son parcours atypique, et après des années d'immersion, de pratique et de dévouement à cet art, il a su créer un pont entre l'Inde et l'Occident, et devenir une référence dans l’interprétation et l'enseignement de cette musique. Concertiste international, Nicolas enseigne le sitar, la musique de l'Inde et l'improvisation modale dans de nombreuses structures publiques, privées et associatives dans toute la France et en Europe. En 2022, il est nommé professeur de Musique de l'Inde et improvisation modale au CNSM de Paris.</p>\n<p>Nihar Mehta vient d'une des plus importantes familles de philosophes et de musiciens de l'Inde depuis plusieurs générations. Il est un artiste certifié par le gouvernement de l'Inde et du Gujarat depuis 1996 dans la discipline de la musique classique indienne. Installé en France depuis 2003, il s'est produit dans des salles et programmations prestigieuses en Europe comme à la Philharmonie de Paris, à la Scène nationale de Boulogne-Billancourt et à Nantes., Auditorium du Musée national des arts asiatiques de Paris, Nice, Zurich, Milan, Lecce, musée national d'ethnologie de Leiden et a participé à la programmation d'ouverture du Musée des confluences. Il a collaboré avec des fondations comme Alain Danielou, Girogio Cini, Europea del Disegno et de grands musiciens d'Inde, d'Europe et des États-Unis tels que les légendes maestro Zakir Hussain, Jordi Savall, George Brooks, Krishna Bhatt, Terry Riley, Shujaat Khan, Shahid Parvez, Sabir Khan, les frères Rajan-Sajan Mishra et le lauréat d'un Grammy Award V.M Bhatt pour n'en nommer que quelques-uns.</p>\n<p><a href=\"https://youtu.be/f_BEHEa0SdE?si=S7EGRAUH5w92NCre\">https://youtu.be/f_BEHEa0SdE?si=S7EGRAUH5w92NCre</a></p>\n\nConditions: Payant\nplein tarif 16 EUR\ntarif réduit 12 EUR\ntarif enfant 8 EUR",
       "location_city": "Paris",
-      "location_name": "Cinéma Le Méliès",
-      "location_address": "De chez vous",
-      "location_coordinates": {
-        "lon": 2.33987,
-        "lat": 48.877666
-      },
-      "firstdate_begin": "2017-09-13T12:00:00+00:00",
-      "lastdate_begin": "2017-09-19T12:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_programme-hebdomadaire-du-cinema-le-melies_142745.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "9238893",
-      "title_fr": "Douceurs gourmandes",
-      "description_fr": "Autour du nougat de Montélimar, du Suisse de Valence et du chocolat avec Valrhona, la maison Nivon, artisan boulanger-pâtissier et le syndicat du nougat",
-      "location_city": "Paris",
-      "location_name": "Parc des Expositions",
-      "location_address": "Porte de Versailles, Paris",
-      "location_coordinates": {
-        "lon": 2.288375,
-        "lat": 48.832436
-      },
-      "firstdate_begin": "2017-03-03T09:00:00+00:00",
-      "lastdate_begin": "2017-03-03T09:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_douceurs-gourmandes_110494.jpg",
-      "keywords_fr": [
-        "nougat",
-        "chocolat",
-        "suisse",
-        "dégustations"
-      ]
-    },
-    {
-      "uid": "5236237",
-      "title_fr": "Femmixité 2018",
-      "description_fr": "Festival ouvert à tou-te-s",
-      "location_city": "Paris",
-      "location_name": "FGO  Barbara",
-      "location_address": "1 rue Fleury 75018 Paris",
-      "location_coordinates": {
-        "lon": 2.354044,
-        "lat": 48.884298
-      },
-      "firstdate_begin": "2018-03-24T13:00:00+00:00",
-      "lastdate_begin": "2018-03-24T13:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_femmixite-2018_625370.jpg",
-      "keywords_fr": [
-        "festival",
-        "theatre",
-        "performance",
-        "femmes",
-        "feministe",
-        "débat",
-        "rencontres",
-        "paris"
-      ]
-    },
-    {
-      "uid": "39887170",
-      "title_fr": "BANIA / DIWANE D'ALGERIE",
-      "description_fr": "Gnawa",
-      "location_city": "Paris",
-      "location_name": "Olympic Café",
-      "location_address": "Rue Léon, 75018 Paris, France",
-      "location_coordinates": {
-        "lon": 2.353605,
-        "lat": 48.888956
-      },
-      "firstdate_begin": "2014-12-11T19:00:00+00:00",
-      "lastdate_begin": "2014-12-11T19:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_bania-diwane-d-algerie_583301.jpg",
-      "keywords_fr": [
-        "Olympic",
-        "Concert"
-      ]
-    },
-    {
-      "uid": "8398153",
-      "title_fr": "«Femmes francophones, Femmes résilientes»",
-      "description_fr": "La Journée internationale de la Francophonie en virtuel depuis le siège de l'OIF",
-      "location_city": "Paris",
-      "location_name": "Siège de l'OIF",
-      "location_address": "19-21 avenue Bosquet, Paris",
-      "location_coordinates": {
-        "lon": 2.302928,
-        "lat": 48.860004
-      },
-      "firstdate_begin": "2021-03-20T08:00:00+00:00",
-      "lastdate_begin": "2021-03-20T08:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/ecd40896c1724902b9c1389b7c12cac5.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "44429761",
-      "title_fr": "CUCURBITACEES",
-      "description_fr": "Spectacle des Compagnie V.B et Compagnie Rêve Mobile",
-      "location_city": "Paris",
-      "location_name": "La Loge",
-      "location_address": "77 rue de Charonne 75011 PARIS",
-      "location_coordinates": {
-        "lon": 2.381538,
-        "lat": 48.853825
-      },
-      "firstdate_begin": "2015-03-10T18:00:00+00:00",
-      "lastdate_begin": "2015-03-13T18:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_cucurbitacees_381307.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "29509581",
-      "title_fr": "DJ PROSPER + GUEST : OLD SKOOL NEMO",
-      "description_fr": "DJ SET  RETRO FUTURISTE ROCK FUNK ELECTRO HIP HOP HOUSE",
-      "location_city": "Paris",
-      "location_name": "L'Alimentation Générale",
-      "location_address": "64 Rue Jean-Pierre Timbaud, 75011 Paris, France",
-      "location_coordinates": {
-        "lon": 2.375144,
-        "lat": 48.867544
-      },
-      "firstdate_begin": "2015-12-19T22:00:00+00:00",
-      "lastdate_begin": "2015-12-19T22:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_dj-prosper-guest-old-skool-nemo_414292.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "14956167",
-      "title_fr": "BALANCE MAMAN HORS DU TRAIN : 15 ANS !",
-      "description_fr": "Clubbing qui déraille",
-      "location_city": "Paris",
-      "location_name": "La Java",
-      "location_address": "105 rue du Faubourg du Temple, Paris",
-      "location_coordinates": {
-        "lon": 2.373905,
-        "lat": 48.870925
-      },
-      "firstdate_begin": "2015-10-30T22:00:00+00:00",
-      "lastdate_begin": "2015-10-30T22:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_balance-maman-hors-du-train-15-ans_260348.jpg",
-      "keywords_fr": [
-        "Clubbing qui déraille"
-      ]
-    },
-    {
-      "uid": "27863777",
-      "title_fr": "Rencontre avec l’écrivain Francesc Serés au Centre d'études catalanes",
-      "description_fr": "Dans le cadre du cycle 'La literatura catalana en tots els accents' le Centre d'études catalanes de la Sorbonne organise une rencontre avec l'écrivain Francesc Serés.",
-      "location_city": "Paris",
-      "location_name": "Centre d’études catalanes",
-      "location_address": "9 rue Sainte-Croix de la Bretonnerie, 75004 Paris",
-      "location_coordinates": {
-        "lon": 2.356584,
-        "lat": 48.858068
-      },
-      "firstdate_begin": "2018-03-06T17:30:00+00:00",
-      "lastdate_begin": "2018-03-06T17:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_rencontre-avec-l-ecrivain-francesc-seres-au-centre-d-etudes-catalanes_786865.jpg",
-      "keywords_fr": [
-        "littérature",
-        "rencontre",
-        "Francesc Serés",
-        "Centre d'études catalanes"
-      ]
-    },
-    {
-      "uid": "68128283",
-      "title_fr": "Umlaut Big Band - \"Fourbi\"",
-      "description_fr": "Fourbi, c’est le grenier du groupe : on y retrouve toutes sortes de mélodies qui retracent son parcours, juxtaposées de manière aléatoires pour mieux les faire résonner.",
-      "location_city": "Paris",
-      "location_name": "Théâtre de l'Aquarium",
-      "location_address": "La Cartoucherie, route du champ de manoeuvre",
-      "location_coordinates": {
-        "lon": 2.448764,
-        "lat": 48.834928
-      },
-      "firstdate_begin": "2023-06-30T20:00:00+00:00",
-      "lastdate_begin": "2023-06-30T20:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/fa698ccef21f41089856ab97ed90c9c0.base.image.jpg",
-      "keywords_fr": [
-        "Umlaut Big Band",
-        "Théâtre de l'Aquarium",
-        "La Cartoucherie",
-        "la vie brève",
-        "Artiste associé",
-        "jazz",
-        "big band",
-        "grand ensemble",
-        "fourbi"
-      ]
-    },
-    {
-      "uid": "52440333",
-      "title_fr": "Liker la ville",
-      "description_fr": "Evénement \"Liker la ville\" de l’artiste Marina Wainer",
-      "location_city": "Paris",
-      "location_name": "Mairie du 10e arrondissement de Paris",
-      "location_address": "72 rue du Faubourg Saint-Martin 75010 Paris",
-      "location_coordinates": {
-        "lon": 2.357594,
-        "lat": 48.871888
-      },
-      "firstdate_begin": "2018-10-19T16:00:00+00:00",
-      "lastdate_begin": "2018-10-20T07:00:00+00:00",
-      "image": null,
-      "keywords_fr": null
-    },
-    {
-      "uid": "25735743",
-      "title_fr": "Toufic Farroukh",
-      "description_fr": "Sortie de l'album : Untamed Elegance.",
-      "location_city": "Paris",
-      "location_name": "Studio de l'Ermitage",
-      "location_address": "8 rue de l'Ermitage 75020 Paris",
-      "location_coordinates": {
-        "lon": 2.391634,
-        "lat": 48.869968
-      },
-      "firstdate_begin": "2023-04-06T18:30:00+00:00",
-      "lastdate_begin": "2023-04-06T18:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/7ce9c609402645978a8a0b3d0b071837.base.image.jpg",
-      "keywords_fr": [
-        "Jazz",
-        "World music"
-      ]
-    },
-    {
-      "uid": "36499093",
-      "title_fr": "KANTALISO à Paris (75) Centre Mandapa",
-      "description_fr": "un mélange d’Italie actuelle et lointaine, d’Italie présente et fantasmée, d’Italie imaginaire et rêvée",
-      "location_city": "Paris",
-      "location_name": "LE MANDAPA",
-      "location_address": "6, rue Wurtz - 75013 Paris",
+      "location_name": "Théâtre Mandapa",
+      "location_address": "6 rue Wurtz",
       "location_coordinates": {
         "lon": 2.345167,
         "lat": 48.82757
       },
-      "firstdate_begin": "2021-09-11T18:00:00+00:00",
-      "lastdate_begin": "2021-09-11T18:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/cef84f0831464b90b5fcca8b473d7734.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "50989615",
-      "title_fr": "C’est la rentrée !",
-      "description_fr": "Culture Night est une belle occasion de conjuguer le vernissage de notre nouvelle exposition, des ateliers portes ouvertes et lectures de poésie et une chance de découvrir le Live Drawing Project !",
-      "location_city": "Paris",
-      "location_name": "Centre Culturel Irlandais",
-      "location_address": "5 rue des irlandais 75005 Paris",
-      "location_coordinates": {
-        "lon": 2.346038,
-        "lat": 48.844178
-      },
-      "firstdate_begin": "2020-09-18T16:30:00+00:00",
-      "lastdate_begin": "2020-09-18T16:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/a53269b9b63c4be095c5d2dc1ca1bed4.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "39006170",
-      "title_fr": "Masterclass La Fresque Océane",
-      "description_fr": "?️[ Masterclass de la Fresque Océane ] - 30 mars, 12h30.",
-      "location_city": "Paris",
-      "location_name": "En ligne",
-      "location_address": "Rue de la cité, Paris",
-      "location_coordinates": {
-        "lon": 2.34832,
-        "lat": 48.855667
-      },
-      "firstdate_begin": "2023-03-30T10:30:00+00:00",
-      "lastdate_begin": "2023-03-30T10:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/705ffc5bc393419cb02fe1b7680a3cfe.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "15412372",
-      "title_fr": "Projection de films - \"Les corps en mouvement\"",
-      "description_fr": "Cette année encore, le Centre culturel canadien est fier de participer à la Nuit européenne des musées, pour sa 20e édition !",
-      "location_city": "Paris",
-      "location_name": "Centre culturel canadien",
-      "location_address": "130 rue du Faubourg Saint-Honoré 75008 Paris",
-      "location_coordinates": {
-        "lon": 2.312434,
-        "lat": 48.872448
-      },
-      "firstdate_begin": "2024-05-18T17:00:00+00:00",
-      "lastdate_begin": "2024-05-18T18:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/5b79d823c0454e1c9aa8d658adc22b36.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "62743191",
-      "title_fr": "Bal Kréyol",
-      "description_fr": "Participez à un bal créole à l'Hôtel de la Marine dans le cadre du Temps des mémoires 2024 en partenariat avec la Fondation pour la Mémoire de l’esclavage.",
-      "location_city": "Paris",
-      "location_name": "Hôtel de la Marine",
-      "location_address": "2, Place de la Concorde 75008 Paris",
-      "location_coordinates": {
-        "lon": 2.323505,
-        "lat": 48.86694
-      },
-      "firstdate_begin": "2024-04-27T13:00:00+00:00",
-      "lastdate_begin": "2024-04-27T13:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/051d9e72be83402a93365c2e8e7fcf7d.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "31898213",
-      "title_fr": "Soirée du pardon",
-      "description_fr": "20h30 à 22h",
-      "location_city": "Paris",
-      "location_name": "Église Saint-Michel",
-      "location_address": "1 place Saint-Jean, 75017 Paris",
-      "location_coordinates": {
-        "lon": 2.324904,
-        "lat": 48.888938
-      },
-      "firstdate_begin": "2024-03-26T19:30:00+00:00",
-      "lastdate_begin": "2024-03-26T19:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/4448433ebbdd4b228c318b783cfa7e42.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "51880903",
-      "title_fr": "« Cinq musées en jeux » Labellisé Olympiade culturelle",
-      "description_fr": "Pour s’échauffer avant les Jeux olympiques et paralympiques de Paris 2024, le Centre Pompidou vous invite à participer à un parcours d’énigmes : « Cinq musées en jeux ». Conçu avec quatre autres musé…",
-      "location_city": "Paris",
-      "location_name": "Centre Pompidou",
-      "location_address": "Place Georges-Pompidou 75004 Paris",
-      "location_coordinates": {
-        "lon": 2.357224,
-        "lat": 48.85338
-      },
-      "firstdate_begin": "2024-05-18T18:00:00+00:00",
-      "lastdate_begin": "2024-05-18T18:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/28674d1288b4463e921c3d06e054aeeb.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "49880391",
-      "title_fr": "Les ateliers enfants",
-      "description_fr": "Pendant les vacances scolaires, du mardi au samedi on vous propose des ateliers DIY ludiques et créatifs spécial parents/enfants !",
-      "location_city": "Paris",
-      "location_name": "La Ressourcerie Créative",
-      "location_address": "95 avenue du général leclerc, 75014",
-      "location_coordinates": {
-        "lon": 2.326677,
-        "lat": 48.826257
-      },
-      "firstdate_begin": "2024-04-06T12:00:00+00:00",
-      "lastdate_begin": "2024-04-20T12:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/86e120fe65884e5d8df2b6f8c18974b6.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "98247200",
-      "title_fr": "FANVOICE Day - l'event incontournable de la co-création et des communautés d'innovation",
-      "description_fr": "Bénéficier des insights d'une communauté – consommateur et/ou collaborateur - se révèle indispensable.  Découvrez lors du FANVOICE DAY pourquoi et comment s'emparer de ce sujet.",
-      "location_city": "Paris",
-      "location_name": "100% digital",
-      "location_address": "27 rue des renaudes",
-      "location_coordinates": {
-        "lon": 2.298245,
-        "lat": 48.880256
-      },
-      "firstdate_begin": "2020-11-26T08:00:00+00:00",
-      "lastdate_begin": "2020-11-26T08:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/bccfa9ab7d8149b6833d2d60a23bbe8c.base.image.jpg",
+      "firstdate_begin": "2024-12-08T17:00:00+00:00",
+      "lastdate_begin": "2024-12-08T17:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/dfce7d788e934e93afb61a38719735e0.base.image.jpg",
       "keywords_fr": [
-        "fanvoice",
-        "communauté",
-        "innovation",
-        "co-création",
-        "insight",
-        "études",
-        "edf",
-        "cnaf",
-        "credit agricole",
-        "renault digital",
-        "crédit mutuel nord europe",
-        "somfy",
-        "sanef"
+        "concert",
+        "musique",
+        "musique indienne",
+        "spectacle",
+        "Mandapa",
+        "Paris 13"
       ]
     },
     {
-      "uid": "36588558",
-      "title_fr": "Envie de tenter \"Du Stade vers l'emploi \" secteur de la Blanchisserie",
-      "description_fr": "Vous souhaitez participer à l'évènement \"Du Stade vers l'Emploi\" le 23 avril 2024 organisé par France Travail en  partenariat avec la Fédération Française de Rugby .",
+      "uid": "42004489",
+      "title_fr": "FORINDUSTRIE, L’UNIVERS EXTRAORDINAIRE - FEDENE",
+      "description_fr": "Forindustrie, l’Univers Extraordinaire est un outil pédagogique et innovant pour présenter la richesse des métiers de l’industrie aux jeunes en quête d’orientation et d’avenir.\n\n<p>Une création originale pour parler d’industrie et d’avenir ! Forindustrie, l’Univers Extraordinaire est un outil pédagogique et innovant pour présenter la richesse des métiers de l’industrie aux jeunes en quête d’orientation et d’avenir, co-construit par des industriels, l’Education Nationale et France Travail. Directement inspirée des jeux vidéos, la nouvelle saison 100% digitale de Forindustrie, l’Univers Extraordinaire intitulée « Les secrets du Technodôme » se déroulera du 18 novembre au 6 décembre 2024 avec un Grand défi auquel tous les jeunes scolaires (collège, lycée, bac +) et les demandeurs d’emploi pourront concourir. Cette initiative unique a pour ambition de combattre les idées reçues et parler des vrais enjeux de l’industrie de demain et de ses métiers, avec des infos interactives variées (quizz, vidéos métiers, rencontres avec des intervenants professionnels). A la clé : des prix pour les meilleurs groupes participants et des visites de sites offertes par des industriels partout en France.</p>",
       "location_city": "Paris",
-      "location_name": "Paris",
-      "location_address": "75018 Paris",
+      "location_name": "FEDENE",
+      "location_address": "28 rue de la pépinière 75008 Paris",
       "location_coordinates": {
-        "lon": 2.360121,
-        "lat": 48.894211
+        "lon": 2.320372,
+        "lat": 48.875015
       },
-      "firstdate_begin": "2024-04-16T12:00:00+00:00",
-      "lastdate_begin": "2024-04-16T12:00:00+00:00",
+      "firstdate_begin": "2024-12-06T07:30:00+00:00",
+      "lastdate_begin": "2024-12-06T07:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/0caaaed44f7543aeaf266dc6ddac398c.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "98505974",
+      "title_fr": "Visite guidée sur l’architecture de la Maison Heinrich Heine",
+      "description_fr": "Visite commentée architecturale\n\n<p>Visite guidée sur l’architecture de la maison animée par sa directrice Mme Humphreys.</p>\n\nConditions: Dans la limite des places disponibles : 20 personnes.",
+      "location_city": "Paris",
+      "location_name": "Fondation de l'Allemagne - Maison Heinrich Heine",
+      "location_address": "27C boulevard Jourdan 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.335685,
+        "lat": 48.817658
+      },
+      "firstdate_begin": "2025-09-20T09:00:00+00:00",
+      "lastdate_begin": "2025-09-20T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/50207255bbe44cce9344d62b7d388676.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "90785478",
+      "title_fr": "SOULFUL SUNDAY : BODDHI SATVA, MANOO, KAPELA",
+      "description_fr": "dans le cadre du Festival Culture Bar-Bars\n\n<p>Une fin d'après midi - soirée au Djoon, un mélange entre danseurs et clubbers, le Soulful Sunday, c'est le rendez-vous soulful de la capitale.<br>Avec Boddhi Satva, Manoo et Kapela, la soirée promet d'être riche en musique et énergie !<br><a href=\"https://www.instagram.com/boddhisatva/?hl=fr\">https://www.instagram.com/boddhisatva/?hl=fr</a><br><a href=\"https://www.instagram.com/therealdjmanoo/?hl=fr\">https://www.instagram.com/therealdjmanoo/?hl=fr</a><br><a href=\"https://www.instagram.com/kapela_officiel/?hl=fr\">https://www.instagram.com/kapela_officiel/?hl=fr</a></p>",
+      "location_city": "Paris",
+      "location_name": "DJOON",
+      "location_address": "22 boulevard Vincent Auriol, 75013 Paris",
+      "location_coordinates": {
+        "lon": 2.371627,
+        "lat": 48.83665
+      },
+      "firstdate_begin": "2024-11-30T16:00:00+00:00",
+      "lastdate_begin": "2024-11-30T16:00:00+00:00",
       "image": null,
       "keywords_fr": [
-        "Job dating",
-        "Du Stade vers l'Emploi",
-        "Se préparer",
-        "Recrutement sans CV",
-        "Sport et insertion",
-        "Public insertion par activité économique",
-        "Rencontre recruteur",
-        "Opportunité d'emploi",
-        "en physique"
+        "Mix"
       ]
     },
     {
-      "uid": "44257257",
-      "title_fr": "Recrutement CAP Accompagnant éducatif de la petite enfance",
-      "description_fr": "Pôle-Emploi et la Grande Classe vous propose de vous former  au métier de la petite enfance:",
+      "uid": "75225404",
+      "title_fr": "28 ème Nocturnes de la Transmission",
+      "description_fr": "Evènement régional d'ampleur dédié à la Transmission Reprise\n\n<p><strong>28ème Nocturnes de la Transmission</strong></p>\n<p>Pitch de cédants néo-aquitains accompagnés par les réseaux consulaires, 4 conférences flash sur des thématiques importantes dans le cadre d'une cession -reprise: les points de vigileance lors d'une reprise, la valorisaion, les aides à la reprise et l'impact fiscal et social d'une cession-reprise.<br>Rencontres informels entre cédants et repreneurs et parties prenantes de l'écosystème de la transmission: banquiers, mutuelles, avocats, expert-comptable.</p>\n\nConditions: Entrée libre",
       "location_city": "Paris",
-      "location_name": "Paris",
-      "location_address": "75018 Paris",
+      "location_name": "CCI Bordeaux Espace Miroir d'Eau",
+      "location_address": "2 Place de la Bourse",
       "location_coordinates": {
-        "lon": 2.360121,
-        "lat": 48.894211
+        "lon": 2.342105,
+        "lat": 48.869572
       },
-      "firstdate_begin": "2024-04-22T07:30:00+00:00",
-      "lastdate_begin": "2024-04-22T07:30:00+00:00",
-      "image": null,
+      "firstdate_begin": "2024-12-09T16:30:00+00:00",
+      "lastdate_begin": "2024-12-09T16:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/87ca60b520f048e291c986c049bcbb26.base.image.jpg",
       "keywords_fr": [
-        "Réunion d'information",
-        "La semaine du soin et de l'accompagnement",
-        "1 jeune  1 solution",
-        "Recrutement",
-        "Découverte formation",
-        "Découverte secteur / métier",
-        "Débutant(e) accepté(e)",
-        "Tout public",
-        "Jeunes",
-        "Bénéficiaires RSA",
-        "Formation assurée",
-        "Se diplômer",
-        "Opportunité d'emploi",
-        "Contrat en alternance",
-        "en physique"
+        "transmission",
+        "reprise",
+        "Rencontres cédants repreneurs",
+        "conférences flash",
+        "aides à la reprise",
+        "valorisation",
+        "fiscal",
+        "social"
       ]
     },
     {
-      "uid": "30547721",
-      "title_fr": "Le théâtre des personnages balzaciens",
-      "description_fr": "La classe, l’œuvre !",
+      "uid": "30891507",
+      "title_fr": "Conférences du 45ème Forum des Arts et Métiers",
+      "description_fr": "Lors de la 45e édition du Forum Arts et Métiers au Parc Floral de Vincennes, des tables rondes exploreront réindustrialisation, innovation et durabilité en compagnie de grands noms de l'industrie\n\n<p><strong>45e édition du Forum Arts et Métiers au Parc Floral de Vincennes</strong></p>\n<p>La 45e édition du Forum Arts et Métiers au Parc Floral de Vincennes rassemble cette année étudiants, jeunes diplômés et acteurs majeurs de l’industrie française autour de thématiques d’actualité. Organisé dans le cadre de la Semaine de l'Industrie, cet événement met en lumière les grands enjeux auxquels fait face l'industrie aujourd'hui et demain. Au programme : trois tables rondes réunissant des dirigeants et experts pour aborder les sujets de la relocalisation, de l'industrie du futur et de la durabilité.</p>\n<p><strong>1. La relocalisation de l’industrie en France</strong><br>Horaire : 11h à 12h_<br>La première table ronde explorera les opportunités et les défis de la relocalisation de l'industrie en France, dans un contexte de redéfinition des chaînes d'approvisionnement mondiales. Avec l'impact de la pandémie de COVID-19 et des tensions géopolitiques, la relocalisation est devenue une priorité stratégique pour de nombreuses entreprises et pour l'État. L’objectif est de renforcer l’indépendance économique et d’assurer la résilience des chaînes de production.</p>\n<p><strong>Invités et sujets abordés :</strong><br>- <strong>Alain Di Crescenzo</strong>, Président de la CCI, discutera du rôle des Chambres de Commerce et d'Industrie pour soutenir la relocalisation des entreprises en France. Il présentera les initiatives locales qui facilitent l'installation de nouvelles usines et la réintégration de la production sur le territoire national.<br>- <strong>Alain Le Floch</strong>, Directeur Général de Tipiak, partagera son expérience sur la réorganisation des chaînes de valeur de Tipiak, un exemple concret de double relocalisation (usine et matières premières). Il expliquera comment cette stratégie contribue à améliorer la traçabilité et la qualité des produits, tout en réduisant la dépendance aux fournisseurs étrangers.<br>- <strong>Anaïs Voy-Gillis</strong>, Chercheuse et Chief Strategy and CSR Officer chez Humens, apportera une perspective académique en analysant les défis macroéconomiques de la relocalisation, comme les coûts associés, les besoins en infrastructures, et la question de la main-d'œuvre qualifiée.</p>\n<p>Les discussions aborderont des questions telles que l'impact de la relocalisation sur l'emploi, la compétitivité de l'industrie française dans un contexte de coûts élevés en Europe, et les mécanismes incitatifs que l’État pourrait mettre en place pour encourager davantage d’entreprises à réintégrer le territoire français. Le rôle des ingénieurs sera également abordé, notamment en matière de conception d'installations et de processus plus durables pour garantir que la relocalisation s'accompagne d'une moindre empreinte carbone.</p>\n<p><strong>2. Le futur de l’industrie</strong><br><em>Horaire : 13h30 à 14h30</em><br>Avec la quatrième révolution industrielle en pleine expansion, cette table ronde se concentre sur les technologies qui transforment le secteur industriel. De l’intelligence artificielle à l’Internet des objets (IoT), en passant par les jumeaux numériques et la robotique avancée, les technologies de l’industrie 4.0 ouvrent de nouvelles possibilités pour optimiser les processus de production, améliorer la maintenance, et réduire les coûts tout en augmentant la qualité.</p>\n<p><strong>Invités et sujets abordés :</strong><br>- <strong>Christophe Lienard</strong>, Directeur Central de l’Innovation chez Bouygues Group, introduira les nouvelles applications de l’IA dans l’industrie, en mettant l'accent sur le potentiel de l’IA pour analyser de grandes quantités de données et prévoir les besoins en maintenance. Il explorera aussi les défis de la transition vers une industrie décarbonée, abordant les technologies de capture et de stockage du carbone comme solutions pour réduire l’empreinte carbone.<br>- <strong>Sébastien Petzl</strong>, Directeur Général de Petzl, parlera des efforts de l’entreprise pour promouvoir une économie circulaire. Il détaillera les initiatives de Petzl pour prolonger la durée de vie des équipements en recyclant les matériaux et en adaptant les normes pour permettre la revente et la location de matériel.<br>- <strong>Jean-Jérôme Sémat</strong>, PDG d’Alfa Laval pour la France et l'Afrique du Nord-Ouest, mettra en lumière les innovations dans la maintenance énergétique, en particulier l’utilisation d’échangeurs thermiques reconditionnés pour réduire la consommation d'énergie dans les processus industriels.<br>- <strong>Frédéric Vétil</strong>, Directeur Manufacturing 4.0 &amp; Digital chez Safran, expliquera comment Safran utilise les jumeaux numériques et la traçabilité pour optimiser la production et la maintenance de ses équipements aéronautiques. Il abordera également la question de l'intégration des innovations pour améliorer l'efficacité et la durabilité des chaînes de production.<br><strong>- Raphaël Contamin</strong>, Directeur Général d’Equans digital, illustrera l'importance de la convergence OT/IT et des solutions de vision par ordinateur dans les chaînes de production modernes. Ses exemples concrets démontreront comment l'IA et la robotique permettent d’améliorer l’efficacité, la sécurité, et la durabilité des processus industriels.</p>\n<p>Les discussions de cette session se concentreront sur les avantages et les défis de l’Industrie 4.0, notamment en termes de gestion des données, de sécurité, et de compétences requises pour la main-d'œuvre. Les intervenants partageront également leurs visions sur l'évolution des rôles des ingénieurs et techniciens dans ce nouvel environnement technologique.</p>\n<p><strong>3. Construire une industrie responsable et durable</strong><br><em>Horaire : 15h à 16h</em><br>Cette table ronde portera sur la responsabilité sociétale des entreprises (RSE) et les stratégies de développement durable. Dans un contexte où la pression sociale et réglementaire s'accentue pour réduire l'impact environnemental de l'industrie, les entreprises doivent adopter des pratiques plus respectueuses de l’environnement tout en restant économiquement viables.</p>\n<p><strong>Invités et sujets abordés :</strong><br>- <strong>Aurélien Hamelle</strong>, Directeur Général Stratégie et Sustainability chez TotalEnergies, évoquera les efforts de Total pour réduire sa consommation énergétique, électrifier ses processus, et minimiser les émissions de CO2 et de méthane. Il présentera également des exemples concrets de reconversion de sites industriels pour la production de biocarburants.<br>- <strong>Natacha Cambriels</strong>, PDG de Butagaz, partagera l’engagement de Butagaz pour une transition énergétique juste et inclusive, avec des initiatives visant à améliorer l’accès à l’énergie et attirer les jeunes talents dans l'industrie. Elle mettra aussi en avant les efforts de Butagaz pour accroître la diversité de genre dans le secteur.<br>- <strong>Laurence Ruffin</strong>, PDG d'Alma Scop, discutera des valeurs coopératives et durables qui définissent Alma Scop. Elle détaillera les pratiques de l’entreprise pour promouvoir une industrie inclusive et équitable, tout en répondant aux exigences environnementales croissantes.<br>- <strong>Laurent-Guillaume Guerra</strong>, DRH Group et Vice-président exécutif chez Suez, abordera la gestion des ressources naturelles et les efforts pour minimiser l'impact environnemental des activités industrielles. Il partagera des stratégies pour intégrer des pratiques de recyclage et d'économie circulaire dans les processus industriels.</p>\n<p>Les échanges porteront sur les responsabilités écologiques et sociales des entreprises industrielles, ainsi que sur les défis pour adopter des pratiques durables sans compromettre la compétitivité. Les intervenants aborderont des sujets tels que la gestion de l'empreinte carbone, les politiques pour protéger la biodiversité, et les moyens d’encourager une culture d’entreprise plus inclusive.</p>\n<p><strong>Un forum engagé pour l'avenir de l'industrie</strong></p>\n<p>Cette 45e édition du Forum Arts et Métiers est une occasion unique pour les participants d’enrichir leur compréhension des défis et des opportunités de l'industrie moderne. En réunissant des leaders de l’industrie et des étudiants passionnés, cet événement favorise les échanges et les collaborations pour construire un avenir industriel responsable, innovant et résilient.</p>\n<p>Chaque table ronde invite à une réflexion profonde sur les transformations nécessaires pour que l’industrie française reste compétitive et durable, tout en répondant aux attentes sociétales et environnementales. Ce forum est ainsi un pont entre les aspirations des jeunes talents et les stratégies des grandes entreprises pour faire face aux défis de demain.</p>",
       "location_city": "Paris",
-      "location_name": "Maison de Balzac",
-      "location_address": "47 Rue Raynouard, 75016 Paris, France",
+      "location_name": "Parc floral",
+      "location_address": "Rte de la Pyramide, 75012 Paris",
       "location_coordinates": {
-        "lon": 2.280847,
-        "lat": 48.855356
+        "lon": 2.46229,
+        "lat": 48.81917
       },
-      "firstdate_begin": "2024-05-18T16:30:00+00:00",
-      "lastdate_begin": "2024-05-18T16:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/ee342def75f947ca85ac1c58f15f9e68.base.image.jpg",
+      "firstdate_begin": "2024-11-20T09:00:00+00:00",
+      "lastdate_begin": "2024-11-20T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/2cf9a7fce4de47a78b6a9d237a375121.base.image.jpg",
       "keywords_fr": null
     },
     {
-      "uid": "51562556",
-      "title_fr": "Dans les pas d'Hélène Berr",
-      "description_fr": "Concert autour du journal d'Hélène Berr et de pièces de Bach, Haydn, Schubert, Franck, Mantovani. Avec Marine Perez, flûte, Véronique Briel, piano et les 1ère du Lycée Honoré de Balzac (Paris 17).",
+      "uid": "10728735",
+      "title_fr": "IDEOLOGIC ORGAN MUSIC : Les Inspirations Visibles, Ep. 11: François J. Bonnet & Eliane Radigue",
+      "description_fr": "François J. Bonnet / Éliane Radigue -  Interprétation par l'Orchestre ONCEIM (Concert en collaboration avec le Festival d'Automne à Paris, La Muse en Circuit et l'Orchestre ONCEIM)\n\n<p>Une série de concerts imaginée sous le commissariat de Stephen O’Malley &amp; Hampus Lindwall pour l’Église du Saint-Esprit, Paris.</p>\n<p>Présentée et produite par Ideologic Organ Music et l’Association des Grandes Orgues à l’Église du Saint-Esprit - Jeanne Demessieux.<br>En collaboration avec le Festival d'Automne à Paris, la Muse en Circuit et l'Orchestre Onceim.<br>Ouverture des portes à 20h, concert à 20h30<br>1h40 avec entracte</p>\n<p>La nouvelle œuvre commandée à François J. Bonnet, Orbes, s'élève vers la voûte céleste où, sous l'effet de la gravité, les étoiles s'attirent les unes les autres. « Faites des vagues pour moi », c'est ce qu'Éliane Radigue a demandé à chacun des musiciens d'Occam Océan I. Cette œuvre fluide, qui repose sur une maîtrise subtile de chaque son, exerce une profonde fascination sur ses auditeurs.<br>Dans Paradise Lost, le poète John Milton parle d'« orbes éblouissants », en allusion à la pluralité des mondes différents. Satan se libère de l'enfer, du chaos et de la nuit afin de corrompre l'humanité naissante, et se fraye un chemin à travers son univers abstrait. Ces images ont inspiré cette pièce de François J. Bonnet. Explorant les possibilités des instruments eux-mêmes, il met en place des séquences et utilise les différentes énergies sonores afin de construire une composition dans laquelle chaque sphère est l'horizon d'une autre, dans des trajectoires multiples.<br>Occam Océan I nous plonge dans les vibrations vertigineuses qui nous entourent, celles de l'infiniment petit et celles entre le Soleil et la Terre, voire au-delà, vers d'autres galaxies. L'océan nous offre une image, à une échelle plus humaine, de la diversité de leurs longueurs, entre marée et déferlement, entre écume et rivage. Le titre de l'œuvre fait également référence au « rasoir d'Ockham », emprunté à un philosophe du XIVe siècle. Il s'articule autour d'un principe de simplicité, d'économie et de parcimonie, enrichissant notre connaissance du son et permettant à la force vitale qu'il porte en lui de se manifester simplement.</p>\n<p>IDEOLOGIC ORGAN MUSIC - Stephen O'MALLEY est soutenu par la DRAC Ile-de-France en conventionnement en 2023-2024 et en aide annuelle en 2025.</p>\n\nConditions: Prix des billets : de 8 € à 25 €",
       "location_city": "Paris",
-      "location_name": "Musée Jean Jacques Henner",
-      "location_address": "43 avenue de Villiers, 75017 Paris",
+      "location_name": "Les Inspirations Visibles - église du Saint-Esprit, 186 Av. Daumesnil 186, 75012 Paris",
+      "location_address": "186 Av. Daumesnil 186, 75012 Paris",
       "location_coordinates": {
-        "lon": 2.307705,
-        "lat": 48.883052
+        "lon": 2.398028,
+        "lat": 48.838472
       },
-      "firstdate_begin": "2024-02-04T10:00:00+00:00",
-      "lastdate_begin": "2024-02-04T10:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/e40be9b39eaf43eb894663ea9b56bde6.base.image.jpg",
-      "keywords_fr": null
-    },
-    {
-      "uid": "80517971",
-      "title_fr": "Architecture et mémoire depuis la Shoah",
-      "description_fr": "La rencontre a lieu au Mémorial de la Shoah",
-      "location_city": "Paris",
-      "location_name": "Mémorial de la Shoah",
-      "location_address": "17, rue Geoffroy l’Asnier 75004 Paris",
-      "location_coordinates": {
-        "lon": 2.356324,
-        "lat": 48.8548
-      },
-      "firstdate_begin": "2018-10-11T17:30:00+00:00",
-      "lastdate_begin": "2018-10-11T17:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_architecture-et-memoire-depuis-la-shoah_219500.jpg",
+      "firstdate_begin": "2025-10-06T18:30:00+00:00",
+      "lastdate_begin": "2025-10-06T18:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/15d19180dd554e55aec35201bd560eac.base.image.jpg",
       "keywords_fr": [
-        "architecture",
-        "mémoire",
-        "shoah",
-        "histoire",
-        "rencontre"
+        "Eliane Radigue",
+        "François J. Bonnet",
+        "Onceim",
+        "Les Inspirations Visibles",
+        "Eglise du St Esprit"
       ]
     },
     {
-      "uid": "4747634",
-      "title_fr": "Histoire générale de l'art - Abonnement annuel 21 Cours",
-      "description_fr": "HISTOIRE GENERALE DE L'ART SAISON 2022/2023 - COURS EN LIGNE",
+      "uid": "48405871",
+      "title_fr": "Je sors ce soir de Guillaume Dustan",
+      "description_fr": "Le T.O.C. - Mirabelle Rousseau\n\n<h3>Mercredi 5 novembre 2025 - 20 h</h3>\n<p>Showcase dans le cadre du <a href=\"https://rosabonheur.fr/events/event/cabaret-barge-2/\">Cabaret Barge #2</a><br><a href=\"https://www.google.com/search?client=safari&amp;rls=en&amp;q=rosa+bonheur+sur+seune&amp;ie=UTF-8&amp;oe=UTF-8\">Rosa Bonheur sur Seine</a>, 2 Port des Invalides, 75007 Paris</p>\n<p><strong>+++</strong> <a href=\"https://www.youtube.com/watch?v=DNO5gtfLt6g&amp;feature=youtu.be\"><strong>Teaser</strong></a><br><strong>+++</strong> <a href=\"http://www.letoc.fr\"><strong>Site du T.O.C.</strong></a><br><strong>+++</strong> <a href=\"https://rosabonheur.fr/events/event/cabaret-barge-2/\"><strong>Site du Rosa Bonheur</strong></a></p>\n<h2><em>“La foule de la nuit est polie, pas comme celle du jour.”</em></h2>\n<p>Je sors ce soir raconte une nuit en boîte, à Paris en 1996, lors d'une soirée \"Gay Tea Dance\". Dans le deuxième volet de sa trilogie “auto-bio-pornographique”, Guillaume Dustan impose une écriture transgressive, non formatée, qui incarne la culture pop des années 90-2000. La boîte de nuit devient l’espace du pur plaisir dans lequel le sexe, la drogue et la musique, dessinent l’esprit d’une époque. Le texte est à prendre comme un manifeste libéral et libertaire. Dustan n'aimait pas la fiction, considérée comme réactionnaire. Son texte nous emporte avec lui dans le pur présent d’une nuit blanche, le cœur battant au rythme des BPM.</p>\n<p><strong>Texte</strong> Guillaume Dustan | <strong>Avec</strong> Nicolas Cartier | <strong>Dramaturgie</strong> Muriel Malguy | <strong>Mise en scène</strong> Mirabelle Rousseau | <strong>Création musicale</strong> Kerwin Rolland | <strong>DJ</strong> Didier Léglise | <strong>Conseil chorégraphie</strong> Arnaud Pirault | <strong>Répétitrice</strong> Sarah Gindre Boudiar | <strong>Regard complice</strong> Christophe Vix-Gras | <strong>Le projet est accompagné</strong> par <a href=\"https://www.linkedin.com/in/emma-enjalbert-61a844/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&amp;originalSubdomain=fr\">Bonsoir Paris</a><br>Les œuvres complètes de Dustan sont éditées chez <a href=\"https://www.pol-editeur.com/index.php?spec=livre&amp;ISBN=978-2-8180-6353-8\">P.O.L..</a></p>\n<p><strong>Production</strong> Le T.O.C. - Théâtre Obsessionnel Compulsif | <strong>La compagnie T.O.C. est conventionnée</strong> par la DRAC Ile-de-France-Ministère de la Culture et la Région Ile de France (permanence culturelle et artistique). Avec le soutien du TMB et de la Ville de Montreuil, du Théâtre Vitez - Ivry-sur-Seine et du 104 - Paris. <strong>Aide à la création</strong> d'une bande originale de la SPEDIDAM ​</p>\n\nConditions: Entrée libre",
       "location_city": "Paris",
-      "location_name": "RMN-GP",
-      "location_address": "254/256 rue de Bercy, 75577 Paris CEDEX 12, France",
+      "location_name": "Rosa bonheur sur seine",
+      "location_address": "2 Port des Invalides",
       "location_coordinates": {
-        "lon": 2.379433,
-        "lat": 48.840482
+        "lon": 2.313378,
+        "lat": 48.863118
       },
-      "firstdate_begin": "2022-07-31T22:00:00+00:00",
-      "lastdate_begin": "2022-12-30T23:00:00+00:00",
+      "firstdate_begin": "2025-11-05T19:00:00+00:00",
+      "lastdate_begin": "2025-11-05T19:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/2fe24b80e06043d8b9e244f83e27ef7b.base.image.jpg",
+      "keywords_fr": [
+        "Maquette",
+        "Showcase"
+      ]
+    },
+    {
+      "uid": "90738052",
+      "title_fr": "Le Roi, la Reine et le Bouffon",
+      "description_fr": "Cie La Grande T - Clémence Coullon\n\n<p>Il était une fois un roi et une reine vraiment très méchants, et un bouffon persécuté. Enfermés malgré eux dans un palais, ils doivent cohabiter. Trois clowns grotesques et cruels, aux corps tordus et dégingandés, tout droit sortis de chez Beckett, Kantor ou même Tarantino. Pathétiquement drôles, ces trois antihéros névrosés se disputent le pouvoir et ça déborde de toutes parts. D’une valse monstrueuse à un suicide, en passant par des courses-poursuites et des résurrections, le trio sarcastique ne recule devant rien pour venir explorer les rouages de la violence et de son renversement. Comment échapper au réel qui enferme et aux stéréotypes sinon par la jouissance du jeu ? Loin de tout naturalisme, voici une farce sur le pouvoir et la possibilité d’en abuser, une anatomie joyeuse et clownesque de la violence et de la domination. Un conte désossé qui met aux prises les figures de notre enfance dans une quête effrénée de liberté, un combat désespéré contre l’ennui !<br><em><strong>Texte et mise en scène</strong></em> <em>Clémence Coullon</em><br><em><strong>Avec</strong></em> <em>Clémence Coullon, Myriam Fichter, Tom Menanteau, Guillaume Morel</em><br><em><strong>Production</strong></em> <em>compagnie La Grande T</em><br><em><strong>en coproduction</strong></em> <em>avec La Ferme du Buisson – scène nationale  de Marne-la-Vallée</em><br><em><strong>avec la participation artistique</strong></em> <em>du Jeune théâtre national.</em><br><em>Ce projet est lauréat 2025 du Fonds régional pour les talents émergents – FoRTE, action financée par la région Ile-de-France.</em><br><a href=\"https://www.la-tempete.fr/saison/spectacles/le-roi-la-reine-et-le-bouffon\">Plus d'informations</a></p>",
+      "location_city": "Paris",
+      "location_name": "Théâtre de la Tempête",
+      "location_address": "Route Du Champ de Manoeuvre, 75012 Paris",
+      "location_coordinates": {
+        "lon": 2.450684,
+        "lat": 48.835058
+      },
+      "firstdate_begin": "2026-02-05T19:30:00+00:00",
+      "lastdate_begin": "2026-02-22T15:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/321ea93b288a4354ae50da007815a847.base.image.jpg",
+      "keywords_fr": [
+        "théâtre / musique / absurde"
+      ]
+    },
+    {
+      "uid": "20167566",
+      "title_fr": "Fresque de l'Alimentation chez les Petites Cantines",
+      "description_fr": "Et si, le temps d’un atelier, vous découvriez le pouvoir caché dans votre assiette avec la Fresque de l'Alimentation? Et parce que le plaisir de manger se partage, restez dîner aux Petites Cantines!\n\n<p>Et si, le temps d’un atelier, vous découvriez le pouvoir caché dans votre assiette ?<br>En 3h30, on vous promet des déclics, des échanges passionnants et des clés concrètes pour que vos repas — même les coquillettes — contribuent à un futur durable.</p>\n<p>La Fresque de l'Alimentation, c'est un atelier en Intelligence Collective en plusieurs étapes :<br>Démarrage (30 min) : icebreaker, présentation des participant.e.s, de l’animateur.rice, de l’atelier, …<br>Réflexion (1h15) : réassembler le puzzle des causes et conséquences de nos consommations sur le climat, la biodiversité, la santé et la résilience alimentaire<br>Solutions (30 min) : quelles solutions pouvons-nous mettre en place dès maintenant à notre échelle pour tendre vers une alimentation plus durable ? Quelles sont leurs conséquences ?<br>Actions (30 min) : choix d’une action individuelle et une action collective pour tendre vers une alimentation plus durable et anticipation des difficultés/freins qui pourraient être rencontrés<br>Débrief (15 min) : retours sur l’atelier, derniers conseils, quelle suite donner à l’atelier, ...</p>\n<p>Croyez-nous, ça passe (très) vite ! - Sur réservation: <a href=\"https://shorturl.at/5R8aU\">https://shorturl.at/5R8aU</a></p>\n<p>Et si vous le souhaiez, prolongez le moment avec un dîner et la découverte de recettes durables dans la convivialité et la passion des Petites Cantines!</p>\n\nConditions: 10 euros min pour l'atelier, Sur inscription",
+      "location_city": "Paris",
+      "location_name": "Les Petites Cantines Paris",
+      "location_address": "94 Bd Vincent Auriol, 75013 Paris",
+      "location_coordinates": {
+        "lon": 2.36367,
+        "lat": 48.833717
+      },
+      "firstdate_begin": "2025-10-01T14:00:00+00:00",
+      "lastdate_begin": "2025-10-01T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/84e051e05ad248fb8939a6f1eb17c875.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "40019963",
+      "title_fr": "Taillage et cuisson des légumes",
+      "description_fr": "Apprenez les techniques indispensables de Chef et réalisez des recettes dignes des plus grands.\n\n<p>La technique est à la cuisine ce que le solfège est à la musique ! Il est des règles incontournables qu’il faut maîtriser pour devenir un virtuose ! Apprenez les techniques indispensables de Chef et réalisez des recettes dignes des plus grands.<br>Au menu :<br>- Carottes glacées<br>- Confit d'oignons<br>- Chou farci aux petits légumes<br>- Brocolis tempura, mayonaise curry rouge, salade germes de poireaux et cresson</p>\n<p><strong>Merci de vous inscrire en ligne sur le site de L'atelier des Chefs :</strong> <a href=\"https://www.atelierdeschefs.fr/cours-de-cuisine/331022/taillage-et-cuisson-des-legumes/\">https://www.atelierdeschefs.fr/cours-de-cuisine/331022/taillage-et-cuisson-des-legumes/</a></p>\n\nConditions: Prix préférentiel de 63 € dans le cadre de La Grande Semaine Végétale (prix initial de 79 €).",
+      "location_city": "Paris",
+      "location_name": "L'atelier des Chefs - Paris Saint Lazare (9ème)",
+      "location_address": "20 rue Saint Lazare, 75009 Paris",
+      "location_coordinates": {
+        "lon": 2.337383,
+        "lat": 48.876826
+      },
+      "firstdate_begin": "2025-10-03T13:30:00+00:00",
+      "lastdate_begin": "2025-10-03T13:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/c0d7265bb6f3478a9cffca28106c5857.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "8946471",
+      "title_fr": "Journée récolte aromatique",
+      "description_fr": "Le Jardin21 propose des ateliers de jardinage gratuits et accessibles à tous·tes, tous les samedis et chaque premier dimanche du mois.\n\n<p>De 15h30 à 17h30, venez récolter les herbes aromatiques du jardin : thym, romarin, origan, basilic, plante curry, tagete passion, sauge, hysope etc.<br>Les premiers arrivés seront les premiers servis, prenez vos sachets.</p>\n\nConditions: Gratuit.",
+      "location_city": "Paris",
+      "location_name": "Jardin21",
+      "location_address": "12a Rue Ella Fitzgerald, 75019 Paris",
+      "location_coordinates": {
+        "lon": 2.395462,
+        "lat": 48.896469
+      },
+      "firstdate_begin": "2025-09-28T13:30:00+00:00",
+      "lastdate_begin": "2025-09-28T13:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/1f9cc466f33149a28b44f78f06ca38bc.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "87705260",
+      "title_fr": "Goûtez les légumes sublimés",
+      "description_fr": "Découvrez « Aux petits oignons », une nouvelle marque de plats cuisinés 100% gourmande, 100% végétale lancée par Labeyrie Fine Foods lance.\n\n<p>La marque « Aux petits oignons » a été pensée pour faciliter la transition végétale. Des légumes confits, sautés, grillés… finement travaillés et associés à des épices, légumineuses et toppings gourmands, pour décupler les arômes du végétal.</p>",
+      "location_city": "Paris",
+      "location_name": "MONOPRIX DRAGON",
+      "location_address": "52 Rue de Rennes, 75006 Paris",
+      "location_coordinates": {
+        "lon": 2.326244,
+        "lat": 48.846306
+      },
+      "firstdate_begin": "2025-10-03T06:00:00+00:00",
+      "lastdate_begin": "2025-10-03T06:00:00+00:00",
       "image": null,
       "keywords_fr": null
     },
     {
-      "uid": "70324854",
-      "title_fr": "Laque japonaise et kintsugi",
-      "description_fr": "Découverte de la laque traditionnelle japonaise et du kintsugi : l'art de réparer la céramique",
+      "uid": "91123040",
+      "title_fr": "Stand AVF - LGSV",
+      "description_fr": "🥗 Passez au stand AVF et découvrez comment végétaliser votre alimentation facilement et avec plaisir 🌱✨ !\n\n<p>🥗 Venez découvrir le stand de l’Association Végétarienne de France (AVF) au festival de La Grande Semaine Végétale à Plantation Paris !</p>\n<p>Découvrez des conseils pratiques, des recettes savoureuses et échangez avec une communauté engagée pour rendre votre alimentation plus saine, responsable et délicieuse. 🌱✨</p>\n\nConditions: Entrée libre",
       "location_city": "Paris",
-      "location_name": "Nicolas Pinon laqueur",
-      "location_address": "33 rue de Montreuil 75011 Paris",
+      "location_name": "Plantation Paris",
+      "location_address": "37 Rue des Cheminots 75018 Paris",
       "location_coordinates": {
-        "lon": 2.386136,
-        "lat": 48.850507
+        "lon": 2.356558,
+        "lat": 48.895687
       },
-      "firstdate_begin": "2023-04-01T08:00:00+00:00",
-      "lastdate_begin": "2023-04-02T08:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/a84a4302f5b94af69e43f8bad3734941.base.image.jpg",
+      "firstdate_begin": "2025-09-28T08:00:00+00:00",
+      "lastdate_begin": "2025-09-28T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/35d01a637e924816aaa7566db9786ef5.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "92599801",
+      "title_fr": "PLAN Libre - Cantine végétarienne et solidaire",
+      "description_fr": "Une cuisine maison élaborée avec amour à partir de fruits et légumes bio, des boissons biologiques ou faites maison, mais aussi des encas sucrés et salés à tout heure.\n\n<p>Implanté au sein du centre d’hébergement de la Cité de Refuge, Plan Libre est un Tiers-lieu de quartier où se retrouvent personnes hébergées, habitant·e·s du quartier, travailleur·euse·s indépendant·e·s, porteurs de projets innovants et salarié·e·s d’entreprise du territoire. Lieu de liens, de convivialité, de partage des savoirs et d’innovation, cet espace intégré et ouvert propose différents services de restauration durable et solidaire, de coworking, d’ateliers, de médiation numérique et de détente, au service de toutes et tous.</p>\n\nConditions: Restaurant en accès libre. Menu Entrée-Plat-Dessert à 9€.",
+      "location_city": "Paris",
+      "location_name": "PLAN Libre",
+      "location_address": "12 rue Cantagrel",
+      "location_coordinates": {
+        "lon": 2.376888,
+        "lat": 48.826819
+      },
+      "firstdate_begin": "2025-09-23T10:00:00+00:00",
+      "lastdate_begin": "2025-09-23T10:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d0d678247a8843e8b24d08544844472c.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "94693877",
+      "title_fr": "Stage d'initiation aux échasses",
+      "description_fr": "Stage d'initiation aux échasses pour les enfants à partir de 7 ans.\n\n<p>Stage d'initiation aux échasses pour les enfants à partir de 7 ans.<br>Tenir en équilibre sur échasses, maîtriser différents types de déplacements, apprendre à chuter.</p>",
+      "location_city": "Paris",
+      "location_name": "Centre Social et Culturel Didot",
+      "location_address": "15 Rue des Mariniers, 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.312261,
+        "lat": 48.827054
+      },
+      "firstdate_begin": "2025-07-21T12:00:00+00:00",
+      "lastdate_begin": "2025-07-24T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/f30aac3dd48f402fa78a53ab57c2c14e.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "68571717",
+      "title_fr": "Le plus grand immeuble de Paris, 750 appartements et 2 000 habitants,   Mouchotte Montparnasse de Jean Dubuisson et Jean-Pierre Jausserand Architectes",
+      "description_fr": "Visite commentée\n\n<p>Visite des parties communues de l'immeuble, une exposition sur ses caractéristiques architecturales, sa conception et ses caractéristiques techniques et la visite d'une sélection représentative d'appartements.</p>\n\nConditions: Gratuit, visites par groupes de 10 maximum",
+      "location_city": "Paris",
+      "location_name": "Immeuble Mouchotte",
+      "location_address": "8 rue du Commandant-René-Mouchotte 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.320851,
+        "lat": 48.839662
+      },
+      "firstdate_begin": "2025-10-18T08:00:00+00:00",
+      "lastdate_begin": "2025-10-19T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/91cea87d378a4300a164062e8fc9170e.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "69020890",
+      "title_fr": "Remise de prix",
+      "description_fr": "La soirée sera l'occasion de remettre un prix d'architecture.\n\n<p>Porté par la chaire partenariale d'enseignement et de recherche \"Le logement demain\", le prix du mémoire en architecture 2024 sera remis le vendredi 17 octobre à 18h30.</p>\n\nConditions: Entrée libre et gratuite",
+      "location_city": "Paris",
+      "location_name": "ENSA de Paris-Val de Seine",
+      "location_address": "1 Rue Jean Antoine de Baïf, 75013 Paris, France",
+      "location_coordinates": {
+        "lon": 2.384557,
+        "lat": 48.827849
+      },
+      "firstdate_begin": "2025-10-17T16:30:00+00:00",
+      "lastdate_begin": "2025-10-17T16:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/1d96bf6a64fd44518af3424c802cc1a1.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "32995377",
+      "title_fr": "Chemins Sonores",
+      "description_fr": "Le compositeur Juan Camilo Hernandez et Fanny Muller, spécialiste des agricultures urbaines proposent des ateliers en lien avec les associations d’agriculture urbaine du XXème arrondissement de ils à…\n\n<p>Le compositeur Juan Camilo Hernandez et Fanny Muller, spécialiste des agricultures urbaines proposent des ateliers en lien avec les associations d’agriculture urbaine du XXème arrondissement de Paris. Ensemble, ils développent une approche pluridisciplinaire à la croisée de l’environnement sonore et de la création plastique. À partir d’une collecte de sons, d’images et d’objets glanés, les participant·es créeront une fresque plastique et musicale , qui deviendra une partition interprétée par un·e musicien·ne de l’ensemble.</p>",
+      "location_city": "Paris",
+      "location_name": "Jardin des tisanes",
+      "location_address": "37 rue Olivier-Métra 75020 Paris",
+      "location_coordinates": {
+        "lon": 2.39322,
+        "lat": 48.873288
+      },
+      "firstdate_begin": "2025-07-09T12:00:00+00:00",
+      "lastdate_begin": "2025-07-16T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/6567fd2f62e34df28c035f2103cbe15c.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "34293245",
+      "title_fr": "A&M Alumni - Comment l’IA révolutionne les métiers d’ingénieur : l’essor de l’ingénierie générative",
+      "description_fr": "Une conférence organisée par les Arts&Métiers Alumni\n\nConditions: Sur inscription",
+      "location_city": "Paris",
+      "location_name": "Hotel des Arts et Métiers",
+      "location_address": "9bis avenue d'Iéna 75016 Paris",
+      "location_coordinates": {
+        "lon": 2.292062,
+        "lat": 48.863025
+      },
+      "firstdate_begin": "2025-06-16T16:30:00+00:00",
+      "lastdate_begin": "2025-06-16T16:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/5f0a65c1a01448f3bf72fc9dae0a8e38.base.image.jpg",
       "keywords_fr": [
-        "laque japonaise",
-        "kintsugi",
-        "laque",
-        "laque végétale",
-        "urushi"
+        "IA",
+        "Industrie",
+        "Arts&Métiers Alumni"
       ]
     },
     {
-      "uid": "95539624",
-      "title_fr": "ELLA RABESON à Paris (75)",
-      "description_fr": "Avec sa voix d’une grande authenticité, Ella Rabeson étonne par la qualité de ses prestations et par sa présence scénique.",
+      "uid": "75835064",
+      "title_fr": "Information, sensibilisation et dépistage",
+      "description_fr": "Information, sensibilisation et dépistage",
       "location_city": "Paris",
-      "location_name": "PARIS",
+      "location_name": "2 Rue des Poissonniers",
+      "location_address": "2 Rue des Poissonniers 75018 Paris",
+      "location_coordinates": {
+        "lon": 2.349915,
+        "lat": 48.885658
+      },
+      "firstdate_begin": "2025-05-27T09:00:00+00:00",
+      "lastdate_begin": "2025-05-27T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/5024f298809c4ffbaab12acf7bd4ade0.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "8075382",
+      "title_fr": "Journées Portes Ouvertes 2025 - Visite de l'agence d'architecture AW2",
+      "description_fr": "Journée portes ouvertes\n\n<p>Située Place Saint-Sulpice, dans le 6e arrondissement de Paris, AW2 ouvre ses portes au public afin de faire découvrir l'agence et le métier d'architecte.<br>À l'occasion des Journées nationales de l'architecture 2025, un parcours de visite du bureau parisien est proposé, avec plusieurs activités de découvertes sur les projets de l'agence. Avec des projets dans 45 pays différents, AW2 architecture &amp; interiors s’est construite une expérience forte et reconnue internationalement pour la conception de projets à forte valeur ajoutée.</p>\n\nConditions: Entrée et participation gratuite pour tous, sans inscription",
+      "location_city": "Paris",
+      "location_name": "AW² - Agence internationale d’architecture et de design",
+      "location_address": "1 rue du Vieux Colombier 75006 Paris",
+      "location_coordinates": {
+        "lon": 2.332634,
+        "lat": 48.8518
+      },
+      "firstdate_begin": "2025-10-18T10:00:00+00:00",
+      "lastdate_begin": "2025-10-19T10:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/71fe8324bc2748f1b03b9b1b399f6d4f.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "2480521",
+      "title_fr": "LES ILLUMINATIONS : Archipel des murmures - Vera vita viva !",
+      "description_fr": "L'Archipel des murmures mêle époques et esthétiques musicales, convoquant des compositrices qui ont toutes repoussé les limites de leur temps.\n\n<p>L’ensemble Les Illuminations poursuit son projet Prisme-s, dont la pierre angulaire est Messagesquisse de Pierre Boulez.</p>\n<p>Après Nuits d’Othman Louati, il étoffe sa collection de commandes à des compositeurs d’aujourd’hui autour du violoncelle concertant en invitant cette fois-ci <strong>Claire-Mélanie Sinnhuber qui imagine une pièce dont l’effectif de cinq instruments crée un étrange mélange protéiforme à travers des timbres convoquant des imaginaires variés.</strong></p>\n<p>Outre la polyphonie frottée, l’accordéon résonne avec un clavecin ancré dans le baroque, entre profane et sacré, Occident et Extrême-Orient.Autour de cette création, ce programme « L’Archipel des murmures » mêle époques et esthétiques musicales, convoquant des compositrices qui ont toutes repoussé les limites de leur temps.</p>\n<p>Se tisse ainsi un fil ininterrompu entre la liberté d’écriture baroque d’Élisabeth Jacquet de la Guerre, la poésie sonore de Kaija Saariaho, la fougue romantique d’Ethel Smyth et l’art du silence de Sofia Goubaïdoulina.</p>\n<p>Autour de cette création, ce programme <strong>« L’Archipel des murmures » mêle époques et esthétiques musicales, convoquant des compositrices qui ont toutes repoussé les limites de leur temps.</strong> Se tisse ainsi un fil ininterrompu entre la liberté d’écriture baroque d’Élisabeth Jacquet de la Guerre, la poésie sonore de Kaija Saariaho, la fougue romantique d’Ethel Smyth et l’art du silence de Sofia Goubaïdoulina.<br>En partenariat avec Culture Autrement.<br>Avec le soutien de la Fondation Mica Salabert.<br>LES ILLUMINATIONS - Aurélie ALLEXANDRE D’ALBRONN a été soutenu pour ce projet par la DRAC Ile-de-France au titre de l'aide au projet en 2025</p>\n\nConditions: Entrée gratuite. Lien de billetterie : https://www.helloasso.com/associations/les-agents-reunis-culture-autrement/evenements/ensemble-les-illuminations-archipel-des-murmures-vera-vita-viva",
+      "location_city": "Paris",
+      "location_name": "Jonesy Agency",
+      "location_address": "170 rue de Charonne, 75011 Paris",
+      "location_coordinates": {
+        "lon": 2.390698,
+        "lat": 48.855664
+      },
+      "firstdate_begin": "2025-09-19T17:30:00+00:00",
+      "lastdate_begin": "2025-09-19T17:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/3f289fdf7ec64b2399ef6b30ad0152b5.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "23586252",
+      "title_fr": "LE BALCON : LES LUNDIS MUSICAUX - Reflections",
+      "description_fr": "Le célèbre altiste anglais Lawrence Power transformera la salle Louis-Jouvet en un instrument immersif mêlant musique, vidéo et design sonore.\n\n<p>Le célèbre altiste anglais Lawrence Power transformera la salle Louis-Jouvet en un instrument immersif mêlant musique, vidéo et design sonore. Avec la réalisatrice Jessie Rodger et le sound designer Brett Cox, il propose une expérience sensorielle qui interroge notre perception de la scène et du son, entre miroirs et illusions. Au programme : des œuvres de Bach, George Benjamin, Arvo Pärt et quelques surprises.</p>\n<p>Alto <strong>Lawrence Power</strong> • Studio créatif <strong>Âme</strong><br>Production Le Balcon.<br>Avec le soutien de la Karolina Blaberg Stiftung.</p>\n<p><strong>LE BALCON</strong> est conventionné par la DRAC Ile-de-France sur la période 2023-2024-2025</p>\n\nConditions: 12 à 30€",
+      "location_city": "Paris",
+      "location_name": "Théâtre de l'Athénée Louis-Jouvet",
+      "location_address": "7 rue Boudreau",
+      "location_coordinates": {
+        "lon": 2.328999,
+        "lat": 48.872192
+      },
+      "firstdate_begin": "2026-02-23T19:00:00+00:00",
+      "lastdate_begin": "2026-02-23T19:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d621205e57284fa3b43d2151b68874a0.base.image.jpg",
+      "keywords_fr": [
+        "Les Lundis Musicaux",
+        "Lawrence Power",
+        "Âme"
+      ]
+    },
+    {
+      "uid": "1641036",
+      "title_fr": "LES CRIS DE PARIS - Balliamo!",
+      "description_fr": "Production Les Cris de Paris Coproduction Centre de Culture et de Rencontres d’Ambronay, Théâtre de Saint-Quentin-en-Yvelines\n\n<p>QUAL COSA PIÙ DEGNA<br>IL BALLO N’INSEGNA!<br>Il n’est rien de plus digne<br>que ce que la danse nous enseigne.<br>Alessandro Striggio, Tirsi e Clori</p>\n<p>La Danse érigée au rang des Arts est un phénomène assez nouveau dans les cours italiennes du début du XVIIème siècle. Il concilie le goût du temps pour les influences populaires et la mode du ballet de cour.</p>\n<p>Le madrigal, le ballet et la pastorale, qui mêlent fréquemment voix et instruments autour de la danse, sont des formes qui en cohabitant participent à l’invention de l’opéra ; la grande pastorale des 2 premiers actes de l’Orfeo en constitue le premier exemple frappant. Le Ballo delle Ingrate qui suivra, ou encore Volgendo il ciel, sont autant de preuves de ce rôle nouveau que Claudio Monteverdi réserve à la danse dans l’élaboration d’une pensée à la fois musicale et théâtrale.</p>\n<p>Désormais, l’usage d’un rythme sautillant, d’une mesure ternaire, d’une basse de chaconne, n’est plus le signe d’un simple divertissement. Une pièce religieuse peut contenir une danse macabre en prenant les atours d’une chaconne lancinante pour évoquer les vanités du monde ; une gaillarde enlevée peut s’inviter dans un psaume de louanges, parfois jusqu’à la transe ; une pavane douloureuse peut accompagner l’apparition de figures fantomatiques… La danse a une fonction dramatique, de même que l’antique Terpsichore côtoyait Melpomène, mais plus encore, elle peut servir de prétexte à des élaborations rythmiques d’une complexité nouvelle, et le grand madrigal polyphonique qui conclut Tirsi e Clori, lancé par son vigoureux « Balliamo ! » en constitue l’illustration la plus irrésistible.</p>\n<p>Dans ce nouveau programme dédié à Claudio Monteverdi, Les Cris de Paris composent un Balletto imaginaire au sein duquel se côtoient le sacré et le profane, le chant soliste et la polyphonie, la virtuosité vocale et instrumentale.<br>L'ensemble Les Cris de Paris est soutenu par la DRAC Ile-de-France en conventionnement 2023-2024-2025.</p>\n\nConditions: https://www.maisondelaradioetdelamusique.fr/evenement/madrigaux-de-monteverdi-les-cris-de-paris?s=1081206#content-page",
+      "location_city": "Paris",
+      "location_name": "Auditorium de la Maison de la Radio",
+      "location_address": "116 Avenue du Président Kennedy, 75016 Paris",
+      "location_coordinates": {
+        "lon": 2.280434,
+        "lat": 48.853098
+      },
+      "firstdate_begin": "2025-12-16T19:00:00+00:00",
+      "lastdate_begin": "2025-12-16T19:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/1ee47d944b52495d83fc48be540eb248.base.image.jpg",
+      "keywords_fr": [
+        "cris de paris",
+        "Geoffroy Jourdain",
+        "Madrigaux",
+        "ballet",
+        "pastorale"
+      ]
+    },
+    {
+      "uid": "50210368",
+      "title_fr": "AMY KYLE",
+      "description_fr": "dans le cadre du Festival Culture Bar-Bars\n\n<p><strong>Amy Kyle</strong>, chanteuse, éducatrice, multi-instrumentiste et compositrice américaine, a formé Maurice en 2021. Le groupe a commencé à enregistrer son premier album, Bulldog, en 2022 et il est sorti le 25 avril 2025. Amy s'est installée en France en 2014 et a décidé de laisser de côté la musique classique pour explorer la musique qu'elle aime : le latin, le jazz et les styles folkloriques.<br>Maurice, son groupe, est composé de 4 musiciens talentueux, dont un guitariste (Guillaume Perrin), un bassiste (Slim Abida) et un batteur (Laurent Sériès). Chaque membre du groupe apporte avec lui ses propres styles et expériences, mais surtout sa joie de faire de la musique.<br><a href=\"https://www.instagram.com/maurice_music_group?fbclid=IwY2xjawM06alleHRuA2FlbQIxMABicmlkETE5emhBam9aMkdzRWZDZ3dvAR60xItvUoNt1okyryiEP9VNCVc98Ne2Bj8tTFeRnFQCnQ3m3uOpPmkfp6r1uA_aem_EqyCXdzINQOJjEDKzOip7A\">https://www.instagram.com/maurice_music_group?fbclid=IwY2xjawM06alleHRuA2FlbQIxMABicmlkETE5emhBam9aMkdzRWZDZ3dvAR60xItvUoNt1okyryiEP9VNCVc98Ne2Bj8tTFeRnFQCnQ3m3uOpPmkfp6r1uA_aem_EqyCXdzINQOJjEDKzOip7A</a><br><a href=\"https://youtu.be/snGu1nVO28k?si=-ZScPUOn7XwTSOGQ\">https://youtu.be/snGu1nVO28k?si=-ZScPUOn7XwTSOGQ</a></p>",
+      "location_city": "Paris",
+      "location_name": "CAVE CAFE",
+      "location_address": "134 rue Marcadet, 75018 Paris",
+      "location_coordinates": {
+        "lon": 2.339494,
+        "lat": 48.891338
+      },
+      "firstdate_begin": "2025-11-28T19:30:00+00:00",
+      "lastdate_begin": "2025-11-28T19:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/fed446b63149493a995f05f57fa263b6.base.image.jpg",
+      "keywords_fr": [
+        "Jazz adjacent",
+        "Indie",
+        "Impro"
+      ]
+    },
+    {
+      "uid": "95697751",
+      "title_fr": "Fiesta en Gare",
+      "description_fr": "Vincent Rosenblatt et Charles Fréger\n\n<h3>Vincent Rosenblatt</h3>\n<p>Un aperçu de l’exposition « Baile Funk : un cri de liberté » à la maison Folie Wazemmes de Lille<br>1er août → 15 septembre 2025<br>Gare du Nord, Paris<br>Les photographies de Vincent Rosenblatt sur les Bailes Funk de Rio de Janeiro (Brésil) sont prises dans les favelas et les périphéries de la ville. Depuis 2005, le photographe documente ces bals à ciel ouvert où l’on danse au rythme du funk carioca (nom que portent les habitants de Rio), « kaléidoscope de rythmes, de rituels, de territoires et d’identités », explique-t-il. « Les funkeiros ont partagé avec moi la responsabilité et le danger de produire des images de lieux ‘interdits’ de représentation, car stigmatisés par une certaine presse et constamment menacés d’interdiction.Ces dernières années, dans un contexte d’interdiction latente des bailes de favelas, une génération de jeunes producteurs a réinventé les nuits de Rio. »</p>\n<p>Cette exposition en gare du Nord invite à découvrir ces fêtes populaires, manifestes de fierté et de rébellion, et l’un des plus importants moteurs de la production artistique, aujourd’hui, au Brésil. Elle fait écho à l’exposition Baile Funk : un cri de liberté à la maison Folie Wazemmes, à Lille, programmée dans le cadre de Fiesta, 7ème édition de lille3000 et de la Saison Brésil France 2025.</p>\n<h3>Charles Fréger</h3>\n<p>Un aperçu de l’exposition « Charivari » au Musée de Flandre de Cassel<br>1er août → 15 septembre 2025<br>Gare Aéroport Charles de Gaulle 2 TGV, Paris<br>Les photographies de Charles Fréger de carnavals organisés entre la Belgique et les Hauts-de-France, l’expriment on ne peut mieux. Il y est question de satires, de renversements et de frictions sociales dans ces figures masquées, costumées et parfois méconnaissables, mais aussi de liens forts entre ces territoires et les traditions carnavalesques. Cette exposition en gare en révèle des images inédites en écho à l’exposition Charivari présentée au Musée de Flandre à Cassel, dans le cadre de lille3000.</p>\n<p>Extraits de la série Charivari, entamée en 2024, ces portraits appartiennent au nouvel opus du travail que le photographe mène depuis une quinzaine d’années sur les différentes formes de théâtralité dans les sociétés humaines au travers des fêtes et costumes populaires. Wilder Mann, premier opus, portait sur les mascarades hivernales européennes liées aux rites de passage des saisons et de fertilité de la terre. Après avoir réalisé divers projets et ouvrages consacrés aux mascarades au Japon, dans les Amériques et en Inde, Charles Fréger revient depuis un an au territoire européen. Si Wilder Mann met en lumière des pratiques essentiellement rurales, où le costume, fait de paille ou de peau de bête révèle la recherche d’une connexion à l’ordre naturel, c’est le bourg, la ville, sa vie et son ordre social qui sont au centre des mascarades de Charivari.</p>\n\nConditions: Gratuit",
+      "location_city": "Paris",
+      "location_name": "Gare du Nord et Gare Aéroport Charles de Gaulle 2 TGV, Paris",
       "location_address": "Paris",
       "location_coordinates": {
-        "lon": 2.320041,
-        "lat": 48.85889
+        "lon": 2.348392,
+        "lat": 48.853495
       },
-      "firstdate_begin": "2023-11-02T18:30:00+00:00",
-      "lastdate_begin": "2023-11-09T18:15:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/989d46d72aaf4ec9b23ca76dcfd07028.base.image.jpg",
-      "keywords_fr": [
-        "MADAGASCAR",
-        "JAZZ"
-      ]
-    },
-    {
-      "uid": "98441943",
-      "title_fr": "Sempre libera : Maria Callas à La Scala",
-      "description_fr": "À l’occasion des quarante ans de la disparition de cette immense interprète, l’Institut Culturel Italien célèbre son talent à travers une exposition qui réunit des costumes et des photographies.",
-      "location_city": "Paris",
-      "location_name": "Institut Culturel Italien de Paris",
-      "location_address": "50 rue de Varenne, Paris",
-      "location_coordinates": {
-        "lon": 2.322314,
-        "lat": 48.854438
-      },
-      "firstdate_begin": "2017-09-14T08:00:00+00:00",
-      "lastdate_begin": "2017-09-29T13:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_sempre-libera-maria-callas-a-la-scala_405317.jpg",
-      "keywords_fr": [
-        "Callas",
-        "La Scala",
-        "Milano",
-        "Parigi",
-        "Opéra",
-        "La Divina",
-        "Maria Callas"
-      ]
-    },
-    {
-      "uid": "54650666",
-      "title_fr": "DAGUERRE",
-      "description_fr": "\" Douze virages aux sonorités Pop/Rock/Folk riches de belles rencontres artistiques, avec en « Featuring » Martin Luminet, Emilie Marsh, HYL, Paul’O, Juliette Magnevasoa, Elena D., Vincent Bosler. \"",
-      "location_city": "Paris",
-      "location_name": "La Manufacture Chanson",
-      "location_address": "124 avenue de la république 75011 paris",
-      "location_coordinates": {
-        "lon": 2.385701,
-        "lat": 48.863008
-      },
-      "firstdate_begin": "2023-04-07T18:30:00+00:00",
-      "lastdate_begin": "2023-04-07T18:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/65f3fa1ccf0d4672968f27cd39c861da.base.image.jpg",
-      "keywords_fr": [
-        "musiclive",
-        "concert",
-        "paris",
-        "sortiràparis",
-        "chanson"
-      ]
-    },
-    {
-      "uid": "80482508",
-      "title_fr": "L'avis en vert (LSF)",
-      "description_fr": "Décrypter la publicité autour de l'environnement et mieux comprendre les biais cognitifs qu'elle utilise pour nous pousser à l'achat. ADAPTÉ AU PUBLIC SOURD.",
-      "location_city": "Paris",
-      "location_name": "Cité des sciences et de l'Industrie",
-      "location_address": "30 Avenue Corentin Cariou, 75019 Paris",
-      "location_coordinates": {
-        "lon": 2.387654,
-        "lat": 48.89568
-      },
-      "firstdate_begin": "2023-03-25T13:30:00+00:00",
-      "lastdate_begin": "2024-03-26T16:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/45437d40203d45298f7dbc5706f00afa.base.image.jpg",
+      "firstdate_begin": "2025-08-11T02:30:00+00:00",
+      "lastdate_begin": "2025-10-20T02:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e75217d2638c4da194d637a927e1ec1f.base.image.jpg",
       "keywords_fr": null
     },
     {
-      "uid": "74132542",
-      "title_fr": "SEJOUR ARTISTIQUE SUR L'ILE DE RE",
-      "description_fr": "Dans le cadre de l'opération \"Colos apprenantes\" par le Ministère de l'Éducation nationale, de la jeunesse et des sports.",
+      "uid": "49544085",
+      "title_fr": "Arènes de Lutèce - Visiter une exposition de 150 ans d’agriculture vus par la presse par l’Association Centre de la Presse",
+      "description_fr": "Un parcours ludique pour une découverte immersive au sein des Arènes : diverses animations et ateliers gratuits, permettant aux visiteurs d’explorer différents aspects de l’agriculture.\n\n<p>Pour l’édition 2025 des Journées Nationales de l'Agriculture, nous avons choisi un lieu historique et emblématique : les Arènes de Lutèce. Un <strong>parcours ludique</strong> pour une découverte immersive au sein des Arènes avec <strong>diverses animations et ateliers gratuits</strong>, permettant aux visiteurs <strong>d’explorer différents aspects de l’agriculture moderne et traditionnelle</strong>. Ce format offrira une expérience immersive et engageante, adaptée à tous les publics : enfants, familles et curieux.<br>Visiter une exposition de 150 ans d’agriculture vus par la presse par l’Association Centre de la Presse</p>",
       "location_city": "Paris",
-      "location_name": "Thalie",
-      "location_address": "23, rue de Saussure 75017 PARIS",
+      "location_name": "Arènes de Lutèce",
+      "location_address": "9 rue de Navarre 75005 Paris",
       "location_coordinates": {
-        "lon": 2.316241,
-        "lat": 48.884087
+        "lon": 2.353189,
+        "lat": 48.844308
       },
-      "firstdate_begin": "2021-04-18T06:00:00+00:00",
-      "lastdate_begin": "2021-04-24T22:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/45f1367ebb264a6f914be07c88945142.base.image.jpg",
+      "firstdate_begin": "2025-06-06T07:00:00+00:00",
+      "lastdate_begin": "2025-06-07T07:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/deb547de32c74e4d9fb17efd83ad5095.base.image.jpg",
       "keywords_fr": [
-        "theatre",
-        "cinéma",
-        "mangas",
-        "photo"
+        "#agridemain #jnagri2025 #jnagri"
       ]
     },
     {
-      "uid": "90356918",
-      "title_fr": "MOBILITE ET CULTURE À PARIS",
-      "description_fr": "dans le cadre de l'opération \"colonies apprenantes\" par le Ministère de l'Éducation Nationale.",
+      "uid": "97785328",
+      "title_fr": "Arènes de Lutèce - Projet Terroir - Participer à la fresque du « Mieux manger local »",
+      "description_fr": "Bouge ton Coq propose de participer à la fresque du « Mieux manger local »\n\n<p>La Fresque du Mieux Manger Local éclaire les grands enjeux alimentaires et valorise les initiatives locales à chaque étape de la chaîne : production, transformation, distribution et consommation. Elle donne à chacun les clés pour comprendre et les moyens d’agir.<br>À travers des exemples, les participant·es explorent les impacts environnementaux, sociaux, économiques et sanitaires liés à leur production, transformation, distribution et consommation.<br>Le groupe identifie des solutions concrètes accessibles à chaque étape de la chaîne alimentaire.<br>L’atelier se termine sur une dynamique collective : chacun·e repart avec une meilleure compréhension des enjeux et des pistes d’action adaptées à son quotidien, son métier ou son territoire.</p>",
       "location_city": "Paris",
-      "location_name": "CAMPING DE PARIS",
-      "location_address": "paris",
+      "location_name": "Arènes de Lutèce",
+      "location_address": "9 rue de Navarre 75005 Paris",
       "location_coordinates": {
-        "lon": 2.320041,
-        "lat": 48.85889
+        "lon": 2.353189,
+        "lat": 48.844308
       },
-      "firstdate_begin": "2023-10-30T08:30:00+00:00",
-      "lastdate_begin": "2023-11-03T08:30:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/032f156d6e984d5c8c513df8e441c6d3.base.image.jpg",
+      "firstdate_begin": "2025-06-06T07:00:00+00:00",
+      "lastdate_begin": "2025-06-07T07:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/09e7fc888de64d4396f11eb90814ff24.base.image.jpg",
       "keywords_fr": [
-        "paris",
-        "séjour",
-        "culture",
-        "mobilité",
-        "citoyenneté"
+        "#agridemain #jnagri2025 #jnagri"
       ]
     },
     {
-      "uid": "57542968",
-      "title_fr": "KINOKO",
-      "description_fr": "Chanson française, electro, pop",
+      "uid": "52613617",
+      "title_fr": "Célébrons les Producteurs de chez nous au U Express\n de PARIS TOMBE ISSOIRE",
+      "description_fr": "1 don = 1 coup de pouce aux agriculteurs\n\nConditions: Accès libre",
       "location_city": "Paris",
-      "location_name": "Aftersquat 59rivoli",
-      "location_address": "59 rue de Rivoli - 75001 Paris",
+      "location_name": "U Express Paris Tombe Issoire",
+      "location_address": "88 rue de la tombe issoire, Paris",
       "location_coordinates": {
-        "lon": 2.345767,
-        "lat": 48.859238
+        "lon": 2.332197,
+        "lat": 48.827292
       },
-      "firstdate_begin": "2012-05-26T16:00:00+00:00",
-      "lastdate_begin": "2012-05-26T16:00:00+00:00",
-      "image": "https://cibul.s3.amazonaws.com/event_kinoko_00.jpg",
+      "firstdate_begin": "2025-06-06T07:00:00+00:00",
+      "lastdate_begin": "2025-06-07T07:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/4414681366864456bcbc5862b0656f96.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "33387513",
+      "title_fr": "Découverte des métiers de l'hébergement au sein d'un hôtel parisien 4*",
+      "description_fr": "Un hôtel 4* de l'Est parisien, en partenariat avec MEDERIC, L'école hotellière de Paris, organisent une visite de l'établissement afin de faire découvrir les différents métiers de l'hébergement.\n\n<p><strong>Découvrez les métiers de l'hôtellerie grâce à la visite d'un établissement haut de gamme parisien.</strong></p>\n<p>Cet évènement s'adresse à des <strong>terminales technologiques, générales ou professionnelles</strong> ayant pour projet une poursuite d'études <strong>vers le management hôtelier.</strong></p>\n<p>Vous êtes <strong>professeur</strong> et en découvrant cet évènement, vous pensez à l'un de vos jeunes <strong>en classe de terminale</strong>? Vous avez la possibilité de l'inscrire en l'informant ; au préalable, de l'évènement.</p>\n<p><strong>L'inscription individuelle est obligatoire</strong>. 15 places sont disponibles pour cette visite.<br>Toutes les personnes inscrites seront appelées par notre service promotion afin de vérifier le sérieux et le projet de formation envisagé.<br>Merci de fournir des coordonnées lors de votre inscription afin de recevoir le nom et l'adresse de cet hôtel 4* parisien au plus tard <strong>dans les 48h précédant la visite.</strong></p>",
+      "location_city": "Paris",
+      "location_name": "MÉDÉRIC, L'école hôtelière de Paris",
+      "location_address": "75017",
+      "location_coordinates": {
+        "lon": 2.306515,
+        "lat": 48.887435
+      },
+      "firstdate_begin": "2025-03-18T13:30:00+00:00",
+      "lastdate_begin": "2025-03-18T13:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/fdd41748283648768c305286de2e22ea.base.image.jpg",
       "keywords_fr": [
-        "Concert",
-        "59 Rivoli",
-        "entrée libre",
-        "chanson française",
-        "electro pop"
+        "Hôtellerie",
+        "Hébergement",
+        "Luxe",
+        "BTS",
+        "Apprentissage",
+        "Alternance",
+        "Hôtel",
+        "Témoignage",
+        "Service d'étage",
+        "Gouvernance",
+        "Conciergerie",
+        "Réception",
+        "Hospitality"
       ]
+    },
+    {
+      "uid": "48696340",
+      "title_fr": "Forum des métiers et de l'emploi des jeunes by Accor",
+      "description_fr": "Participez à des challenges autours des métiers de l'hôtellerie restauration, des interviews de collaborateurs et job dating ! + 30 recruteurs seront présents avec +150 offres à pourvoir !\n\n<p>Avec le soutien de la Région Académique Ile de France nous organisons le <strong>Forum des métiers et de l’emploi des jeunes by Accor</strong> à destination des collégiens, des lycéens et des bac+ en formation hôtellerie restauration. Cet évènement se déroulera le <strong>Jeudi 13 mars de 10h à 17h au Novotel Paris Centre tour Eiffel</strong>.<br>Le forum s’inscrit dans le cadre de la « Semaine des métiers du tourisme », initiative du Ministère de l’économie, des finances et du tourisme pour créer de l’attractivité sur les métiers du secteur, y compris l’hôtellerie restauration.<br>Lors de cette journée, 3 espaces sont prévus pour les jeunes afin qu’ils puissent :<br>- <strong>S’inspirer</strong> via des interviews de collaborateurs et des conférences sur la posture animées par Tonton Karim alias Karim Hechmi, influenceur RH<br>- <strong>Se découvrir</strong> des passions via des challenges métiers (réception, restauration &amp; étages)<br>- <strong>Se faire recruter</strong> auprès des hôteliers IDF en stage, alternance, job d’été ou pour un premier emploi !</p>",
+      "location_city": "Paris",
+      "location_name": "Novotel Paris Centre Tour Eiffel",
+      "location_address": "61 quai de Grenelle",
+      "location_coordinates": {
+        "lon": 2.283277,
+        "lat": 48.850021
+      },
+      "firstdate_begin": "2025-03-13T09:00:00+00:00",
+      "lastdate_begin": "2025-03-13T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/9172fd39b6964b8e8765041f99c53a04.base.image.jpg",
+      "keywords_fr": [
+        "job dating",
+        "hôtellerie",
+        "restauration",
+        "cuisine",
+        "réception",
+        "accueil",
+        "stage",
+        "emploi",
+        "cdi",
+        "cdd",
+        "alternance"
+      ]
+    },
+    {
+      "uid": "68878427",
+      "title_fr": "Job Dating ADAGIO : Votre Futur Commence Ici !",
+      "description_fr": "À l’occasion de la Semaine des Métiers du Tourisme, nos aparthotels ouvrent leurs portes aux talents passionnés ! Ne manquez pas cette chance unique de donner un nouvel élan à votre carrière !\n\n<p>Programme de l’événement :<br>🔹 Accueil des participants et présentation de l’événement<br>Nos équipes vous accueillent et vous présentent le déroulement de la demi-journée.</p>\n<p>🔹 Découverte des métiers et des opportunités<br>Présentation de notre marque et des postes à pourvoir dans nos aparthotels.</p>\n<p>🔹 Rencontres et échanges avec nos recruteurs<br>Un moment privilégié pour discuter avec nos collaborateurs afin d’en apprendre plus sur nos établissements et nos valeurs.</p>\n<p>🔹 Entretiens express (Job Dating) - 15 minutes</p>\n<p>Passez directement des entretiens avec nos recruteurs et maximisez vos chances de décrocher un poste.<br>📌 Important : Pensez à venir avec plusieurs copies de votre CV !<br>Cette journée est une opportunité unique pour intégrer un secteur dynamique et passionnant. Nous avons hâte de vous rencontrer ! 🚀</p>",
+      "location_city": "Paris",
+      "location_name": "Aparthotel Adagio Paris Reuilly",
+      "location_address": "13 Rue De Reuilly, 75012 Paris",
+      "location_coordinates": {
+        "lon": 2.385636,
+        "lat": 48.848984
+      },
+      "firstdate_begin": "2025-03-21T14:30:00+00:00",
+      "lastdate_begin": "2025-03-21T14:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/b1e342a321fb4e0a8b45d6984a849452.base.image.jpg",
+      "keywords_fr": [
+        "hotellerie",
+        "tourisme",
+        "aparthotel",
+        "hotel",
+        "Receptionniste",
+        "Maintenance",
+        "Technique",
+        "CDI",
+        "CDD",
+        "Temps plein",
+        "Temps partiel",
+        "Chef de reception",
+        "Paris Job dating"
+      ]
+    },
+    {
+      "uid": "6257275",
+      "title_fr": "Chère Melpomène - Performance",
+      "description_fr": "Pour la nuit des musées, une création sonore imaginée pour _Chère Melpomène_, élaborée à partir d'enregistrements de la salle d'exposition, devient performance, en s’enrichissant en live des sons de …\n\n<p>Pour la nuit des musées, une création sonore imaginée pour <em>Chère Melpomène</em>, élaborée à partir d'enregistrements de la salle d'exposition, devient performance, en s’enrichissant en live des sons de la soirée.<br>Cette création agit comme une invitation à une déambulation sonore et sensorielle de l'exposition.<br>Performance live de 20min à 20h et 22h par Shumeng Li et Martin Bas, étudiants de la filière « Artistes &amp; Métiers de l’exposition ».</p>",
+      "location_city": "Paris",
+      "location_name": "ENSBA de Paris - Palais des expositions des Beaux-Arts",
+      "location_address": "13 Quai Malaquais, 75006 Paris, France",
+      "location_coordinates": {
+        "lon": 2.334685,
+        "lat": 48.857792
+      },
+      "firstdate_begin": "2025-05-17T18:00:00+00:00",
+      "lastdate_begin": "2025-05-17T18:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/4b8d4d1dc595422f99fc8cef5c83b8fd.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "39558277",
+      "title_fr": "Exposition \"Musique et République, de la Révolution au Front populaire\"",
+      "description_fr": "L'exposition Musique et République, de la Révolution au Front populaire — organisée avec le concours du Conservatoire national supérieur de musique et de danse de Paris — met en lumière les liens la …\n\n<p>L'exposition Musique et République, de la Révolution au Front populaire — organisée avec le concours du Conservatoire national supérieur de musique et de danse de Paris — met en lumière les liens entre la musique et la construction de la République.<br>De la Révolution, qui organise de nouvelles institutions et utilise la musique pour fonder un sentiment patriotique, au Front populaire de 1936, qui fait le pari de l'émancipation sociale du citoyen par l'accès aux loisirs et à la culture, la formation et la pratique musicale permettent à la fois le partage d'un patrimoine sonore commun et l'expression personnelle, parfois subversive.<br>Les Archives nationales retracent l'histoire de cette rencontre entre le citoyen et la musique. Des partitions inédites retrouvées dans les fonds des Archives nationales, des instruments de musique étonnants ou oubliés, des correspondances politiques, des commandes passées à des compositeurs prestigieux et de nombreux autres documents, racontent une histoire mouvementée : celle d'un siècle et demi de production, d'éducation et de pratique musicales, envisagées en regard de l'idée républicaine.</p>",
+      "location_city": "Paris",
+      "location_name": "Archives nationales - Site de Paris",
+      "location_address": "60 Rue des Francs Bourgeois, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.357812,
+        "lat": 48.86045
+      },
+      "firstdate_begin": "2025-05-17T12:00:00+00:00",
+      "lastdate_begin": "2025-05-17T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/30fddacfa4ac40e1a32e5210ea4abcc7.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "70621067",
+      "title_fr": "Visite des Grands dépôts",
+      "description_fr": "Bâtiments prestigieux accueillant les archives médiévales et d’Ancien Régime, les dépôts Louis Philippe et Napoléon III ne sont ouverts que lors de rares événements. C’est l’occasion de découvrir de …\n\n<p>Bâtiments prestigieux accueillant les archives médiévales et d’Ancien Régime, les dépôts Louis Philippe et Napoléon III ne sont ouverts que lors de rares événements. C’est l’occasion de découvrir l’armoire de fer et quelques documents fondateurs : chartes mérovingiennes et carolingiennes, mètre étalon, Déclaration des droits de l’homme et du citoyen, etc.<br><strong>Départ en visite toutes les demi-heures / Visite de 45 minutes</strong><br><strong>Premier départ : 18h / Dernier départ : 23h. Groupes de 25 personnes.</strong></p>\n\nConditions: Retrait sur place d'un ticket de visite (gratuit)",
+      "location_city": "Paris",
+      "location_name": "Archives nationales - Site de Paris",
+      "location_address": "60 Rue des Francs Bourgeois, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.357812,
+        "lat": 48.86045
+      },
+      "firstdate_begin": "2025-05-17T16:30:00+00:00",
+      "lastdate_begin": "2025-05-17T22:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/526a077a91be4d58aac996ce8522ffd0.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "13825995",
+      "title_fr": "Visite hypnotique de l’exposition temporaire",
+      "description_fr": "Découvrez les œuvres de l’exposition temporaire La fabrique du Temps en compagnie d’une hypnotiseuse-médiatrice, et vivez une expérience insolite qui modifiera votre perception du temps et vous de  :…\n\n<p>Découvrez les œuvres de l’exposition temporaire La fabrique du Temps en compagnie d’une hypnotiseuse-médiatrice, et vivez une expérience insolite qui modifiera votre perception du temps et vous libérera de son emprise.<br>3 sessions : 19h30-20h00 | 20h15-20h45 | 21h00-21h30<br>Sur réservation.</p>\n\nConditions: Nombre de places limitées à 12 personnes par session",
+      "location_city": "Paris",
+      "location_name": "Musée de la poste",
+      "location_address": "34 Boulevard de Vaugirard, 75015 Paris, France",
+      "location_coordinates": {
+        "lon": 2.317269,
+        "lat": 48.841354
+      },
+      "firstdate_begin": "2025-05-17T17:30:00+00:00",
+      "lastdate_begin": "2025-05-17T17:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/f3b9e600c6a941bf959447ebaf9e252b.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "76810043",
+      "title_fr": "Ouverture des collections permanentes",
+      "description_fr": "Au coeur du quartier du Marais, découvrez les collections du musée Cognacq-Jay dédié à l'esprit des Lumières.\n\n<p>Au coeur du quartier du Marais, découvrez les collections du musée Cognacq-Jay dédié à l'esprit des Lumières.</p>",
+      "location_city": "Paris",
+      "location_name": "Musée Cognacq-Jay",
+      "location_address": "8 Rue Elzevir, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.361468,
+        "lat": 48.858202
+      },
+      "firstdate_begin": "2025-05-17T16:00:00+00:00",
+      "lastdate_begin": "2025-05-17T16:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/193150e31c424929b11861cd3eb5155d.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "95630845",
+      "title_fr": "Visite guidée Laissez-vous surprendre par les collections du musée de l’Armée",
+      "description_fr": "Visite guidée Laissez-vous surprendre par les collections du musée de l’Armée.\n\n<p><strong>Visite guidée</strong> <em><strong>Laissez-vous surprendre par les collections du musée de l’Armée</strong></em><strong>.</strong><br>Guidée par des médiateurs, découvrez en 30 minutes des objets des collections du Musée sur le thème de la nuit et les astres. Horaires : à 19h30, 20h30, 21h30, 22h30.<br>Sur réservation préalable (<a href=\"mailto:reservations@musee-armee.fr\">reservations@musee-armee.fr</a>) ou sur place dans la limite des places disponibles.</p>\n\nConditions: gratuit",
+      "location_city": "Paris",
+      "location_name": "Hôtel des Invalides - Musée de l'armée",
+      "location_address": "129 rue de Grenelle, 75007 Paris, France",
+      "location_coordinates": {
+        "lon": 2.312894,
+        "lat": 48.85819
+      },
+      "firstdate_begin": "2025-05-17T17:00:00+00:00",
+      "lastdate_begin": "2025-05-17T17:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/49d4a8944eb2406ab076f88852aa0e01.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "57173200",
+      "title_fr": "Redécouvrir le musée Bourdelle des ateliers au jardin",
+      "description_fr": "Redécouvrir le musée Bourdelle des ateliers aux jardins dans la magie d'une nocturne exceptionnelle\n\n<h3>Redécouvrir le musée Bourdelle des ateliers aux jardins dans la magie d'une nocturne exceptionnelle</h3>\n<p>Le musée Bourdelle ouvre exceptionnellement ses portes jusqu’à 22h pour la Nuit européenne des musées, permettant de redécouvrir le hall des plâtres entièrement rénové et le nouvel aménagement de la salle consacrée à Michel Dufet, l’accrochage contemporain d’Isabelle Giovacchini et son regard photographique sur les collections du musée et enfin pour vous permettre d’explorer le parcours numérique « Nouveaux regards » qui propose une approche singulière des collections à la lumière des études de genre.</p>\n<p><strong>L’emblématique hall des plâtres du musée Bourdelle</strong> a bénéficié depuis plus d’un an d’une restauration intérieure d’ampleur, qui a permis de redonner son éclat à cet espace muséal unique.<br>Les travaux ont été opérés des sols au plafond dans le respect du patrimoine architectural, à l’appui de recherches historiques poussées et de techniques innovantes.<br><strong>Attenante au hall des plâtres, la salle consacrée à Michel Dufet a été intégralement repensée.</strong> La scénographie a été conçue dans l'esprit des intérieurs de Michel Dufet : pilastres, papier peint dans des teintes chaudes composé de motifs géométriques. L'accrochage a été densifié et des focus sur l'édition et le style paquebot ont été intégrés.<br><em><strong>« Nouveaux regards » : un nouveau parcours pour l’application de visite</strong></em><br>« Nouveaux regards » vous propose un parcours singulier au cœur des collections du musée Bourdelle : de sortir des sentiers battus en explorant l’iconographie, l’œuvre, la vie d’Antoine Bourdelle et de ses proches, à la lumière des études de genre !<br><em><strong>Isabelle Giovacchini, \" Ce qui fut, ce qui est \"</strong></em> Contrepoint Contemporain<br>Dans l’Aile Portzamparc @museebourdelle<br>Isabelle Giovacchini (née en 1982) élabore depuis des années un travail expérimental sur l’image photographique. L'invitation du musée Bourdelle à un contrepoint contemporain permet à Isabelle Giovacchini de déployer sa poétique de l’accident, faite de lacunes et de traces.Dans les réserves du musée Bourdelle, fréquentées assidument, l’artiste a prélevé des pièces sculptées ou photographiques : une réflexion sur la ruine du temps et la fragilité des choses.<br>L'artiste livre ainsi des restitutions et des propositions qui donnent à voir autrement l’œuvre photographique d’Antoine Bourdelle, animé d’une souveraine passion pour le pouvoir des images.<br>Cet accrochage, composé de sept séries en forme de scénario visuel, offre d’approcher l’ampleur du travail d’Isabelle Giovacchini, dont les œuvres sont présentées régulièrement en France et à l’étranger.<br>Commissaire : Colin Lemoine<br>Propositions à découvir au musée Bourdelle en nocturne de 18h30 à 22h - dernière entrée 21h30. Gratuit sans réservation, dans la limite de la jauge<br>Ouverture du café-restaurant Le Rhodia jusqu'à 21h</p>",
+      "location_city": "Paris",
+      "location_name": "Musée Bourdelle",
+      "location_address": "18 Rue Antoine Bourdelle, 75015 Paris, France",
+      "location_coordinates": {
+        "lon": 2.318588,
+        "lat": 48.842975
+      },
+      "firstdate_begin": "2025-05-17T16:30:00+00:00",
+      "lastdate_begin": "2025-05-17T16:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/48b5565375f84014947cf8a2909b92a4.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "29703673",
+      "title_fr": "Visite flash - Le fardier de Cugnot",
+      "description_fr": "En 1769, L’ingénieur militaire Nicolas Cugnot construit le premier véhicule capable de s’affranchir de la traction animale. Venez découvrir l’histoire de cet audacieux projet qui déchaîna les  dans …\n\n<p>En 1769, L’ingénieur militaire Nicolas Cugnot construit le premier véhicule capable de s’affranchir de la traction animale. Venez découvrir l’histoire de cet audacieux projet qui déchaîna les passions.<br>Rendez-vous dans la collection Transports, rez-de-chaussée<br>Durée : 15 minutes</p>",
+      "location_city": "Paris",
+      "location_name": "Musée des arts et métiers",
+      "location_address": "60 Rue Réaumur, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.355422,
+        "lat": 48.865711
+      },
+      "firstdate_begin": "2025-05-17T19:30:00+00:00",
+      "lastdate_begin": "2025-05-17T21:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/3b8a8027ad7d414794c0b7065d8e01d5.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "86168058",
+      "title_fr": "Concert Gaël Faye invite",
+      "description_fr": "Pour la Nuit européenne des Musées, Gaël Faye invite les célèbres danseurs intore du Rwanda à performer pour la première fois aux côtés des tambours royaux du Burundi, récemment reconnus au mondial :…\n\n<p>Pour la Nuit européenne des Musées, Gaël Faye invite les célèbres danseurs intore du Rwanda à performer pour la première fois aux côtés des tambours royaux du Burundi, récemment reconnus au patrimoine mondial de l'Unesco pour une performance unique.</p>\n<p>Durée : sessions de 10 minutes</p>\n\nConditions: Gratuit et en accès libre. Réservez votre billet pour la Nuit européenne des musées sur louvre.fr.",
+      "location_city": "Paris",
+      "location_name": "Musée du Louvre et jardin des Tuileries",
+      "location_address": "Place du carrousel, 75001 Paris, France",
+      "location_coordinates": {
+        "lon": 2.334921,
+        "lat": 48.861277
+      },
+      "firstdate_begin": "2025-05-17T16:15:00+00:00",
+      "lastdate_begin": "2025-05-17T16:15:00+00:00",
+      "image": "https://cdn.openagenda.com/main/6ad54a1b2551469c9e37d1abe2f764db.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "86713140",
+      "title_fr": "Les fantômes bienveillants de la villa Seurat",
+      "description_fr": "Depuis la villa Seurat, la nuit, on peut entrevoir les ombres des sculptures de Chana Orloff. Le 18 mai le contact sera direct avec les fantomes de la villa Seurat.\n\n<p>Depuis la villa Seurat, la nuit, on peut entrevoir les ombres des sculptures de Chana Orloff.<br>Le 17 mai, le contact sera direct avec les fantômes bienveillants de la villa Seurat ! Dans cette maison conçue par Auguste Perret pour Chana Orloff, plus de 200 œuvres de cette artiste de Montparnasse vous attendent. La mise en lumière, en renforçant la perception des contrates, des pleins et des vides, en créant des jeux d'ombres sur les murs permet de découvrir ou de redecouvrir d'une manière ludique l'oeuvre de cette artiste qui a marqué l'histoire de l'art du XXe siècle.<br>Merci de réserver sur le site <a href=\"http://www.chana-orloff.org\">www.chana-orloff.org</a></p>\n\nConditions: De préférence sur inscription",
+      "location_city": "Paris",
+      "location_name": "Atelier-musée Chana Orloff",
+      "location_address": "7 Villa Seurat, 75014 Paris, France",
+      "location_coordinates": {
+        "lon": 2.332619,
+        "lat": 48.826161
+      },
+      "firstdate_begin": "2025-05-17T18:30:00+00:00",
+      "lastdate_begin": "2025-05-17T18:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/41e04aba72614cac8268e148b1ad96bd.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "23317732",
+      "title_fr": "Concours Art Postal",
+      "description_fr": "Illustrer l'un ou plusieurs des 10 mots proposés afin d'en faire une enveloppe d'art postal\n\n<h2><strong>Participez à notre concours d'art postal !</strong></h2>\n<p>Nous participons à l’opération « <strong>Dis-moi 10 mots pour la planète</strong> » du Ministère de la Culture, dans le cadre de la Semaine de la langue française, avec les 10 mots imposés.</p>\n<p>Dans ce cadre, nous vous proposons de nous envoyer <strong>vos enveloppes achetées, ou crées, et illustrées par vous en utilisant un ou plusieurs des 10 mots proposés</strong> dans la liste :</p>\n<ul>\n<li><p>Biome</p>\n</li>\n<li><p>Butiner</p>\n</li>\n<li><p>Canopée</p>\n</li>\n<li><p>Conséconscient</p>\n</li>\n<li><p>Débrousser</p>\n</li>\n<li><p>Empreinte</p>\n</li>\n<li><p>Glaner</p>\n</li>\n<li><p>Palmeraie</p>\n</li>\n<li><p>Solaire</p>\n</li>\n<li><p>Vivant</p>\n</li>\n</ul>\n<p><strong>Les concours sont ouverts à tous et également aux établissements scolaires.</strong></p>\n<h3><strong>Deadline pour les envois</strong></h3>\n<p>Avant le 30 juin 2025, 23.59h.</p>\n<h3><strong>Récompenses</strong></h3>\n<p>Certaines oeuvres seront choisies pour une présentation publique, <strong>en septembre 2025,</strong> à Paris, à une date qui sera précisée ultérieurement.</p>\n<h3>Inscription</h3>\n<ul>\n<li>Télécharger le bulletin d'inscription <a href=\"https://lespontsdelespoir.vision/2024/12/24/les-ponts-de-l-espoir-lance-son-concours-art-postal-2025/\">depuis notre site</a></li>\n</ul>\n\nConditions: sur inscription et bulletin de partivipation",
+      "location_city": "Paris",
+      "location_name": "Christine Cinéma Club",
+      "location_address": "4 rue Christine 75006",
+      "location_coordinates": {
+        "lon": 2.340174,
+        "lat": 48.854495
+      },
+      "firstdate_begin": "2025-01-01T23:01:00+00:00",
+      "lastdate_begin": "2025-06-29T22:01:00+00:00",
+      "image": "https://cdn.openagenda.com/main/ebaccb2bb77e435387362a036688ea0c.base.image.jpg",
+      "keywords_fr": [
+        "art postal",
+        "concours",
+        "dismoi10mots",
+        "planète",
+        "Kreyollywood"
+      ]
+    },
+    {
+      "uid": "77203042",
+      "title_fr": "Atelier Dessiner au jardin",
+      "description_fr": "Les pierres se trouvent sous toutes les formes au jardin des Tuileries. Avec la technique des deux crayons, pierre noire et craie blanche, venez dessiner statues, bosquets et architectures pour créer…\n\n<p>Les pierres se trouvent sous toutes les formes au jardin des Tuileries. Avec la technique des deux crayons, pierre noire et craie blanche, venez dessiner statues, bosquets et architectures pour créer votre jardin de pierres.</p>\n\nConditions: Atelier gratuit sur réservation dans la limite des places disponibles. Matériel fourni sur place.",
+      "location_city": "Paris",
+      "location_name": "Jardin des Tuileries, entrée Lemonnier",
+      "location_address": "Avenue du Général Lemonnier 75001 Paris",
+      "location_coordinates": {
+        "lon": 2.330769,
+        "lat": 48.862465
+      },
+      "firstdate_begin": "2025-06-07T08:00:00+00:00",
+      "lastdate_begin": "2025-06-08T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/8cf7ccb8ba2f4e95bf3f6a4ad2b6fe4f.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "35152049",
+      "title_fr": "Spectacle pour enfants à partir de 2 ans",
+      "description_fr": "Spectacle JP\n\n<p>Roses, ronces et jardins en chansons par la Compagnie REGARDE IL NEIGE</p>\n\nConditions: 2.70€. Seule l'entrée du parc est payante. Inscription le jour de l'événement à l'accueil.",
+      "location_city": "Paris",
+      "location_name": "Pavillon et parc de Bagatelle",
+      "location_address": "Route de Sèvres à Neuilly 75016 Paris",
+      "location_coordinates": {
+        "lon": 2.238851,
+        "lat": 48.863052
+      },
+      "firstdate_begin": "2025-06-07T12:30:00+00:00",
+      "lastdate_begin": "2025-06-08T12:30:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "38580442",
+      "title_fr": "Escape Game de l'Industrie",
+      "description_fr": "Un Escape Game sur table où chaque équipe collabore pour résoudre les énigmes et découvrir les grandes familles de métiers de l’industrie.\n\n<p>Aidez l’entreprise Greenlight à recevoir le grand prix de l’innovation !<br>Une expérience ludique et pédagogique en partenariat avec la Cité des sciences et de l’industrie, à destination des collégiens et des lycéens pour mieux comprendre l'industrie, ses enjeux et la diversité de ses métiers.<br>Escape Game collaboratif jouable sur table.<br>Durée : 40 minutes<br>30-35 élèves maximum<br>Nous vous invitons à compléter votre expérience avec les autres événements du programme Semaine de l’Industrie de la Cité des sciences et de l'industrie ou en visitant ses expositions permanentes et temporaires.<br>Une prise en charge financière du transport en autocar est possible si votre établissement est situé à plus de 45 minutes par les transports en commun.<br>(Cet Escape Game sur table peut être également joué en classe : éléments téléchargeable prêt à imprimer - prêt à jouer (+ séquences vidéo à visionner). Possibilité de recevoir également le jeu par courrier.)</p>",
+      "location_city": "Paris",
+      "location_name": "Cité des sciences et de l'industrie",
+      "location_address": "30, avenue Corentin Cariou  75930 Paris Cedex 19",
+      "location_coordinates": {
+        "lon": 2.387976,
+        "lat": 48.895752
+      },
+      "firstdate_begin": "2025-11-18T13:00:00+00:00",
+      "lastdate_begin": "2025-11-18T13:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/c147ff030cf94303b92c9c8cf3095828.base.image.jpg",
+      "keywords_fr": [
+        "Escape Game",
+        "Animation",
+        "Découverte des Métiers"
+      ]
+    },
+    {
+      "uid": "53410382",
+      "title_fr": "LA SEMAINE DE L 'INDUSTRIE DE LUXE : Le joaillier VAN CLEEF ET ARPELS recrute des JOAILLIERS et des SERTISSEURS",
+      "description_fr": "En partenariat avec FRANCE TRAVAIL PARIS 8ème, le joaillier VAN CLEEF ET ARPELS recrute des JOAILLIERS et des SERTISSEURS .\n\n<p>En partenariat avec FRANCE TRAVAIL PARIS 8ème, le joaillier VAN CLEEF ET ARPELS recrute des JOAILLIERS et des SERTISSEURS .</p>\n<p>Présentation de la Maison et des métiers de production, échange avec le chef d'atelier, entretien individuel</p>",
+      "location_city": "Paris",
+      "location_name": "Agence Paris 7 8 9eme St Petersbourg",
+      "location_address": "75008 Paris",
+      "location_coordinates": {
+        "lon": 2.326331,
+        "lat": 48.882484
+      },
+      "firstdate_begin": "2025-11-20T08:00:00+00:00",
+      "lastdate_begin": "2025-11-20T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d7b3a0ab7cca438296657a6b875546ee.base.image.jpg",
+      "keywords_fr": [
+        "La semaine de l'industrie",
+        "Recrutement"
+      ]
+    },
+    {
+      "uid": "69077891",
+      "title_fr": "Compétitivité, souveraineté et écologie : comment concilier les objectifs sans les amoindrir ?\"",
+      "description_fr": "Nous proposerons une table ronde avec nos associés et des partenaires témoins autour d'un décryptage sur le clean industrial deal et les meilleures stratégie de décarbonation de l'industrie.\n\n<p>L’année 2025 marque un tournant pour l’industrie européenne : avec le Clean Industrial Deal, l’Union européenne entend faire de la décarbonation un véritable levier de compétitivité et de souveraineté.</p>\n<p>De nombreux acteurs du secteur industriel dont vous faîtes sans doute partie sont concernés mais qu'est-ce que cela implique vraiment ?</p>\n<p>Décarboner l'industrie reste un enjeu de taille avec beaucoup d'écueils sur la route.</p>\n<p>Comment les dépasser pour se mettre en action et concilier ces ambitions de décarbonation avec les activités des entreprises ?</p>\n<p>Chez Carbone 4, nous suivons de près les évolutions majeures du secteur de l'industrie. Pour vous éclairer toujours plus, nous avons le plaisir de vous inviter à notre événement à l’occasion de la Semaine de l’industrie.</p>\n<p>Au programme :</p>\n<p>Décryptage des mesures du Clean Industrial Deal et des implications concrètes pour les industriels européens par nos managers Mélodie Pitre et Alexandre Huon de Kermadec<br>Table ronde animée par Jean-Marc Jancovici, avec :<br>Catherine Athènes (Vice President Group Sustainability and Public Affairs Europe, Constellium)<br>Emmanuelle Bromet (Vice President Sustainability, Arkema)<br>Thomas Gouzènes (Sous-directeur à la politique industrielle, DGE)<br>Sylvain Lambert, (Secrétaire Général du Cetim)<br>Un moment privilégié autour d'un petit-déjeuner pour échanger entre acteurs publics et industriels sur les leviers de résilience de l'industrie européenne.</p>",
+      "location_city": "Paris",
+      "location_name": "Gaité lyrique",
+      "location_address": "3 bis Rue Papin, 75003 Paris",
+      "location_coordinates": {
+        "lon": 2.353387,
+        "lat": 48.866581
+      },
+      "firstdate_begin": "2025-11-19T07:30:00+00:00",
+      "lastdate_begin": "2025-11-19T07:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/be965b16b0d941d082669a0bf0657288.base.image.jpg",
+      "keywords_fr": [
+        "environnement",
+        "ecologie",
+        "décarbonation",
+        "industrie",
+        "stratégie",
+        "compétitivité",
+        "souveraineté"
+      ]
+    },
+    {
+      "uid": "3407288",
+      "title_fr": "Escape Game de l'Industrie",
+      "description_fr": "Un Escape Game sur table où chaque équipe collabore pour résoudre les énigmes et découvrir les grandes familles de métiers de l’industrie.\n\n<p>Aidez l’entreprise Greenlight à recevoir le grand prix de l’innovation !<br>Une expérience ludique et pédagogique en partenariat avec la Cité des sciences et de l’industrie, à destination des collégiens et des lycéens pour mieux comprendre l'industrie, ses enjeux et la diversité de ses métiers.<br>Escape Game collaboratif jouable sur table.<br>Durée : 40 minutes<br>30-35 élèves maximum<br>Nous vous invitons à compléter votre expérience avec les autres événements du programme Semaine de l’Industrie de la Cité des sciences et de l'industrie ou en visitant ses expositions permanentes et temporaires.<br>Une prise en charge financière du transport en autocar est possible si votre établissement est situé à plus de 45 minutes par les transports en commun.<br>(Cet Escape Game sur table peut être également joué en classe : éléments téléchargeable prêt à imprimer - prêt à jouer (+ séquences vidéo à visionner). Possibilité de recevoir également le jeu par courrier.)</p>",
+      "location_city": "Paris",
+      "location_name": "Cité des sciences et de l'industrie",
+      "location_address": "30, avenue Corentin Cariou  75930 Paris Cedex 19",
+      "location_coordinates": {
+        "lon": 2.387976,
+        "lat": 48.895752
+      },
+      "firstdate_begin": "2025-11-19T09:00:00+00:00",
+      "lastdate_begin": "2025-11-19T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/c6071fedf11d4205a7b731374333876c.base.image.jpg",
+      "keywords_fr": [
+        "Escape Game",
+        "Animation",
+        "Découverte des Métiers"
+      ]
+    },
+    {
+      "uid": "42546571",
+      "title_fr": "Conférence : \"Henri Bonis (1868-1921), peintre éclairé et Vénérable de la Loge \"Travail et vrais amis fidèles, n° 137\"",
+      "description_fr": "Conférence \"Henri Bonis\"\n\n<p>La Grande Loge de France vous invite à une <strong>conférence publique, gratuite et ouverte à toutes et tous</strong> :<br><strong>\"Une part du patrimoine culturel de la Grande Loge de France :</strong><br><strong>Henri Bonis (1868-1921), peintre éclairé et Vénérable de la Loge n° 137 Travail et vrais amis fidèles\"</strong><br><strong>Conférencier : Christian Mange</strong><br><strong>Accompagnement musical : Hugues Leclère</strong><br>Initié en 1893, Henri Bonis s'impliqua activement dans la franc-maçonnerie, apportant sa sensibilité artistique à la symbolique maçonnique.<br>Il fut Vénérable Maître de la Loge n° 137 \"Travail et vrais amis fidèles\". Cette Loge qui connut bien des tribulations illustratives du bouillonnement maçonnique de la fin du XIXe siècle existe toujours à la Grande.Loge de France sous le nom de \"José Roigt-Thomas Jefferson\".<br>Christian Mange est un universitaire toulousain, spécialiste de l'histoire de l'art et \"la\" référence concernant Henri Bonis.<br><strong>Inscription préalable obligatoire (le justificatif d'inscription sera demandé):</strong><br><a href=\"https://my.weezevent.com/conference-publique-henri-bonis-et-la-loge-les-vrais-amis-fideles\"><strong></strong></a><strong><a href=\"https://my.weezevent.com/conference-publique-henri-bonis-et-la-loge-les-vrais-amis-fideles\">https://my.weezevent.com/conference-publique-henri-bonis-et-la-loge-les-vrais-amis-fideles</a></strong><strong>?</strong></p>\n\nConditions: Conférence gratuite ouverte à toutes et tous. Mais, inscription obligatoire. Le justificatif d'inscription sera demandé à l'entrée. suivre ce lien. https://my.weezevent.com/conference-publique-henri-bonis-et-la-loge-les-vrais-amis-fideles?",
+      "location_city": "Paris",
+      "location_name": "Hôtel de la Grande Loge de France, 8 rue Louis Puteaux 75017 Paris",
+      "location_address": "8, rue Louis Puteaux 75017 Paris",
+      "location_coordinates": {
+        "lon": 2.321792,
+        "lat": 48.883258
+      },
+      "firstdate_begin": "2025-09-20T17:30:00+00:00",
+      "lastdate_begin": "2025-09-20T17:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/7fdaefebef754664a2ae70241e11174f.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "53404392",
+      "title_fr": "Visite architecturale",
+      "description_fr": "Visite commentée architecturale\n\n<p>L’Institut Giacometti est installé dans l’ancien atelier de l’artiste-décorateur Paul Follot, un hôtel particulier classé Art Nouveau et Art Déco. À l’occasion de cette visite, découvrez aux côtés d’un médiateur ou d’une médiatrice ce bâtiment unique et ses décors, protégés par les Monuments historiques et conservés dans leur disposition d’origine.</p>\n\nConditions: Accès libre dans la limite des places disponibles",
+      "location_city": "Paris",
+      "location_name": "Institut Giacometti - Hôtel particulier Paul Follot",
+      "location_address": "5 rue Victor-Schœlcher 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.330991,
+        "lat": 48.836284
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T15:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/fb8dfd37cef74b1ca3c0045cb4eccd84.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "84653506",
+      "title_fr": "Visite guidée de la salle des Actes et de la galerie des pots",
+      "description_fr": "Visite commentée\n\n<p>La salle des Actes est un lieu privilégié où se déroulent les soutenances de thèses de doctorat, les séances de l’Académie nationale de Pharmacie, celles de la Société d’Histoire de la Pharmacie ainsi que des manifestations de prestige. Plus de 90 portraits ornent ses murs classés, reflétant l’évolution de la formation des apothicaires et des pharmaciens. Ce circuit propose également la visite de la galerie Valette dites “galerie des pots” qui regroupe des dons reçus par la Société d’Histoire de la Pharmacie et par la Faculté de Pharmacie de Paris. Un des principaux donateurs fut un pharmacien nommé Charles Fialon dont le buste de bronze peut être observé dans la salle.</p>\n\nConditions: 45 min de visite guidée, 35 personnes maximum par visite.",
+      "location_city": "Paris",
+      "location_name": "Faculté de Pharmacie de Paris",
+      "location_address": "4 avenue de l'Observatoire 75006 Paris",
+      "location_coordinates": {
+        "lon": 2.335923,
+        "lat": 48.84332
+      },
+      "firstdate_begin": "2025-09-20T07:30:00+00:00",
+      "lastdate_begin": "2025-09-20T07:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/3635b36460eb48c6af96b7a71e036998.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "67355104",
+      "title_fr": "Concert « Melpo, chants de la Grèce à dos d’âne » à la Fondation Hellénique",
+      "description_fr": "Concert « Melpo, chants de la Grèce à dos d’âne »\n\n<p>Concert « Melpo, chants de la Grèce à dos d’âne ». Les deux musiciennes, Cybèle Castoriadis et Violette Boulanger rendent hommage au matrimoine musical grec en reprenant des chansons traditionnelles d’Eleni Christophidou et de l’universitaire et musicologue, Melpo Merlier.</p>\n\nConditions: Entrée libre",
+      "location_city": "Paris",
+      "location_name": "Cité internationale universitaire de Paris - Fondation Hellénique",
+      "location_address": "47b Bd Jourdan 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.332307,
+        "lat": 48.820653
+      },
+      "firstdate_begin": "2025-09-20T18:00:00+00:00",
+      "lastdate_begin": "2025-09-21T15:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/af1beb6512b743bea7e69fd165552b70.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "79727750",
+      "title_fr": "Projections de vidéos courtes sur la ville et la province de Séville au Collège d'Espagne",
+      "description_fr": "Projection de vidéos courtes\n\n<p>Projections de vidéos courtes sur la ville et la province de Séville.</p>\n\nConditions: Entrée libre",
+      "location_city": "Paris",
+      "location_name": "Collège d'Espagne",
+      "location_address": "7 E boulevard Jourdan 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.341287,
+        "lat": 48.818675
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-20T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/a73df976e7c74aa0b58a455b5e58096f.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "18107825",
+      "title_fr": "Visites guidées des Pavillons de Bercy - Musée des Arts Forains",
+      "description_fr": "Visite commentée\n\n<p>À l'occasion des Journées européennes du patrimoine, profitez d'un tarif préférentiel pour visiter le musée-spectacle de Paris.</p>\n\nConditions: Tarif préférentiel JEP : 12€ pour tous au lieu de 18€ pour tous. À partir de 5 ans.",
+      "location_city": "Paris",
+      "location_name": "Pavillons de Bercy - Musée des Arts Forains",
+      "location_address": "53 avenue des Terroirs-de-France 75012 Paris",
+      "location_coordinates": {
+        "lon": 2.389224,
+        "lat": 48.832608
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/bf5c04ce322f4e2c8899db19901bc3ce.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "66507206",
+      "title_fr": "Architecte Constantin Melnikov, à Paris 100 ans après",
+      "description_fr": "Exposition sur Constantin Melnikov\n\n<h3>Architecte Constantin Melnikov. À Paris 100 après.</h3>\n<p>L'exposition marque deux dates importantes : le <strong>100ème</strong> anniversaire de l'Exposition des arts décoratifs 1925 à Paris, pour laquelle <strong>Melnikov</strong> a conçu un pavillon de l'URSS, et également le <strong>135ème</strong> anniversaire du remarquable architecte russe.<br>L'exposition raconte l'histoire du fameux pavillon rouge créé, il y a tout juste 100 ans, par Melnikov assitsé d'Alexandre Rodtchenko. Son oeuvre architecturale, pour laquelle il a reçu un diplôme commémoratif, s'est fait remarquer et a suscité beaucoup de réactions. Melnikov a réalisé une forme de synthèse de différentes tendances de l'avant-garde européenne d'une simplicité apparente et d'une modernité incroyable, il a su devancer son époque.<br>L'exposition présente également d'autres projets avant-gardistes de l'architecte réalisés à Moscou, notamment sa maison familiale devenue musée, les clubs sportifs et culturels, les garages.<br>L'oeuvre de Melnikov a beaucoup influencé l'architecture postérieure et, jusqu'à nos jours, reste moderne et inspire de nouveslles générations.<br>L'exposition est organisée avec le concours et provient des archives du <a href=\"https://muar.ru/dom-melnikova/\"><strong>Musée d'architecture Chtchoussev</strong> et du <strong>Musée maison Melnikov</strong></a> à Moscou.</p>\n<h3>Documentaire <em>MELNIKOV</em></h3>\n<p>Les 20 et 21 septembre, auront lieu <strong>des projections</strong> exclusives du documentaire <em>MELNIKOV</em>, réalisé par M.Melnik en 2023, qui raconte la vie et l'oeuvre de ce grand architecte qui a marqué le XXème siècle.<br><a href=\"https://youtu.be/o2xMMbLUU3Q?si=QloFp2HmP4B46f-p\">Trailer du film</a></p>",
+      "location_city": "Paris",
+      "location_name": "Centre spirituel et culturel orthodoxe russe",
+      "location_address": "1 quai Branly 75007 paris",
+      "location_coordinates": {
+        "lon": 2.299785,
+        "lat": 48.862122
+      },
+      "firstdate_begin": "2025-09-20T10:00:00+00:00",
+      "lastdate_begin": "2025-09-21T10:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d72d7403a56b41dba6a39e64b9b7c157.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "41789055",
+      "title_fr": "Sainte-Trinité dans le cadre du parcours de découverte des églises orientales",
+      "description_fr": "Circuit découverte des églises orientales\n\n<p>Ce parcours est une invitation à découvrir la richesse et la diversité des Églises orientales qui existent depuis le début de notre ère. Nées par la prédication des apôtres, à partir de Jérusalem, elles se sont étendues dans l’Empire romain et au-delà, jusqu’en Perse, en Inde, en Ethiopie….<br>Les chrétiens d’Orient sont les descendants de ces premiers chrétiens. Ils appartiennent à différentes Églises orientales, qui regroupent des réalités plurielles, des histoires mouvementées et des rites très diversifiés.</p>",
+      "location_city": "Paris",
+      "location_name": "Église catholique russe",
+      "location_address": "39 rue François-Gérard 75016 Paris",
+      "location_coordinates": {
+        "lon": 2.271084,
+        "lat": 48.848634
+      },
+      "firstdate_begin": "2025-09-20T13:00:00+00:00",
+      "lastdate_begin": "2025-09-21T13:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/70cfdc0107f14b98b6ad8d89f5bd41d4.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "74317023",
+      "title_fr": "Conférence \"Ruines, fragments et utopies architecturales dans les collections des Beaux-Arts de Paris\"",
+      "description_fr": "Conférence \"Ruines, fragments et utopies architecturales dans les collections des Beaux-Arts de Paris\"\n\n<p>Les Beaux-Arts de Paris ouvrent les portes de leurs bâtiments classés au titre des monuments historiques.</p>\n<p>Redécouvrez l'histoire de l'art par une conférence autour des \"Ruines, fragments et utopies architecturales dans les collections des Beaux-Arts de Paris\", menée par Alice Thomine-Berrada, responsable des collections, conservatrice des peintures, sculptures objets et mobiliers.<br>Amphithéâtre des Loges, accès dans la limite des places disponibles.</p>\n<p>Les Beaux-Arts de Paris, héritiers des Académies royales de peinture et de sculpture, sont tout à la fois un lieu de formation et d’expérimentations artistiques, un lieu d’exposition et de conservation de collections historiques et contemporaines et une maison d’édition. Implantés dans un site exceptionnel de plus de deux hectares en plein cœur de Paris, à deux pas de Saint-Germain-des-Prés, l’établissement présente un condensé d’architecture, du XVIIe avec la chapelle des Augustin, au XXe siècle avec le bâtiment signé Auguste Perret.</p>\n<p>Du XIXe siècle à mai 68, de l'académisme aux avant-gardes, les Beaux-Arts de Paris sont depuis 200 ans les témoins et les acteurs de leur temps.</p>",
+      "location_city": "Paris",
+      "location_name": "Beaux-Arts de Paris",
+      "location_address": "14 rue Bonaparte 75006 Paris",
+      "location_coordinates": {
+        "lon": 2.334594,
+        "lat": 48.85668
+      },
+      "firstdate_begin": "2025-09-21T10:00:00+00:00",
+      "lastdate_begin": "2025-09-21T10:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d815a215cd40444f8d2c54009a8112c9.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "16449664",
+      "title_fr": "Visite de l'église Saint-Ephrem-le-Syriaque dans le cadre du parcours des églises orientales",
+      "description_fr": "Circuit des Églises orientales\n\n<p>Ce parcours est une invitation à découvrir la richesse et la diversité des Églises orientales. Elles existent depuis le début de notre ère. Nées par la prédication des apôtres, à partir de Jérusalem, elles se sont étendues dans l’Empire romain et au-delà, jusqu’en Perse, en Inde, en Ethiopie….<br>Les chrétiens d’Orient sont les descendants de ces premiers chrétiens. Ils appartiennent à différentes Églises orientales, qui regroupent des réalités plurielles, des histoires mouvementées et des rites très diversifiés.</p>",
+      "location_city": "Paris",
+      "location_name": "Église Saint-Éphrem-le-Syriaque",
+      "location_address": "17 rue des Carmes 75005 Paris",
+      "location_coordinates": {
+        "lon": 2.347324,
+        "lat": 48.848431
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/0f227b359b5c45938a8d3a1af63e38fa.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "83907379",
+      "title_fr": "Sur les pas d’Yves Saint Laurent : balade rive gauche",
+      "description_fr": "Promenade urbaine guidée\n\n<p>Les 20 et 21 septembre 2025, à l’occasion des Journées européennes du patrimoine 2025, le Musée Yves Saint Laurent Paris – temporairement fermé pour rénovation – propose une promenade urbaine guidée inédite.<br>Sur la rive gauche de Paris, du 3 place Vauban – où Yves Saint Laurent et Pierre Bergé vécurent de 1961 à 1970 - à la rue Bonaparte, en passant par les adresses mythiques du 55 rue de Babylone, de la rue de Tournon ou encore de la place Saint-Sulpice, ce parcours met en lumière le Paris intime et créatif d’Yves Saint Laurent, à la découverte des lieux emblématiques liés à la vie et à l’œuvre du couturier.<br>Une invitation à redécouvrir le patrimoine architectural parisien des 6e et 7e arrondissements à travers le prisme d’une figure majeure de la mode du XXe siècle.</p>\n\nConditions: Ouverture des inscriptions fin août 2025",
+      "location_city": "Paris",
+      "location_name": "Circuit \"Sur les pas d’Yves Saint Laurent\"",
+      "location_address": "RDV 3 place Vauban 75007 Paris",
+      "location_coordinates": {
+        "lon": 2.313454,
+        "lat": 48.853325
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-21T12:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/8ab51958d9b646e7bde1508fd28a0d31.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "6798286",
+      "title_fr": "Visite insolite : l’île de la cité et la Guerre de Cent ans contées par Isabeau",
+      "description_fr": "Visite immersive \"L’île de la cité et la Guerre de Cent ans contées par Isabeau\"\n\n<p>Plongez en 1407 sur l’Île de la Cité , lors d’une visite guidée immersive. Guidés par Isabeau de Bavière, reine de France, incarnée par votre guide en costume d’époque, revivez une période charnière où intrigues politiques et luttes de pouvoir menacent de bouleverser le royaume.<br>En pleine guerre de Cent Ans, arpentez avec elle les lieux emblématiques de son époque, comme les abords du Palais de la Cité, la Sainte-Chapelle, et les ruelles animées qui entouraient alors la cathédrale Notre-Dame. Isabeau, confrontée aux rumeurs et aux complots, cherche à éviter le chaos à venir… mais peut-elle encore changer le cours de l’histoire ?<br>Une expérience captivante, mêlant histoire et immersion, à ne pas manquer pour petits et grands curieux d’histoire!<br>Visite d’2h pour adultes et enfants de plus de 12 ans sur réservation, nombre de places limitées, groupe entre 13 et 25 personnes maximum.</p>\n\nConditions: Sur réservation, tarif adulte : 10 € / Tarif réduit (étudiant - 25 ans, demandeurs d'emplois, jeunes de 12 à 17 ans) : 5€  / Gratuit pour les moins de 11 ans",
+      "location_city": "Paris",
+      "location_name": "Horloge de la tour carrée de la conciergerie du Palais de la cité",
+      "location_address": "Boulevard du Palais 75001 Paris",
+      "location_coordinates": {
+        "lon": 2.345407,
+        "lat": 48.854833
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-20T12:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/7f4148d9e3ce4d44a3a44f4b789f2200.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "33865648",
+      "title_fr": "Visites découvertes sur l’histoire et l’actualité de la Maison des étudiants suédois",
+      "description_fr": "Visite commentée\n\n<p>Visite découverte sur l’histoire et l’actualité de la maison qui intégrera le grand salon et une chambre témoin.</p>\n\nConditions: Entrée libre dans la limite des places disponibles.",
+      "location_city": "Paris",
+      "location_name": "Cité internationale universitaire de Paris - Maison des étudiants suédois",
+      "location_address": "7F boulevard Jourdan 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.341726,
+        "lat": 48.818424
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-20T15:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/6bbfa35bf4a3423d85cd52fae5e3a0bb.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "99386760",
+      "title_fr": "Journées du Matrimoine 2025 - Notre Matrimoine à l'Hôtel de Ville",
+      "description_fr": "JOURNEES DU MATRIMOINE Le Matrimoine à l'Hôtel de ville : rencontre et échanges\n\n<p>Rencontre avec les bénévoles de l’association HF Île-de-France au salon Matrimoine de l’Hôtel de Ville, dédié cette année aux femmes de théâtre.<br>Animation ludique avec le Jeu Matrimoine pour découvrir les grandes créatrices de l’histoire et exposition photographique rétrospective de 10 ans d’action militante en faveur du Matrimoine.</p>\n\nConditions: Réservation conseillée sur le site de la Ville de Paris",
+      "location_city": "Paris",
+      "location_name": "Hôtel de Ville de Paris",
+      "location_address": "3 rue Lobau 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.352528,
+        "lat": 48.856426
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/af14d65fe3624bab9078d4c694b70007.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "60280226",
+      "title_fr": "Les secrets de l'hôtel particulier du 16 rue de la Faisanderie",
+      "description_fr": "Visite commentée\n\n<p>À l’occasion des Journées européennes du patrimoine, le Musée de la Contrefaçon vous invite à percer les secrets de l'ancien hôtel particulier situé au 16, rue de la Faisanderie.</p>\n<p>Plongez dans l’histoire de ce bâtiment : explorez ses détails architecturaux, découvrez ses anciens propriétaires, et laissez-vous surprendre par l’influence mythologique de sa conception.</p>\n\nConditions: Gratuit. Uniquement sur réservation",
+      "location_city": "Paris",
+      "location_name": "Musée de la Contrefaçon",
+      "location_address": "16 rue de la Faisanderie 75016 Paris",
+      "location_coordinates": {
+        "lon": 2.276777,
+        "lat": 48.870158
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-20T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/bd4905e0f7ed4cb894ac80854ee9fdcd.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "6904334",
+      "title_fr": "Visites virtuelles de l'École militaire de Paris 75007 sur YouTube® et Instagram®.",
+      "description_fr": "Visite virtuelle\n\n<p>Chaque année, 10 000 visiteurs nous font l’honneur de venir visiter l’<strong>École militaire</strong> pour y découvrir son architecture, son patrimoine, ses expositions thématiques, ses animations, ses reconstitutions historiques, etc.<br>Si vous n'avez malheureusement pas le temps cette année de vous déplacer, vous pouvez néanmois visiter <strong>ce lieu d’exception</strong>, et découvrir son <strong>patrimoine historique</strong> unique au travers de <strong>courtes vidéos</strong> sur <strong>YouTube®</strong> et de nombreux <strong>post</strong> sur <strong>Instagram®</strong>.<br><strong>° Retrouvez-nous sur Instgram® :</strong> <a href=\"https://www.instagram.com/ecole.militaire.paris/\">https://www.instagram.com/ecole.militaire.paris</a><br><strong>° Retrouvez-nous sur YouTube® et visionnez les vidéos qui s'enchaînent...</strong><br><a href=\"https://youtube.com/playlist?list=PLBgAnTT4wb9qgnYBFV6snijfJBqLAUgmF&amp;feature=shared\">https://youtube.com/playlist?list=PLBgAnTT4wb9qgnYBFV6snijfJBqLAUgmF&amp;feature=shared</a></p>",
+      "location_city": "Paris",
+      "location_name": "École militaire",
+      "location_address": "1 place Joffre 75007 Paris",
+      "location_coordinates": {
+        "lon": 2.305464,
+        "lat": 48.854108
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/10fcd470d7d143038a997f6ad5d60e03.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "87534919",
+      "title_fr": "Visite commentée des Orgues de Notre-Dame des Blancs-Manteaux",
+      "description_fr": "Visite commentée des Orgues\n\n<p>Le titulaire des Orgues de Notre-Dame des Blancs-Manteaux vous fait une présentation commentée de l'instrument.</p>",
+      "location_city": "Paris",
+      "location_name": "Église Notre-Dame des Blancs Manteaux",
+      "location_address": "12 Rue des Blancs Manteaux, 75004 Paris, France",
+      "location_coordinates": {
+        "lon": 2.357542,
+        "lat": 48.858848
+      },
+      "firstdate_begin": "2025-09-20T14:30:00+00:00",
+      "lastdate_begin": "2025-09-21T14:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e740335544184958bd46b334051b96a0.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "20947265",
+      "title_fr": "Visite libre et jeu découverte",
+      "description_fr": "Visite libre, JP jeu-découverte\n\n<p><strong>Visite libre :</strong> Musée national riche d’une collection de près de 9 000 instruments et œuvres d’art, le Musée de la musique s’inscrit pleinement dans le quotidien de la Philharmonie de Paris. Il conserve l’un des ensembles d’instruments les plus importants au monde, tant du point de vue de la rareté que de la diversité des objets.<br>Le nouveau parcours du Musée, achevé en mai 2025, déploie une vaste histoire de la musique dans le monde, de la fin du XVIe siècle à nos jours. La collection illustre la « modernité » musicale explorée en Europe, depuis la Renaissance jusqu’aux expériences contemporaines et électroniques. Elle souligne en regard la richesse et la vitalité des cultures musicales d’Asie, d’Afrique, d’Océanie et des Amériques.<br><strong>Jeu découverte :</strong> A l’aide de devinettes, retrouvez dans la collection des instruments fabriqués dans des matériaux étonnants.</p>\n\nConditions: Entrée libre dans la limite des places disponibles",
+      "location_city": "Paris",
+      "location_name": "Cité de la musique",
+      "location_address": "221 avenue Jean Jaurès, 75019 Paris, France",
+      "location_coordinates": {
+        "lon": 2.393379,
+        "lat": 48.889546
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e995dc58e32440ac8ee30e9289650f71.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "82025942",
+      "title_fr": "Répétition ouverte : Les Contes d'Hoffmann",
+      "description_fr": "Répétition ouverte \"Les Contes d'Hoffmann\"\n\n<p>Du 25 septembre au 5 octobre, l'Opéra-Comique joue <em>Les Contes d'Hoffmann</em> : la célèbre œuvre d'Offenbach, créée à l'Opéra-Comique en 1881.<br>À l'occasion des Journées européennes du patrimoine, nous vous ouvrons nos portes pour accéder à l'une des dernières répétitions avec l'orchestre !</p>\n\nConditions: gratuit sur réservation",
+      "location_city": "Paris",
+      "location_name": "Théâtre national de l'Opéra-Comique",
+      "location_address": "1 place Boieldieu, 75002 Paris",
+      "location_coordinates": {
+        "lon": 2.337655,
+        "lat": 48.870671
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-20T12:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/d723556d6eb44b12bacd6ab332d2fd71.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "25011",
+      "title_fr": "Visite libre de l'église Sainte-Odile",
+      "description_fr": "Visite libre\n\n<p>Venez à la découverte de cette église classée au Patrimoine du XXe siècle.<br>Sainte-Odile offre une harmonie de style Art Déco tant au niveau architectural que décoratif qui ne vous laissera pas indifférent.<br>Véritable chemin de foi, Sainte-Odile se dévoilera à vous.<br>Les choix architecturaux de Jaques Barge, les verrières colorées de François Décorchemont, les sculptures empreintes de douceur d'Anne-Marie Roux-Colas, le retable en cuivre émaillé, œuvre unique, de Robert Barriot vous guideront sur ce chemin.</p>\n\nConditions: Entrée libre",
+      "location_city": "Paris",
+      "location_name": "Église Sainte-Odile",
+      "location_address": "2 Avenue Stéphane Mallarmé, 75017 Paris, France",
+      "location_coordinates": {
+        "lon": 2.293356,
+        "lat": 48.886946
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-21T12:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/808ca71c99e946b39802a5712eeca82a.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "48672910",
+      "title_fr": "Voyage à travers les décors de cinéma !",
+      "description_fr": "Exposition \"Voyage à travers les décors de cinéma !\"\n\n<p>Une sélection de dessins, photographies, revues d’époque et maquettes donneront un aperçu d’un métier, chef décorateur, et d’une collection exceptionnelle, en mettant l’accent sur les tendances Art déco du décor dans les films des années 1920 et 1930.<br>Représentation de l’architecture au cinéma à travers le film Metropolis de Fritz Lang, la construction des décors en studio et le travail de grands décorateurs comme Alexandre Trauner, Jacques Saulnier et Pierre Guffroy, jusqu’à des réalisations plus récentes de décorateurs contemporains.<br><strong>À la Bibliothèque du film. Samedi de 14h à 18h. Gratuit.</strong></p>\n\nConditions: Gratuit sans réservation.",
+      "location_city": "Paris",
+      "location_name": "Cinémathèque française",
+      "location_address": "51 rue de Bercy, 75012 Paris, France",
+      "location_coordinates": {
+        "lon": 2.382614,
+        "lat": 48.837295
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-20T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/3b6e733b9f3f45779d6bf9f78e161689.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "38116478",
+      "title_fr": "Ensemble Guitare Paris (concert)",
+      "description_fr": "Concert \"Guitare Ensemble Paris\"\n\n<p><strong>Concert de</strong> <strong>\"Guitare Ensemble Paris\"</strong><br>16h - 16h45<br>***<br><strong>Le « Guitare Ensemble Paris »</strong> est un groupe de guitaristes amateurs fondé en 2010 par Lidia Tobola. L’ensemble s’intéresse à la musique espagnole et en particulier aux techniques et aux couleurs du flamenco. Son répertoire parcourt non seulement toute l’histoire de la musique, mais intègre également une sélection de musiques de films et de chansons donnant lieu à la participation occasionnelle de solistes (chant, flûte, harpe et accordéon).<br>En 2019, l’ensemble s’élargit pour inclure un groupe de débutants (du niveau préparatoire).<br>Il est impressionnant de voir comment le « Guitare Ensemble Paris » a grandi au fil des ans et captive aujourd’hui son public, toutes générations confondues, grâce à la volonté de sa cheffe, animée par sa passion inconditionnelle pour l’instrument, l’enseignement et le travail d’ensemble.<br><a href=\"https://guitare-ensemble-paris.fr/\">www.guitare-ensemble-paris.fr</a></p>",
+      "location_city": "Paris",
+      "location_name": "Bibliothèque polonaise de Paris - Musée Adam Mickiewicz - Salon Chopin - Musée Biegas",
+      "location_address": "6 quai d'Orléans 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.355557,
+        "lat": 48.85131
+      },
+      "firstdate_begin": "2025-09-20T14:00:00+00:00",
+      "lastdate_begin": "2025-09-20T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/74ea8bff37334a7891430c28360c1e27.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "57190074",
+      "title_fr": "Circuit dans le riche quartier des Halles",
+      "description_fr": "Circuit commenté \"Le quartier des Halles\"\n\n<p>A la decouverte du quartier des Halles<br>Le parcours permettra entre autres : - D’évoquer son histoire et son évolution - Celle du cimetière des Innocents et le célèbre mange-tout - Les derniers instants d’Henri IV, le pilori - Le puits d’amour - D’admirer la façade de l’église St Eustache - Et de terminer par l’incroyable tour astronomique de Catherine de Médicis et la Halle au blé transformée en musée (extérieur)</p>\n\nConditions: Tarifs :4euros sur place gratuit jusqu'à 15 ans",
+      "location_city": "Paris",
+      "location_name": "Circuit \"quartier des halles\"",
+      "location_address": "RDV sortie RER Porte Berger - Forum des Halles 75001 Paris",
+      "location_coordinates": {
+        "lon": 2.345544,
+        "lat": 48.861528
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-20T14:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/ac47c46dfda94f50871ff089d89d32e4.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "21373754",
+      "title_fr": "Visite guidée de l'immeuble Mouchotte (1965), labellisé ACR et le plus grand immeuble parisien",
+      "description_fr": "Visite guidée de l'immeuble Mouchotte Jean Dubuisson datant de 1965 et labellisé ACR. Ce plus grand immeuble parisien abrite 750 appartements et 2 000 habitants.\n\n<p><strong>Visite guidée de l'immeuble Mouchotte Jean Dubuisson datant de 1965 et labellisé ACR. Ce plus grand immeuble parisien abrite 750 appartements et 2 000 habitants.</strong><br>Visite extérieure de l'immeuble, visite de la toiture terrasse et d'une sélection d'appartements.<br>Ces visites seront précédées par une visite de l'exposition qui se tiendra dans l'immeuble, création de l'opération Maine Montparnasse, films, conception architecturale de l'immeuble, plans, coupes, ...</p>\n\nConditions: Ces visites seront gratuites, par groupe de 12 à 15 personnes",
+      "location_city": "Paris",
+      "location_name": "Immeuble Mouchotte",
+      "location_address": "8 rue du Commandant-René-Mouchotte 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.320851,
+        "lat": 48.839662
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/53e81d91b74d470ebc7d34998a20e332.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "32709786",
+      "title_fr": "Rencontre autour du livre « L’Hôtel de Mercy-Argenteau : un écrin pour l’histoire »",
+      "description_fr": "Rencontre avec l'auteur Léonard Pouy\n\n<p>Poussez les portes de l’Hôtel de Mercy-Argenteau aux côtés de Léonard Pouy et de son ouvrage pour en apprendre plus sur ce joyau architectural parisien, témoin privilégié des grandes heures diplomatiques du xviiie siècle.<br>Lors de cette rencontre, Léonard Pouy dialoguera avec Stéphane Pesnel, Maître de conférences HDR en études germaniques à la Sorbonne Université sur le passé autrichien de l’Hôtel ainsi que sur Marie-Antoinette, figure historique et emblématique à laquelle le grand auteur autrichien Stefan Zweig a consacré une biographie. Ces deux passionnés d'histoire et de littérature vous dévoileront les coulisses de ce patrimoine encore méconnu.<br>Cette conférence est rendue possible grâce à l’aide du Forum Culturel Autrichien Paris.</p>\n\nConditions: Gratuit sur réservation - Ouverture des inscriptions le 8 septembre",
+      "location_city": "Paris",
+      "location_name": "L’École des Arts Joailliers, avec le soutien de Van Cleef & Arpels",
+      "location_address": "16 bis boulevard Montmartre 75009 Paris",
+      "location_coordinates": {
+        "lon": 2.341215,
+        "lat": 48.871951
+      },
+      "firstdate_begin": "2025-09-20T09:00:00+00:00",
+      "lastdate_begin": "2025-09-21T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/be1939c61ef34f6dbb72a63f2a59bb98.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "79411241",
+      "title_fr": "L'ArchéoConcert : le passé a des oreilles à Notre-Dame",
+      "description_fr": "Projection du film immersif \"L'ArchéoConcert\"\n\n<p>Découvrez L'ArchéoConcert, un film immersif qui redonne vie à l’acoustique et à la musique de Notre-Dame à travers les siècles. Doté d'un casque et grâce à un modèle virtuel de la cathédrale, onze œuvres issues de plus de 800 ans d'histoire musicale sont interprétées dans leur acoustique d’origine, enrichies d’images animées et de récits historiques. Un voyage immersif entre science, patrimoine et émotion à Sorbonne Université.</p>\n\nConditions: Nombre de places limité, réservation fortement recommandée - inscription disponible ultérieurement",
+      "location_city": "Paris",
+      "location_name": "Campus Pierre et Marie Curie - Sorbonne Université",
+      "location_address": "4 place Jussieu 75005 Paris",
+      "location_coordinates": {
+        "lon": 2.355164,
+        "lat": 48.846448
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-20T15:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e008ff72f3dc407cb891585d9b68c864.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "55636313",
+      "title_fr": "Peintures murales du XIXe siècle de l'église Saint-Vincent-de-Paul (10e arr.)",
+      "description_fr": "Visite commentée\n\n<p>Cette visite présentera les œuvres de William Bouguereau situées dans la chapelle de la Vierge et leur restauration progressive mise en œuvre depuis trois ans avec le soutien de la Sauvegarde de l’art français.</p>\n<p>Nous vous conseillons de porter une tenue confortable et des chaussures plates. Être en bonne condition physique est également recommandé.</p>\n<p>Événement sur réservation.<br>Les places étant limitées, merci de vous désinscrire si vous ne pouvez finalement pas assurer votre présence à l'événement.<br>Le lieu précis du rendez-vous vous sera communiqué au moment de votre inscription en ligne. Merci d’arriver 10 minutes en avance.<br>Le lien d'inscription sera activé le 10 septembre 2025.</p>\n\nConditions: 12 personnes maximum",
+      "location_city": "Paris",
+      "location_name": "Église Saint-Vincent-De-Paul",
+      "location_address": "Place Franz-Liszt 75010 Paris",
+      "location_coordinates": {
+        "lon": 2.351664,
+        "lat": 48.877918
+      },
+      "firstdate_begin": "2025-09-21T14:00:00+00:00",
+      "lastdate_begin": "2025-09-21T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/bceaf65044ac42db88b4ee9eeacf45d2.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "55522272",
+      "title_fr": "A la découverte du Crédit Municipal de Paris (ancien Mont-de-Piété) - visite libre",
+      "description_fr": "Venez découvrir l'histoire du Crédit Municipal de Paris (ancien Mont-de-Piété) qui existe depuis 1637 et est installé au 55 rue des Francs-Bourgeois depuis 1777 ! Il renferme en son sein un vestige à…\n\n<p>Venez découvrir l'histoire du Crédit Municipal de Paris (ancien Mont-de-Piété) qui existe depuis 1637 et est installé au 55 rue des Francs-Bourgeois depuis 1777 ! Il renferme en son sein un vestige de l'enceinte de Philippe Auguste et la plus grande salle des ventes de Paris. Un voyage dans le temps à la découverte des activités de prêt sur gage, de ventes aux enchères et d'épargne solidaire (entre autres !).<br><strong>Tous les espaces sont en accès libre.</strong><br>Attention : la salle de prêt sur gage n’est accessible que le dimanche. Le samedi est réservé à la clientèle.</p>\n<p><em>Pour découvrir toute la programmation du Crédit Municipal de Paris :</em> <a href=\"https://www.creditmunicipal.fr/le-credit-municipal-de-paris-ouvre-ses-portes-pour-les-journees-du-patrimoine-les-20-et-21-septembre-2025/\">https://www.creditmunicipal.fr/le-credit-municipal-de-paris-ouvre-ses-portes-pour-les-journees-du-patrimoine-les-20-et-21-septembre-2025/</a></p>",
+      "location_city": "Paris",
+      "location_name": "Crédit Municipal de Paris",
+      "location_address": "55 rue des Francs-Bourgeois 75004 Paris",
+      "location_coordinates": {
+        "lon": 2.357539,
+        "lat": 48.859508
+      },
+      "firstdate_begin": "2025-09-20T10:00:00+00:00",
+      "lastdate_begin": "2025-09-21T10:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e6c0762c73d646c4961a9f7d1f0afd30.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "94887700",
+      "title_fr": "Carte Blanche à Bastien Baumet",
+      "description_fr": "Carte blanche à Bastien Baumet, ambassadeur de l’euphonium, entouré de plusieurs artistes pour un programme éclectique. En partenariat avec Buffet Crampon et AJ Atelier des Cuivres.\n\n<p>Carte blanche à Bastien Baumet, ambassadeur de l’euphonium, entouré de plusieurs artistes pour un programme éclectique. En partenariat avec Buffet Crampon et AJ Atelier des Cuivres.</p>\n\nConditions: Libre participation",
+      "location_city": "Paris",
+      "location_name": "Le Pavillon de la Sirène",
+      "location_address": "20 rue Dareau 75014 Paris",
+      "location_coordinates": {
+        "lon": 2.337499,
+        "lat": 48.831347
+      },
+      "firstdate_begin": "2025-09-20T18:00:00+00:00",
+      "lastdate_begin": "2025-09-20T18:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/ba90a951e498433c9ad1ad5851fa908e.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "15803663",
+      "title_fr": "Visite guidée de l'église",
+      "description_fr": "Visite commentée\n\n<p>Visite de l'église avec les bénévoles d'Art, Culture et Foi</p>",
+      "location_city": "Paris",
+      "location_name": "Église Notre-Dame-de-Lorette",
+      "location_address": "18 Rue de Châteaudun, 75009 Paris, France",
+      "location_coordinates": {
+        "lon": 2.338807,
+        "lat": 48.876138
+      },
+      "firstdate_begin": "2025-09-20T14:00:00+00:00",
+      "lastdate_begin": "2025-09-21T14:00:00+00:00",
+      "image": null,
+      "keywords_fr": null
+    },
+    {
+      "uid": "53959226",
+      "title_fr": "Atelier Linogravure et création de maquettes architecturales",
+      "description_fr": "Atelier de linogravure et de maquettes architecturales\n\n<p>Pendant les Journées européennes du patrimoine, les visiteurs et les visiteuses de la galerie Colbert sont invités à participer à des ateliers plastiques, gratuitement et sans réservation organisés par l’association Chercheurs d’Art(chéologie). Ils pourront ainsi s’initier à la technique de la linogravure, ainsi qu’à la création de maquettes architecturales. Ces ateliers sont encadrés par des doctorantes et doctorants des universités partenaires de la galerie Colbert.<br>Intervenants et intervenantes&nbsp;: Hector Chapron, Tara Chapron, Arthur Meeschaert et Alexandra Ramond de l’association Chercheurs d’Art(chéologie)<br>Atelier tous publics par l’association Chercheurs d’Art(chéologie)</p>\n\nConditions: Gratuit, sans réservation",
+      "location_city": "Paris",
+      "location_name": "INHA - Institut national d'histoire de l'art (galerie Colbert)",
+      "location_address": "2 rue Vivienne 75002 Paris",
+      "location_coordinates": {
+        "lon": 2.33883,
+        "lat": 48.866502
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-20T12:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/88c7be80159b410d955d9a7be1eb108c.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "24456171",
+      "title_fr": "A la découverte du modèle Laureato de Girard-Perregaux",
+      "description_fr": "Né en 1975, le style de la Laureato continue de perdurer.\n\n<p>Né en 1975, le style de la Laureato continue de perdurer.<br>Peu après son lancement, la montre a été baptisée « Laureato », en reconnaissance de son succès primé et de son extraordinaire précision. Par coïncidence, la lunette octogonale repose sur le boîtier, comme une couronne de laurier sur la tête d'un lauréat.<br>Dans le cadre des Journées européennes du patrimoine, découvrez l’évolution semi-séculaire d’une icône octogonale qui a révolutionnée le design horloger et la précision. Une conférence animée par Madame Mathilde Graciet, responsable de l’Héritage chez Girard-Perregaux.</p>\n<p>Places limitées, inscription obligatoire<br>Session 1 : 11h15 – 12h15<br>Session 2 : 13h30 – 14h30<br>Session 3 : 15h – 16h<br>Session 4 : 16h30 – 17h30<br>Session 5 : 18h – 19h</p>\n<p>E-mail d’inscription : <a href=\"mailto:evenementparis@bucherer.com\">evenementparis@bucherer.com</a></p>\n\nConditions: Inscription obligatoire par e-mail : evenementparis@bucherer.com",
+      "location_city": "Paris",
+      "location_name": "Bucherer",
+      "location_address": "12 boulevard des Capucines 75009 Paris",
+      "location_coordinates": {
+        "lon": 2.331004,
+        "lat": 48.871008
+      },
+      "firstdate_begin": "2025-09-20T09:15:00+00:00",
+      "lastdate_begin": "2025-09-20T09:15:00+00:00",
+      "image": "https://cdn.openagenda.com/main/8073cdf49aab4ee09bec28cde42f3d3f.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "78932088",
+      "title_fr": "Conférence gemmologie",
+      "description_fr": "Laissez-vous séduire par un voyage au cœur du diamant et des pierres de couleur. Vous y découvrirez une véritable mise en lumière des caractéristiques des pierres de couleur ainsi que les différentes…\n\n<p>Laissez-vous séduire par un voyage au cœur du diamant et des pierres de couleur. Vous y découvrirez une véritable mise en lumière des caractéristiques des pierres de couleur ainsi que les différentes étapes du diamant, de son état brut jusqu'à la pierre taillée.</p>\n<p>Places limitées, inscription obligatoire<br>Session 1 : 11h30 – 12h30<br>Session 2 : 14h – 15h<br>Session 3 : 15h30 – 16h30<br>Session 4 : 17h – 18h</p>\n<p>E-mail d’inscription : <a href=\"mailto:evenementparis@bucherer.com\">evenementparis@bucherer.com</a></p>\n\nConditions: Inscription obligatoire par e-mail : evenementparis@bucherer.com",
+      "location_city": "Paris",
+      "location_name": "Bucherer",
+      "location_address": "12 boulevard des Capucines 75009 Paris",
+      "location_coordinates": {
+        "lon": 2.331004,
+        "lat": 48.871008
+      },
+      "firstdate_begin": "2025-09-20T09:30:00+00:00",
+      "lastdate_begin": "2025-09-20T09:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/28944f350cc54cb38fc6f7f7398a4944.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "71446245",
+      "title_fr": "Visite guidée du Ministère du Travail, de la Santé, des Solidarités et des Familles",
+      "description_fr": "Dans le cadre des Journées européennes du patrimoine, le ministère du Travail, de la Santé et des Solidarités ouvrira exceptionnellement les portes de son site situé au 14 avenue Duquesne, Paris 7e, …\n\n<p>Dans le cadre des Journées européennes du patrimoine, le ministère du Travail, de la Santé et des Solidarités ouvrira exceptionnellement les portes de son site situé au 14 avenue Duquesne, Paris 7e, le samedi 20 septembre 2025, de 10h30 à 17h30.<br>Le parcours proposé permettra aux visiteurs de découvrir un bâtiment emblématique de l’administration centrale, à travers un circuit guidé valorisant son histoire, son architecture et ses usages contemporains. Le site, rénové en profondeur entre 1998 et 2013, s’étend sur 65 000 m² et accueille aujourd’hui près de 2 500 agents.<br>Le circuit de visite inclura notamment :<br>• La salle de conférences de presse, avec une présentation architecturale et historique ;<br>• Le Centre de Ressources Documentaires et Multimédia (CRDM), avec ses espaces remarquables ;<br>• La cour intérieure côté Estrées ;<br>• L’abri anti-aérien, témoin de l’histoire du bâtiment.</p>\n<p>Des départs de visite seront organisés toutes les 30 minutes, avec la possibilité de visites parallèles selon l’affluence. Un dispositif d’accueil, de sécurité et d’accompagnement PMR sera mis en place.<br>Ce site illustre la capacité de l’État à concilier préservation patrimoniale et adaptation aux enjeux contemporains, notamment ceux liés au changement climatique et à l’évolution des usages professionnels.</p>",
+      "location_city": "Paris",
+      "location_name": "Ministère du Travail, de la Santé, des Solidarités et des Familles",
+      "location_address": "14 avenue Duquesne 75007 Paris",
+      "location_coordinates": {
+        "lon": 2.309071,
+        "lat": 48.852135
+      },
+      "firstdate_begin": "2025-09-20T08:30:00+00:00",
+      "lastdate_begin": "2025-09-20T08:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/7b5cd9ed5d5745dea90cbd51ec6e490c.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "73821192",
+      "title_fr": "Visite de la Maison de ventes aux enchères Tajan à Paris",
+      "description_fr": "Landry Orizet, commissaire-priseur, vous invite à plonger dans l’univers captivant de son métier au cœur de l’art et des objets précieux.\n\n<p>Landry Orizet, commissaire-priseur, vous invite à plonger dans l’univers captivant de son métier au cœur de l’art et des objets précieux.<br>Il vous présentera la maison, les différentes facettes de son métier et vous proposera de bénéficier de l’expertise gratuite de professionnels et experts qualifiés pour faire évaluer gracieusement vos œuvres, objets d’Art, bijoux, montres et objets précieux.<br>Lors de cette visite, découvrez deux expositions gratuites : “Les Francs-Tireurs de l’Art”, qui présente une sélection d’œuvres d’Art Brut et autres Outsiders de l’art, ainsi que “Peindre la Littérature”, une exposition dédiée aux nouvelles toiles du peintre Enzo Meglio.</p>",
+      "location_city": "Paris",
+      "location_name": "Tajan - Maison de Ventes aux enchères",
+      "location_address": "37 rue des Mathurins 75008 Paris",
+      "location_coordinates": {
+        "lon": 2.324699,
+        "lat": 48.873243
+      },
+      "firstdate_begin": "2025-09-20T09:00:00+00:00",
+      "lastdate_begin": "2025-09-20T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/852330bb87874763bf8954e968356282.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "17276103",
+      "title_fr": "Atelier en famille - Architecte des mers",
+      "description_fr": "Atelier créatif \"Architecte des mers\"\n\n<p>Découvrez les aménagements d’un célèbre transatlantique : le paquebot <em>France</em>. Comme de véritables architectes d’intérieur, imaginez le décor d’une cabine de paquebot et réalisez une maquette pop-up (art du Kirigami, technique de découpage et de pliage).</p>",
+      "location_city": "Paris",
+      "location_name": "Musée de la marine",
+      "location_address": "17 place du Trocadéro et du Onze Novembre, 75016 Paris, France",
+      "location_coordinates": {
+        "lon": 2.287234,
+        "lat": 48.862153
+      },
+      "firstdate_begin": "2025-09-20T09:30:00+00:00",
+      "lastdate_begin": "2025-09-21T12:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/dbfb6513b6254b96946d6ed363821474.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "39308523",
+      "title_fr": "Du Second Empire au XXIe siècle : l’histoire de l’Orangerie des Tuileries",
+      "description_fr": "Visite commentée l’histoire de l’Orangerie des Tuileries\n\n<p>Construit en 1852, sous le Second Empire, afin d’abriter durant l’hiver les orangers décorant le jardin du palais des Tuileries, l’actuel musée de l’Orangerie a connu plusieurs campagnes de travaux visant à consolider le bâtiment et à le transformer. En 1921, il est affecté au sous-secrétariat d’État aux Beaux-Arts afin d’exposer les artistes vivants. Georges Clemenceau, alors président du Conseil, propose d’y installer le grand ensemble des Nymphéas, chef-d’œuvre qui ouvre de nouvelles voies annonçant le XXe siècle et que Claude Monet a offert à l’État à la fin de la Première Guerre mondiale pour célébrer l’armistice et la paix. Il inaugure le « musée Claude Monet » en 1927, quelques mois après la mort de l’artiste. En 1966, le choix par l’État d’exposer la collection Jean Walter et Paul Guillaume, acquise en 1959 et 1963, donne son aspect définitif au « premier musée d’art français moderne » accessible au public.</p>\n\nConditions: Gratuit, Inscriptions sur place dans la limite des places disponibles, rendez-vous au comptoir d'accueil une demi-heure avant la visite.",
+      "location_city": "Paris",
+      "location_name": "Musée de l'Orangerie des Tuileries",
+      "location_address": "Place de la Concorde, 75001 Paris, France",
+      "location_coordinates": {
+        "lon": 2.322662,
+        "lat": 48.86393
+      },
+      "firstdate_begin": "2025-09-20T09:00:00+00:00",
+      "lastdate_begin": "2025-09-21T13:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/547315ee585b41c0b0488a97063f2642.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "20032934",
+      "title_fr": "Visites guidées du Centre d’Études Picasso",
+      "description_fr": "Visite commentée\n\n<p>Venez découvrir le Centre d'Études Picasso inauguré en décembre 2024 dans les dépendances de l’hôtel de Rohan. Inspirés de l’univers géométrique du cubisme, les espaces dessinés par l’architecte Pascal Grasso proposent un dialogue harmonieux entre mémoire et modernité. Cette visite est l’occasion exceptionnelle de se rendre dans un lieu consacré à l'étude de l'œuvre de Pablo Picasso, habituellement réservé aux chercheurs, et d’observer, en présence du personnel scientifique du musée, des archives sorties spécialement des réserves.</p>\n\nConditions: Rendez-vous au 1, rue des Quatre-Fils, 75003 Paris",
+      "location_city": "Paris",
+      "location_name": "Musée Picasso",
+      "location_address": "5 Rue de Thorigny, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.362517,
+        "lat": 48.859604
+      },
+      "firstdate_begin": "2025-09-20T12:30:00+00:00",
+      "lastdate_begin": "2025-09-20T14:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/e199c7d9c4ca49f685eab4d07e0b0025.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "20781425",
+      "title_fr": "Activité créative \nApprends à travailler le cuir",
+      "description_fr": "Atelier \"Apprends à travailler le cuir\"\n\n<p><strong>Activité créative</strong> <em><strong>Apprends à travailler le cuir</strong></em><br>En famille, les jeunes visiteurs viennent appréhender les techniques de restauration du cuir et pratiquer quelques points sur une pièce à emporter ensuite.<br>Samedi et dimanche à 11h, 13h, 14h30, 16h – salle Niox<br>Pour les 7-12 ans – durée : 1h<br>Groupes de 5 enfants et 5 adultes<br>Réservations : <a href=\"mailto:reservations@musee-armee.fr\">reservations@musee-armee.fr</a> (du 03 au 15/09/25) ou sur place le jour même dans la limite des places disponibles<br>Lieu de rendez-vous : tente d’accueil du Musée située devant la façade nord des Invalides</p>\n\nConditions: Réservation en ligne du 3/09/2025 au 15/09/2025 ; puis sur place le 20 ou 21 septembre 2025 dans la limite des places disponibles (1 enfant accompagné par 1 adulte ; 10 personnes maximum par séance ; enfant 7-12 ans)",
+      "location_city": "Paris",
+      "location_name": "Hôtel des Invalides - Musée de l'armée",
+      "location_address": "129 rue de Grenelle, 75007 Paris, France",
+      "location_coordinates": {
+        "lon": 2.312894,
+        "lat": 48.85819
+      },
+      "firstdate_begin": "2025-09-20T09:00:00+00:00",
+      "lastdate_begin": "2025-09-21T09:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/ff298b75a320428bac5a964c84fcdb06.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "19435620",
+      "title_fr": "Atelier créatif \"Monumental\"",
+      "description_fr": "Atelier créatif \"Monumental\"\n\n<p>Dans cet atelier, petits et grands découvrent les secrets de la sculpture monumentale et à leur tour, construisent et modèlent un monument sculpté.<br>Public : En famille – enfants dès 7 ans<br>Il est conseillé d’apporter une boîte en carton afin de transporter le modelage réalisé.</p>\n<p>Au cours du week-end, de nombreuses activités sont proposées aux petits comme aux grands pour découvrir le musée Bourdelle, son architecture et ses sculptures monumentales. Des ateliers pour les tout-petits (de 2 à 4 ans) leur permettent de créer leur premier mini-relief, des ateliers pour les enfants les invitent à modeler en argile un monument ou une figure mythologique. Les adolescents et adultes ne sont pas en reste. Ils sont invités à parcourir le musée à l’aide d’une lorgnette. Points de vue inattendus garantis !</p>\n\nConditions: Gratuit – Sur réservation par mail à partir du 1er septembre",
+      "location_city": "Paris",
+      "location_name": "Musée Bourdelle",
+      "location_address": "18 Rue Antoine Bourdelle, 75015 Paris, France",
+      "location_coordinates": {
+        "lon": 2.318588,
+        "lat": 48.842975
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T13:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/7a78b18adfd847e0a80b0b81600681f1.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "72899423",
+      "title_fr": "Atelier créatif \"Figures de la mythologie\"",
+      "description_fr": "Atelier créatif \"Figures de la mythologie\"\n\n<p>Lors de la visite du musée, enfants et parents, découvrent les nombreuses figures de la mythologie qui peuplent l’univers de Bourdelle. Puis ils s’initient en atelier à la technique du modelage en réalisant une sculpture en argile d’un personnage mythologique de leur choix.<br>Public : En famille – enfants dès 4 ans<br>Il est conseillé d’apporter une boîte en carton afin de transporter le modelage réalisé.</p>\n<p>Au cours du week-end, de nombreuses activités sont proposées aux petits comme aux grands pour découvrir le musée Bourdelle, son architecture et ses sculptures monumentales. Des ateliers pour les tout-petits (de 2 à 4 ans) leur permettent de créer leur premier mini-relief, des ateliers pour les enfants les invitent à modeler en argile un monument ou une figure mythologique. Les adolescents et adultes ne sont pas en reste. Ils sont invités à parcourir le musée à l’aide d’une lorgnette. Points de vue inattendus garantis !</p>\n\nConditions: Gratuit – Sur réservation par mail à partir du 1er septembre",
+      "location_city": "Paris",
+      "location_name": "Musée Bourdelle",
+      "location_address": "18 Rue Antoine Bourdelle, 75015 Paris, France",
+      "location_coordinates": {
+        "lon": 2.318588,
+        "lat": 48.842975
+      },
+      "firstdate_begin": "2025-09-20T11:00:00+00:00",
+      "lastdate_begin": "2025-09-21T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/8e0940e6a0b644de9add9a710b1412b8.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "10186903",
+      "title_fr": "Le mystère Cléopâtre",
+      "description_fr": "Exposition Cléopâtre\n\n<p><strong>Profitez des Journées européennes du patrimoine pour (re)découvrir l'exposition temporaire \"Le mystère Cléopâtre\" !</strong><br>Figure féminine emblématique, Cléopâtre fascine depuis des siècles. L’exposition de l’Institut du monde arabe explore les multiples visages de cette reine hors norme, entre histoire et légende. Cheffe d’État érudite, stratège politique, incarnation du féminisme avant l’heure, elle inspire artistes et écrivains de l’Antiquité à nos jours. De déesse vénérée à icône de la culture pop, son image n’a cessé d’évoluer, reflétant les enjeux de chaque époque. Une immersion captivante dans le destin d’une femme puissante dont le mythe, toujours vivant, ne cesse d’interroger.</p>\n\nConditions: Billetterie dédiée à venir en septembre.",
+      "location_city": "Paris",
+      "location_name": "Institut du monde arabe",
+      "location_address": "1 Rue des Fossés Saint-Bernard, 75005 Paris, France",
+      "location_coordinates": {
+        "lon": 2.356478,
+        "lat": 48.848979
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/63d43f8577b641eba06ba76008a8dc41.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "38035259",
+      "title_fr": "Atelier défi Kapla !",
+      "description_fr": "Atelier ludique\n\n<p>Kapla, un atelier de construction à grande échelle ! Venez relever le défi et construire bâtiments et maisons tout droit sortis de votre imagination. Cet atelier est proposé en collaboration avec le Centre Kapla de Paris.</p>\n\nConditions: À partir de 7 ans. Présence d'un adulte obligatoire.",
+      "location_city": "Paris",
+      "location_name": "Musée des arts et métiers",
+      "location_address": "60 Rue Réaumur, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.355422,
+        "lat": 48.865711
+      },
+      "firstdate_begin": "2025-09-20T08:00:00+00:00",
+      "lastdate_begin": "2025-09-21T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/0070d7a118774c6982f38f703c4a04d3.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "78678005",
+      "title_fr": "Atelier famille : Au temps des cathédrales",
+      "description_fr": "Atelier créatif\n\n<p>Les enfants accompagnés de leurs parents découvrent, durant cette visite, les secrets des bâtisseurs des cathédrales et le savoir-faire des artisans du Moyen-Âge. En atelier, les enfants réalisent un vitrail en papiers colorés.</p>\n\nConditions: Inscription le jour J à l’accueil du musée. Enfants de 7 à 12 ans.",
+      "location_city": "Paris",
+      "location_name": "Musée des arts et métiers",
+      "location_address": "60 Rue Réaumur, 75003 Paris, France",
+      "location_coordinates": {
+        "lon": 2.355422,
+        "lat": 48.865711
+      },
+      "firstdate_begin": "2025-09-20T12:00:00+00:00",
+      "lastdate_begin": "2025-09-21T14:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/bfe10a7b8996461cb754b1eab2567295.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "54584106",
+      "title_fr": "Fête du Pain - Démonstration des Meilleurs Ouvriers de France",
+      "description_fr": "La Fête du Pain fait son retour pour une 28ème édition, avec pour thème « La Boulangerie, des métiers d’avenir ». La Fête du Pain vise à promouvoir les différents métiers (boulanger, pâtissier, mais …\n\n<p>La Fête du Pain fait son retour pour une 28ème édition, avec pour thème « La Boulangerie, des métiers d’avenir ». La Fête du Pain vise à promouvoir les différents métiers (boulanger, pâtissier, vendeur, tourier, snacking), mais aussi à susciter des vocations et axer sur la formation et le recrutement.<br>La Fête du Pain est un événement national lancé pour la première fois en 1996 à l’initiative de Jean-Pierre Raffarin, Ministre des Petites et Moyennes Entreprises, du Commerce et de l’Artisanat. Elle se tient annuellement. L’objectif : réunir les professionnels et passionnés de bons pain pour rendre hommage aux artisans, à leur investissement quotidien et aux valeurs boulangères.<br>Dans toute la France, de mai à octobre, stands, ateliers de fabrication, dégustations, balades gourmandes, et bien d’autres évènements organisés dans les régions par les groupements professionnels de la boulangerie et les artisans eux-mêmes.<br>À Paris, la Fête du Pain se tiendra du 1er mai au dimanche 11 mai sur le parvis de Notre-Dame-de-Paris, avec le concours national de la meilleure Baguette de tradition française, organisé par la Confédération Nationale de la Boulangerie-Pâtisserie Française, du 6 au 8 mai !<br>Ces animations visent à promouvoir la boulangerie dans un contexte à la fois convivial et éducatif, offrant à chacun l’opportunité de découvrir les savoir-faire, les métiers et les produits boulangers. En résumé, les Fêtes du Pain incarnent la découverte du patrimoine boulanger de nos belles régions.<br>Les Meilleurs Ouvriers de France réaliseront des démonstrations de leurs savoir-faire.</p>",
+      "location_city": "Paris",
+      "location_name": "Parvis de Notre-Dame-de-Paris",
+      "location_address": "Parvis Notre Dame - Place Jean-Paul II",
+      "location_coordinates": {
+        "lon": 2.348075,
+        "lat": 48.853271
+      },
+      "firstdate_begin": "2025-05-01T07:30:00+00:00",
+      "lastdate_begin": "2025-05-01T07:30:00+00:00",
+      "image": "https://cdn.openagenda.com/main/79cec59822d443cdbc869864c1f59762.base.image.jpg",
+      "keywords_fr": null
+    },
+    {
+      "uid": "74600395",
+      "title_fr": "Fête du Pain",
+      "description_fr": "La Fête du Pain fait son retour pour une 28ème édition, avec pour thème « La Boulangerie, des métiers d’avenir ». La Fête du Pain vise à promouvoir les différents métiers (boulanger, pâtissier, mais …\n\n<p>La Fête du Pain fait son retour pour une 28ème édition, avec pour thème « La Boulangerie, des métiers d’avenir ». La Fête du Pain vise à promouvoir les différents métiers (boulanger, pâtissier, vendeur, tourier, snacking), mais aussi à susciter des vocations et axer sur la formation et le recrutement.<br>La Fête du Pain est un événement national lancé pour la première fois en 1996 à l’initiative de Jean-Pierre Raffarin, Ministre des Petites et Moyennes Entreprises, du Commerce et de l’Artisanat. Elle se tient annuellement. L’objectif : réunir les professionnels et passionnés de bons pain pour rendre hommage aux artisans, à leur investissement quotidien et aux valeurs boulangères.<br>Dans toute la France, de mai à octobre, stands, ateliers de fabrication, dégustations, balades gourmandes, et bien d’autres évènements organisés dans les régions par les groupements professionnels de la boulangerie et les artisans eux-mêmes.<br>À Paris, la Fête du Pain se tiendra du 1er mai au dimanche 11 mai sur le parvis de Notre-Dame-de-Paris, avec le concours national de la meilleure Baguette de tradition française, organisé par la Confédération Nationale de la Boulangerie-Pâtisserie Française, du 6 au 8 mai !<br>Ces animations visent à promouvoir la boulangerie dans un contexte à la fois convivial et éducatif, offrant à chacun l’opportunité de découvrir les savoir-faire, les métiers et les produits boulangers. En résumé, les Fêtes du Pain incarnent la découverte du patrimoine boulanger de nos belles régions.</p>\n<p>Démonstrations des équipes Lesaffre sur le thème des Pains du Monde avec la présence de leurs équipes de boulangers Chinois.</p>",
+      "location_city": "Paris",
+      "location_name": "Parvis de Notre-Dame-de-Paris",
+      "location_address": "Parvis Notre Dame - Place Jean-Paul II",
+      "location_coordinates": {
+        "lon": 2.348075,
+        "lat": 48.853271
+      },
+      "firstdate_begin": "2025-05-10T08:00:00+00:00",
+      "lastdate_begin": "2025-05-10T08:00:00+00:00",
+      "image": "https://cdn.openagenda.com/main/dd9928a0d50d4359a66fea542e6c8c8b.base.image.jpg",
+      "keywords_fr": null
     }
   ]
 }

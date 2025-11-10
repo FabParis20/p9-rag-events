@@ -13,21 +13,41 @@ API_URL = "https://data.opendatasoft.com/api/explore/v2.1/catalog/datasets/evene
 
 # Paramètres de la requête
 PARAMS = {
-    "where": 'location_city:"Paris"',  # Filtre sur Paris
-    "limit": 50,                        # Récupérer 50 événements
-    "select": "uid,title_fr,description_fr,longdescription_fr,location_city,location_name,location_address,location_coordinates,firstdate_begin,lastdate_begin,image,keywords_fr"
+    "where": 'location_city:"Paris" AND firstdate_begin >= "2024-11-09T00:00:00"',
+    "limit": 100 #"J'ai limité à 100 événements car c'est la limite maximale par requête de l'API Opendatasoft. En production, on utiliserait la pagination pour récupérer plus d'événements par lots successifs."
 }
 
 
 def transform_event(api_event):
     """
-    Transforme un événement de l'API au format events_dummy.json
-    Gère les champs null
+    Transforme un événement de l'API au format enrichi MVP5
+    Combine description + longdescription + conditions
     """
+    # Récupérer les différents champs textuels
+    description = api_event.get("description_fr", "")
+    long_desc = api_event.get("longdescription_fr", "")
+    conditions = api_event.get("conditions_fr", "")
+    
+    # Combiner intelligemment les textes
+    full_text = description if description else ""
+    
+    if long_desc and long_desc != description:
+        if full_text:
+            full_text += "\n\n" + long_desc
+        else:
+            full_text = long_desc
+    
+    if conditions:
+        full_text += "\n\nConditions: " + conditions
+    
+    # Si aucun texte, message par défaut
+    if not full_text.strip():
+        full_text = "Pas de description disponible"
+    
     return {
         "uid": api_event.get("uid", ""),
         "title_fr": api_event.get("title_fr", "Sans titre"),
-        "description_fr": api_event.get("description_fr") or api_event.get("longdescription_fr") or "Pas de description disponible",
+        "description_fr": full_text,  # ⚠️ Texte enrichi ici
         "location_city": api_event.get("location_city", "Paris"),
         "location_name": api_event.get("location_name", ""),
         "location_address": api_event.get("location_address", ""),

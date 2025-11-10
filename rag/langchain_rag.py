@@ -153,32 +153,21 @@ class PulsEventsRAG:
     
     def _load_vectorstore(self) -> FAISS:
         """
-        Charge le vector store Faiss existant.
+        Charge le vector store Faiss existant (format LangChain MVP5)
         
         Returns:
             FAISS vectorstore
         """
-        index_path = str(self.data_dir / "faiss_index.bin")
-        texts_path = self.data_dir / "indexed_texts.json"
+        index_dir = self.data_dir / "faiss_index"
         
-        # Vérification des fichiers
-        if not Path(index_path).exists():
-            raise FileNotFoundError(f"Index Faiss non trouvé : {index_path}")
-        if not texts_path.exists():
-            raise FileNotFoundError(f"Textes non trouvés : {texts_path}")
+        if not index_dir.exists():
+            raise FileNotFoundError(f"Index introuvable: {index_dir}")
         
-        # Chargement des textes
-        with open(texts_path, encoding='utf-8') as f:
-            texts = json.load(f)
-        
-        print(f"   📄 {len(texts)} événements chargés")
-        
-        # Chargement du vector store avec les embeddings
+        # Charger avec LangChain
         vectorstore = FAISS.load_local(
-            str(self.data_dir),
+            str(index_dir),
             self.embeddings,
-            "faiss_index",
-            allow_dangerous_deserialization=True  # Nécessaire pour Faiss
+            allow_dangerous_deserialization=True
         )
         
         return vectorstore
@@ -190,22 +179,25 @@ class PulsEventsRAG:
         Returns:
             ChatPromptTemplate configuré
         """
-        template = """Tu es un assistant spécialisé dans la recommandation d'événements culturels à Paris.
+        template = """Tu es un assistant spécialisé dans les événements culturels à Paris.
 
-Voici les événements pertinents pour répondre à la question de l'utilisateur :
+    ⚠️ RÈGLE IMPORTANTE : Privilégie TOUJOURS les événements futurs (à venir). 
+    Si tous les événements trouvés sont passés, précise-le clairement à l'utilisateur 
+    en disant "Cet événement a déjà eu lieu le [date]".
 
-{context}
+    Contexte des événements trouvés :
+    {context}
 
-Réponds de manière claire, engageante et concise en recommandant le ou les événements les plus adaptés. 
-Mentionne toujours le titre, le lieu et la date de chaque événement recommandé.
+    Question de l'utilisateur : {question}
 
-Si l'utilisateur fait référence à une conversation précédente, prends en compte l'historique."""
+    Historique de conversation :
+    {chat_history}
 
-        return ChatPromptTemplate.from_messages([
-            ("system", template),
-            MessagesPlaceholder(variable_name="chat_history"),
-            ("human", "{question}")
-        ])
+    Réponds de manière naturelle, chaleureuse et précise. Si tu ne trouves pas d'événement 
+    correspondant, propose des alternatives ou demande des précisions.
+    """
+        
+        return ChatPromptTemplate.from_template(template)
     
     def _format_docs(self, docs) -> str:
         """
@@ -286,42 +278,56 @@ Si l'utilisateur fait référence à une conversation précédente, prends en co
 # FONCTIONS UTILITAIRES
 # ============================================================
 
-def create_vectorstore(source: str = "real", save_dir: str = "data/processed"):
+def create_vectorstore(source="real", save_dir="data/processed"):
     """
-    Crée un nouveau vector store à partir des événements.
-    
-    Fonction utilitaire pour construire l'index initial.
-    
-    Args:
-        source: "dummy" ou "real"
-        save_dir: Dossier de sauvegarde
+    Crée un vectorstore FAISS avec chunking
+    MVP5 : Utilise chunk_event_text pour découper les événements
     """
-    print("🏗️ Création du vector store...")
+    from pathlib import Path
+    try:
+        from data_loader import load_events, chunk_event_text
+    except ImportError:
+        from rag.data_loader import load_events, chunk_event_text
     
-    # Chargement des événements
+    print(f"📚 Chargement des événements (source={source})...")
     events = load_events(source=source)
-    texts = [format_event_for_rag(event) for event in events]
-    print(f"📥 {len(texts)} événements chargés")
+    print(f"✅ {len(events)} événements chargés")
     
-    # Création des embeddings
+    # ⚠️ NOUVEAU MVP5 : Chunking de tous les événements
+    print("✂️ Découpage en chunks...")
+    all_chunks = []
+    for event in events:
+        chunks = chunk_event_text(event)
+        all_chunks.extend(chunks)
+    
+    print(f"✅ {len(all_chunks)} chunks créés (moyenne: {len(all_chunks)/len(events):.1f} chunks/événement)")
+    
+    # Créer les documents LangChain
+    from langchain_core.documents import Document
+    documents = [
+        Document(
+            page_content=chunk["text"],
+            metadata=chunk["metadata"]
+        )
+        for chunk in all_chunks
+    ]
+    
+    # Créer embeddings
+    print("🔢 Création des embeddings...")
     embeddings = VoyageEmbeddings()
     
-    # Création du vector store
-    vectorstore = FAISS.from_texts(
-        texts=texts,
-        embedding=embeddings
-    )
+    # Créer vectorstore
+    print("💾 Création du vectorstore FAISS...")
+    vectorstore = FAISS.from_documents(documents, embeddings)
     
-    # Sauvegarde
+    # Sauvegarder
     save_path = Path(__file__).parent.parent / save_dir
-    vectorstore.save_local(str(save_path), "faiss_index")
+    save_path.mkdir(parents=True, exist_ok=True)
+    vectorstore.save_local(str(save_path / "faiss_index"))
     
-    # Sauvegarde des textes pour référence
-    texts_path = save_path / "indexed_texts.json"
-    with open(texts_path, "w", encoding="utf-8") as f:
-        json.dump(texts, f, ensure_ascii=False, indent=2)
+    print(f"✅ Vectorstore sauvegardé dans {save_path / 'faiss_index'}")
     
-    print(f"✅ Vector store sauvegardé : {save_path}")
+    return vectorstore
 
 
 # ============================================================
