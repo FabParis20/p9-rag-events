@@ -1,0 +1,16 @@
+
+services:
+  puls-events-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      # Monter le dossier data complet (contient faiss_index/)
+      - ./data:/app/data
+    environment:
+      # Variables d'environnement depuis .env
+      - VOYAGE_API_KEY=${VOYAGE_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}
+    env_file:
+      - .env
