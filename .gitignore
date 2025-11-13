@@ -19,3 +19,5 @@ debug_voyage.py
 .vscode/
 .idea/
 *.swp
+
+test_questions.json

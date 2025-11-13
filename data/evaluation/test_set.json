@@ -1,0 +1,69 @@
+{
+  "test_cases": [
+    {
+      "question": "Y a-t-il des concerts prévus à Paris fin 2024 ?",
+      "ground_truth": "Oui, plusieurs concerts sont prévus. Par exemple, le 'Duo Rasa - Musique d'Inde du Nord' se produit au Théâtre Mandapa le 8 décembre 2024, et un concert 'ACHOR AP-HP' a lieu à l'Église Saint-Marcel le 6 décembre 2024.",
+      "contexts": []
+    },
+    {
+      "question": "Je cherche un job dating dans le secteur de l'hôtellerie ou de la restauration.",
+      "ground_truth": "Plusieurs événements de recrutement sont organisés. Un 'JOB DATING Brigade Cuisine Groupe DUCASSE' a lieu le 19 mars 2025 à Paris 15e. Il y a aussi un 'Job Dating ADAGIO' à l'Aparthotel Adagio Paris Reuilly le 21 mars 2025.",
+      "contexts": []
+    },
+    {
+      "question": "Quelles expositions sont prévues pour l'été 2025 ?",
+      "ground_truth": "Vous pourrez voir l'exposition 'Fiesta en Gare' qui présente des photographies de Vincent Rosenblatt à la Gare du Nord à partir du 1er août 2025. Une autre exposition 'Fiesta en Gare' de Charles Fréger sera aussi visible à la Gare Aéroport Charles de Gaulle 2 TGV à la même période.",
+      "contexts": []
+    },
+    {
+      "question": "Y a-t-il des ateliers créatifs pour les familles ou les enfants en 2025 ?",
+      "ground_truth": "Oui, il y a plusieurs ateliers. Par exemple, un 'Stage d'initiation aux échasses' pour les enfants à partir de 7 ans est organisé au Centre Social et Culturel Didot du 21 au 24 juillet 2025. Le Musée de la marine propose aussi un atelier créatif 'Architecte des mers' pour les familles en septembre 2025.",
+      "contexts": []
+    },
+    {
+      "question": "Je cherche des événements sur le thème de l'industrie.",
+      "ground_truth": "Plusieurs événements abordent ce thème. Il y a les 'Conférences du 45ème Forum des Arts et Métiers' au Parc floral le 20 novembre 2024, qui traitent de la réindustrialisation. Il y a aussi un 'Escape Game de l'Industrie' à la Cité des sciences et de l'industrie le 18 novembre 2025.",
+      "contexts": []
+    },
+    {
+      "question": "Que faire gratuitement à Paris le week-end du 20 et 21 septembre 2025 ?",
+      "ground_truth": "Ce week-end correspond aux Journées du Patrimoine, avec de nombreux événements gratuits. Vous pouvez faire une visite architecturale de l'Institut Giacometti, ou assister à une projection de vidéos courtes sur Séville au Collège d'Espagne.",
+      "contexts": []
+    },
+    {
+      "question": "Je cherche un atelier sur l'alimentation ou la cuisine dans le 13e arrondissement.",
+      "ground_truth": "Dans le 13e arrondissement, vous pouvez participer à l'atelier 'Fresque de l'Alimentation' qui a lieu chez les Petites Cantines, 94 Bd Vincent Auriol, le 1er octobre 2025. Il y a aussi 'PLAN Libre', une cantine végétarienne et solidaire au 12 rue Cantagrel.",
+      "contexts": []
+    },
+    {
+      "question": "Quels événements se déroulent à la Cité des sciences et de l'industrie en novembre 2025 ?",
+      "ground_truth": "La Cité des sciences et de l'industrie organise un 'Escape Game de l'Industrie' pour les collégiens et lycéens. Des sessions sont prévues le 18 novembre 2025 à 13h00 et le 19 novembre 2025 à 9h00.",
+      "contexts": []
+    },
+    {
+      "question": "Je cherche un spectacle de théâtre ou une performance pour 2026.",
+      "ground_truth": "Oui, il y a déjà des spectacles programmés pour 2026. La pièce 'Le Roi, la Reine et le Bouffon' sera jouée au Théâtre de la Tempête du 5 au 22 février 2026. Il y a aussi 'LE BALCON : LES LUNDIS MUSICAUX - Reflections' au Théâtre de l'Athénée Louis-Jouvet le 23 février 2026.",
+      "contexts": []
+    },
+    {
+      "question": "Qu'est-ce qui était programmé à Paris le 20 novembre 2024 ?",
+      "ground_truth": "Le 20 novembre 2024, se tenaient les 'Conférences du 45ème Forum des Arts et Métiers' au Parc floral de Vincennes. L'événement incluait des tables rondes sur la réindustrialisation, l'innovation et la durabilité dans l'industrie.",
+      "contexts": []
+    },
+    {
+      "question": "Que se passe-t-il dans la soirée du 17 mai 2025 ?",
+      "ground_truth": "Le 17 mai 2025 correspond à la Nuit européenne des musées. Vous pouvez par exemple assister à la performance 'Chère Melpomène' à l'ENSBA de Paris à 20h et 22h, ou participer à une 'Visite hypnotique' au Musée de la poste avec des sessions jusqu'à 21h00.",
+      "contexts": []
+    },
+    {
+      "question": "Y a-t-il des événements liés à l'agriculture en juin 2025 ?",
+      "ground_truth": "Oui, les 6 et 7 juin 2025, les Journées Nationales de l'Agriculture se tiennent aux Arènes de Lutèce. Vous pourrez y visiter une exposition sur 150 ans d'agriculture vus par la presse et participer à la fresque du 'Mieux manger local'.",
+      "contexts": []
+    },
+    {
+      "question": "Quels événements sont prévus au Musée Bourdelle en septembre 2025 ?",
+      "ground_truth": "Le Musée Bourdelle propose plusieurs ateliers créatifs gratuits pour les Journées du Patrimoine, le week-end du 20-21 septembre 2025. Il y a l'atelier 'Monumental' pour les familles (dès 7 ans) et l'atelier 'Figures de la mythologie' (dès 4 ans), tous deux sur réservation.",
+      "contexts": []
+    }
+  ]
+}

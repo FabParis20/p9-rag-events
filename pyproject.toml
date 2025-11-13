@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "anthropic>=0.72.0",
+    "datasets>=4.4.1",
     "faiss-cpu>=1.12.0",
     "fastapi>=0.121.0",
     "jupyterlab>=4.4.10",
@@ -18,6 +19,7 @@ dependencies = [
     "numpy>=2.3.4",
     "pytest>=9.0.0",
     "python-dotenv>=1.2.1",
+    "ragas>=0.3.8",
     "requests>=2.32.5",
     "sentence-transformers>=5.1.2",
     "uvicorn[standard]>=0.38.0",
