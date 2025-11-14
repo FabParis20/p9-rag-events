@@ -114,11 +114,10 @@ docker-compose run puls-events-api pytest tests/ -v
 uv run python scripts/evaluate_ragas_safe.py
 ```
 
-**Résultats** (13 questions annotées) :
-- **Faithfulness** : 0.545 (fidélité aux documents sources)
-- **Answer Relevancy** : NaN (problème technique identifié)
-- **Context Precision** : 0.111 (précision du retrieval)
-- **Context Recall** : 0.141 (rappel du retrieval)
+**Résultats** (15 questions annotées) :
+- **Faithfulness** : 0.629
+- **Context Precision** : 0.065
+- **Context Recall** : 0.133
 
 **Interprétation** : Le système génère des réponses fidèles aux sources mais le retrieval nécessite optimisation (meilleur chunking, filtrage temporel programmatique).
 
