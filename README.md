@@ -129,7 +129,7 @@ uv run python scripts/evaluate_ragas_safe.py
 |----------|--------------|
 | **Système RAG fonctionnel** | Code complet dans `rag/` et `api/` |
 | **API REST** | `api/main.py` + Docker deployment |
-| **Rapport technique** | `docs/rapport_technique.pdf` |
+| **Rapport technique** | `docs/rapport_technique.md` |
 | **Tests unitaires** | `tests/test_data_loader.py` |
 | **Jeu de test annoté** | `data/evaluation/test_set.json` |
 | **Résultats évaluation** | `data/evaluation/ragas_results.json` |

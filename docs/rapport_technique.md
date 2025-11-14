@@ -243,7 +243,7 @@ Le système est fonctionnel, testé (5 tests pytest + CI/CD), déployable (Docke
 ## Annexes
 
 - **Code source** : https://github.com/FabParis20/p9-rag-events
-- **Architecture UML** : architecture_uml.pdf
+- **Architecture UML** : architecture_uml.png
 - **Jeu de test annoté** : data/evaluation/test_set.json
 - **Résultats Ragas** : data/evaluation/ragas_results.json
 - **Tests unitaires** : tests/test_data_loader.py
