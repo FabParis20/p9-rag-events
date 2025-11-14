@@ -13,7 +13,7 @@ API_URL = "https://data.opendatasoft.com/api/explore/v2.1/catalog/datasets/evene
 
 # Paramètres de la requête
 PARAMS = {
-    "where": 'location_city:"Paris" AND firstdate_begin >= "2024-11-09T00:00:00"',
+    "where": 'location_city:"Paris" AND firstdate_begin >= "2025-10-14T00:00:00"',
     "limit": 100 #"J'ai limité à 100 événements car c'est la limite maximale par requête de l'API Opendatasoft. En production, on utiliserait la pagination pour récupérer plus d'événements par lots successifs."
 }
 
